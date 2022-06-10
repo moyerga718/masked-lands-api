@@ -1,219 +1,233 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "username": "butterBoi718",
-            "email": "griff@griff.gov",
-            "firstName": "Griffin",
-            "lastName": "Moyer"
-        }
-    ],
-    "characters": [
-        {
-            "id": 1,
-            "userId": 1,
-            "name": "Jermaine Jangle",
-            "bio": "A top tier jangler who knows naught but the art bonk",
-            "imageUrl": "https://glamours.eorzeacollection.com/31763/aka-oni-0-1631362283.png",
-            "classId": 1,
-            "weaponId": 5,
-            "armorId": 3
-        }
-    ],
-    "attributes": [
-        {
-            "id": 1,
-            "name": "Strength"
-        },
-        {
-            "id": 2,
-            "name": "Dexterity"
-        },
-        {
-            "id": 3,
-            "name": "Constitution"
-        },
-        {
-            "id": 4,
-            "name": "Intelligence"
-        },
-        {
-            "id": 5,
-            "name": "Attunement"
-        },
-        {
-            "id": 6,
-            "name": "Charisma"
-        }
-    ],
-    "weapons": [
-        {
-            "id": 1,
-            "name": "Hatchet",
-            "attributeId": 1,
-            "damageDie": 4
-        },
-        {
-            "id": 2,
-            "name": "Club",
-            "attributeId": 1,
-            "damageDie": 4
-        },
-        {
-            "id": 3,
-            "name": "Mace",
-            "attributeId": 1,
-            "damageDie": 6
-        },
-        {
-            "id": 4,
-            "name": "Staff",
-            "attributeId": 1,
-            "damageDie": 4
-        },
-        {
-            "id": 5,
-            "name": "Greatclub",
-            "attributeId": 1,
-            "damageDie": 8
-        },
-        {
-            "id": 6,
-            "name": "Dagger",
-            "attributeId": 2,
-            "damageDie": 4
-        },
-        {
-            "id": 7,
-            "name": "Machete",
-            "attributeId": 2,
-            "damageDie": 6
-        },
-        {
-            "id": 8,
-            "name": "Spear",
-            "attributeId": 2,
-            "damageDie": 6
-        }
-    ],
-    "classes": [
-        {
-            "id": 1,
-            "name": "Mercenary",
-            "description": "A master of combat.",
-            "bonusAttributeId": 1,
-            "maxLife": 10,
-            "will": 2,
-            "stamina": 5
-        },
-        {
-            "id": 2,
-            "name": "Outlaw",
-            "description": "A quick, patient, and deadly marksman with a mean-streak and a temper to match.",
-            "bonusAttributeId": 2,
-            "maxLife": 6,
-            "will": 3,
-            "stamina": 4
-        },
-        {
-            "id": 3,
-            "name": "Arcanist",
-            "description": "A deadly fighter whose strength is sourced from their burning blood",
-            "bonusAttributeId": 3,
-            "maxLife": 8,
-            "will": 2,
-            "stamina": 4
-        },
-        {
-            "id": 4,
-            "name": "Tinker",
-            "description": "A craftsman whose artificed wonders and miraculous alchemical compounds are a wonder to behold.",
-            "bonusAttributeId": 4,
-            "maxLife": 6,
-            "will": 4,
-            "stamina": 3
-        },
-        {
-            "id": 5,
-            "name": "Channeler",
-            "description": "The pinnacle of magic",
-            "bonusAttributeId": 5,
-            "maxLife": 4,
-            "will": 5,
-            "stamina": 2
-        },
-        {
-            "id": 6,
-            "name": "Singer",
-            "description": "A charming rogue with a knack for performance and subterfuge.",
-            "bonusAttributeId": 6,
-            "maxLife": 10,
-            "will": 2,
-            "stamina": 5
-        }
-    ],
-    "armor": [
-        {
-            "id": 1,
-            "name": "Travelers Clothes",
-            "defenseRating": 7, 
-            "strengthRequirement": 0
-        },
-        {
-            "id": 2,
-            "name": "Leather Armor",
-            "defenseRating": 11, 
-            "strengthRequirement": 10
-        },
-        {
-            "id": 3,
-            "name": "Armored Duster",
-            "defenseRating": 13, 
-            "strengthRequirement": 12
-        },
-        {
-            "id": 4,
-            "name": "Antique Armor",
-            "defenseRating": 16, 
-            "strengthRequirement": 16
-        }
-    ],
-    "characterAttributes": [
-        {
-            "id": 1,
-            "characterId": 1,
-            "attributeId": 1,
-            "value": 14
-        },
-        {
-            "id": 2,
-            "characterId": 1,
-            "attributeId": 2,
-            "value": 14
-        },
-        {
-            "id": 3,
-            "characterId": 1,
-            "attributeId": 3,
-            "value": 13 
-        },
-        {
-            "id": 4,
-            "characterId": 1,
-            "attributeId": 4,
-            "value": 6 
-        },
-        {
-            "id": 5,
-            "characterId": 1,
-            "attributeId": 5,
-            "value": 7 
-        },
-        {
-            "id": 6,
-            "characterId": 1,
-            "attributeId": 6,
-            "value": 13 
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "username": "butterBoi718",
+      "email": "griff@griff.gov",
+      "firstName": "Griffin",
+      "lastName": "Moyer"
+    },
+    {
+      "username": "jazzMan48",
+      "email": "jazzy@jazzzz",
+      "firstName": "Braden",
+      "lastName": "Brumley",
+      "id": 2
+    },
+    {
+      "username": "jimmyBiscymmmm",
+      "email": "jim@jim.jimmyyyy",
+      "firstName": "Jimmy",
+      "lastName": "Biscuits",
+      "id": 3
+    }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Jermaine Jangle",
+      "bio": "A top tier jangler who knows naught but the art bonk",
+      "imageUrl": "https://glamours.eorzeacollection.com/31763/aka-oni-0-1631362283.png",
+      "classId": 1,
+      "weaponId": 5,
+      "armorId": 3
+    }
+  ],
+  "attributes": [
+    {
+      "id": 1,
+      "name": "Strength"
+    },
+    {
+      "id": 2,
+      "name": "Dexterity"
+    },
+    {
+      "id": 3,
+      "name": "Constitution"
+    },
+    {
+      "id": 4,
+      "name": "Intelligence"
+    },
+    {
+      "id": 5,
+      "name": "Attunement"
+    },
+    {
+      "id": 6,
+      "name": "Charisma"
+    }
+  ],
+  "weapons": [
+    {
+      "id": 1,
+      "name": "Hatchet",
+      "attributeId": 1,
+      "damageDie": 4
+    },
+    {
+      "id": 2,
+      "name": "Club",
+      "attributeId": 1,
+      "damageDie": 4
+    },
+    {
+      "id": 3,
+      "name": "Mace",
+      "attributeId": 1,
+      "damageDie": 6
+    },
+    {
+      "id": 4,
+      "name": "Staff",
+      "attributeId": 1,
+      "damageDie": 4
+    },
+    {
+      "id": 5,
+      "name": "Greatclub",
+      "attributeId": 1,
+      "damageDie": 8
+    },
+    {
+      "id": 6,
+      "name": "Dagger",
+      "attributeId": 2,
+      "damageDie": 4
+    },
+    {
+      "id": 7,
+      "name": "Machete",
+      "attributeId": 2,
+      "damageDie": 6
+    },
+    {
+      "id": 8,
+      "name": "Spear",
+      "attributeId": 2,
+      "damageDie": 6
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "name": "Mercenary",
+      "description": "A master of combat.",
+      "bonusAttributeId": 1,
+      "maxLife": 10,
+      "will": 2,
+      "stamina": 5
+    },
+    {
+      "id": 2,
+      "name": "Outlaw",
+      "description": "A quick, patient, and deadly marksman with a mean-streak and a temper to match.",
+      "bonusAttributeId": 2,
+      "maxLife": 6,
+      "will": 3,
+      "stamina": 4
+    },
+    {
+      "id": 3,
+      "name": "Arcanist",
+      "description": "A deadly fighter whose strength is sourced from their burning blood",
+      "bonusAttributeId": 3,
+      "maxLife": 8,
+      "will": 2,
+      "stamina": 4
+    },
+    {
+      "id": 4,
+      "name": "Tinker",
+      "description": "A craftsman whose artificed wonders and miraculous alchemical compounds are a wonder to behold.",
+      "bonusAttributeId": 4,
+      "maxLife": 6,
+      "will": 4,
+      "stamina": 3
+    },
+    {
+      "id": 5,
+      "name": "Channeler",
+      "description": "The pinnacle of magic",
+      "bonusAttributeId": 5,
+      "maxLife": 4,
+      "will": 5,
+      "stamina": 2
+    },
+    {
+      "id": 6,
+      "name": "Singer",
+      "description": "A charming rogue with a knack for performance and subterfuge.",
+      "bonusAttributeId": 6,
+      "maxLife": 10,
+      "will": 2,
+      "stamina": 5
+    }
+  ],
+  "armor": [
+    {
+      "id": 1,
+      "name": "Travelers Clothes",
+      "defenseRating": 7,
+      "strengthRequirement": 0
+    },
+    {
+      "id": 2,
+      "name": "Leather Armor",
+      "defenseRating": 11,
+      "strengthRequirement": 10
+    },
+    {
+      "id": 3,
+      "name": "Armored Duster",
+      "defenseRating": 13,
+      "strengthRequirement": 12
+    },
+    {
+      "id": 4,
+      "name": "Antique Armor",
+      "defenseRating": 16,
+      "strengthRequirement": 16
+    }
+  ],
+  "characterAttributes": [
+    {
+      "id": 1,
+      "characterId": 1,
+      "attributeId": 1,
+      "value": 14
+    },
+    {
+      "id": 2,
+      "characterId": 1,
+      "attributeId": 2,
+      "value": 14
+    },
+    {
+      "id": 3,
+      "characterId": 1,
+      "attributeId": 3,
+      "value": 13
+    },
+    {
+      "id": 4,
+      "characterId": 1,
+      "attributeId": 4,
+      "value": 6
+    },
+    {
+      "id": 5,
+      "characterId": 1,
+      "attributeId": 5,
+      "value": 7
+    },
+    {
+      "id": 6,
+      "characterId": 1,
+      "attributeId": 6,
+      "value": 13
+    }
+  ]
 }
