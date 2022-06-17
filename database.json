@@ -2,21 +2,21 @@
   "users": [
     {
       "id": 1,
-      "username": "butterBoi718",
+      "username": "ButterBoi718",
       "email": "griff@griff.gov",
-      "firstName": "Griffin",
+      "firstName": "Jeff",
       "lastName": "Moyer"
     },
     {
-      "username": "jazzMan48",
-      "email": "jazzy@jazzzz",
+      "username": "BradensJazz",
+      "email": "jazzy@jazz.com",
       "firstName": "Braden",
       "lastName": "Brumley",
       "id": 2
     },
     {
-      "username": "jimmyBiscymmmm",
-      "email": "jim@jim.jimmyyyy",
+      "username": "JimmyBiscuits900",
+      "email": "jim@biscuits.net",
       "firstName": "Jimmy",
       "lastName": "Biscuits",
       "id": 3
@@ -27,8 +27,9 @@
       "id": 1,
       "userId": 1,
       "name": "Jermaine Jangle",
-      "bio": "A top tier jangler who knows naught but the art bonk",
+      "bio": "A top tier jangler who knows naught but the art of bonk",
       "imageUrl": "https://glamours.eorzeacollection.com/31763/aka-oni-0-1631362283.png",
+      "speciesId": 3,
       "classId": 1,
       "weaponId": 5,
       "armorId": 3
@@ -108,6 +109,44 @@
       "name": "Spear",
       "attributeId": 2,
       "damageDie": 6
+    }
+  ],
+  "species": [
+    {
+      "id": 1,
+      "name": "Jelid",
+      "description": "The chosen people of Escritorio",
+      "speed": 30
+    },
+    {
+      "id": 2,
+      "name": "Arenite",
+      "description": "An old and proud race of wanderers, originating from the dry, grassy island of Arkose",
+      "speed": 30
+    },
+    {
+      "id": 3,
+      "name": "Goge",
+      "description": "Good and big, the Goge are a hardy people who have made their home in Goge's Staircase",
+      "speed": 30
+    },
+    {
+      "id": 4,
+      "name": "Haima",
+      "description": "Short... pasty... portly... the life of the party? No one makes a better entertainer (or businessman) than a Haima",
+      "speed": 25
+    },
+    {
+      "id": 5,
+      "name": "El Dun",
+      "description": "What they don't have in size, El-Dun make up for in brain power. Need something fixed? Find an El-Dun",
+      "speed": 25
+    },
+    {
+      "id": 6,
+      "name": "Vir",
+      "description": "Instantly recognizable with grey ashen skin and snow white hair, the Vir are an ancient race dedicated to fervent worship of the Circle",
+      "speed": 30
     }
   ],
   "classes": [
