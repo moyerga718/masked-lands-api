@@ -30,10 +30,46 @@
       "bio": "A top tier jangler who knows naught but the art of bonk",
       "imageUrl": "https://glamours.eorzeacollection.com/31763/aka-oni-0-1631362283.png",
       "speciesId": 3,
-      "backgroundId": 3,
+      "backgroundId": 14,
       "classId": 1,
       "weaponId": 5,
       "armorId": 3
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "el dun test",
+      "bio": "testt",
+      "imageUrl": "asdfklj",
+      "speciesId": 4,
+      "backgroundId": 16,
+      "classId": 4,
+      "weaponId": 5,
+      "armorId": 4
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "name": "please",
+      "bio": "work",
+      "imageUrl": "a;kdsjf",
+      "speciesId": 1,
+      "backgroundId": 1,
+      "classId": 1,
+      "weaponId": 4,
+      "armorId": 3
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "name": "Vir test",
+      "bio": "sakdf",
+      "imageUrl": "akdsf",
+      "speciesId": 5,
+      "backgroundId": 24,
+      "classId": 2,
+      "weaponId": 3,
+      "armorId": 4
     }
   ],
   "attributes": [
@@ -258,7 +294,7 @@
       "name": "Islander"
     },
     {
-      "id":21 ,
+      "id": 21,
       "speciesId": 5,
       "name": "Citizen"
     },
@@ -308,7 +344,6 @@
       "name": "Islander"
     }
   ],
-
   "classes": [
     {
       "id": 1,
@@ -427,6 +462,114 @@
       "characterId": 1,
       "attributeId": 6,
       "value": 13
+    },
+    {
+      "attributeId": 1,
+      "characterId": 3,
+      "value": 14,
+      "id": 8
+    },
+    {
+      "attributeId": 2,
+      "characterId": 3,
+      "value": 9,
+      "id": 9
+    },
+    {
+      "attributeId": 3,
+      "characterId": 3,
+      "value": 14,
+      "id": 10
+    },
+    {
+      "attributeId": 4,
+      "characterId": 3,
+      "value": 13,
+      "id": 11
+    },
+    {
+      "attributeId": 5,
+      "characterId": 3,
+      "value": 13,
+      "id": 12
+    },
+    {
+      "attributeId": 6,
+      "characterId": 3,
+      "value": 9,
+      "id": 13
+    },
+    {
+      "attributeId": 1,
+      "characterId": 4,
+      "value": 10,
+      "id": 14
+    },
+    {
+      "attributeId": 2,
+      "characterId": 4,
+      "value": 10,
+      "id": 15
+    },
+    {
+      "attributeId": 3,
+      "characterId": 4,
+      "value": 8,
+      "id": 16
+    },
+    {
+      "attributeId": 4,
+      "characterId": 4,
+      "value": 17,
+      "id": 17
+    },
+    {
+      "attributeId": 6,
+      "characterId": 4,
+      "value": 9,
+      "id": 18
+    },
+    {
+      "attributeId": 5,
+      "characterId": 4,
+      "value": 12,
+      "id": 19
+    },
+    {
+      "attributeId": 1,
+      "characterId": 5,
+      "value": 12,
+      "id": 20
+    },
+    {
+      "attributeId": 4,
+      "characterId": 5,
+      "value": 12,
+      "id": 21
+    },
+    {
+      "attributeId": 5,
+      "characterId": 5,
+      "value": 17,
+      "id": 22
+    },
+    {
+      "attributeId": 2,
+      "characterId": 5,
+      "value": 17,
+      "id": 23
+    },
+    {
+      "attributeId": 3,
+      "characterId": 5,
+      "value": 13,
+      "id": 24
+    },
+    {
+      "attributeId": 6,
+      "characterId": 5,
+      "value": 12,
+      "id": 25
     }
   ]
 }
