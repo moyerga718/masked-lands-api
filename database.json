@@ -4,7 +4,7 @@
       "id": 1,
       "username": "ButterBoi718",
       "email": "griff@griff.gov",
-      "firstName": "Jeff",
+      "firstName": "Griffin",
       "lastName": "Moyer"
     },
     {
@@ -32,6 +32,39 @@
       "speciesId": 3,
       "classId": 1,
       "weaponId": 5,
+      "armorId": 3
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "Gogeo",
+      "bio": "Big boi",
+      "imageUrl": "alksdf",
+      "speciesId": 3,
+      "classId": 3,
+      "weaponId": 8,
+      "armorId": 3
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "robbie",
+      "bio": "robert",
+      "imageUrl": "aklsdf",
+      "speciesId": 4,
+      "classId": 4,
+      "weaponId": 7,
+      "armorId": 4
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "name": "Stevieee",
+      "bio": "good guy",
+      "imageUrl": "l;ajsdf",
+      "speciesId": 1,
+      "classId": 1,
+      "weaponId": 7,
       "armorId": 3
     }
   ],
@@ -114,39 +147,45 @@
   "species": [
     {
       "id": 1,
-      "name": "Jelid",
-      "description": "The chosen people of Escritorio",
+      "name": "Arenite",
+      "description": "An old and proud race of wanderers, originating from the dry, grassy island of Arkose",
+      "mainAttributeId": 1,
       "speed": 30
     },
     {
       "id": 2,
-      "name": "Arenite",
-      "description": "An old and proud race of wanderers, originating from the dry, grassy island of Arkose",
+      "name": "Jelid",
+      "description": "The chosen people of Escritorio",
+      "mainAttributeId": 2,
       "speed": 30
     },
     {
       "id": 3,
       "name": "Goge",
       "description": "Good and big, the Goge are a hardy people who have made their home in Goge's Staircase",
+      "mainAttributeId": 3,
       "speed": 30
     },
     {
       "id": 4,
-      "name": "Haima",
-      "description": "Short... pasty... portly... the life of the party? No one makes a better entertainer (or businessman) than a Haima",
+      "name": "El Dun",
+      "description": "What they don't have in size, El-Dun make up for in brain power. Need something fixed? Find an El-Dun",
+      "mainAttributeId": 4,
       "speed": 25
     },
     {
       "id": 5,
-      "name": "El Dun",
-      "description": "What they don't have in size, El-Dun make up for in brain power. Need something fixed? Find an El-Dun",
-      "speed": 25
+      "name": "Vir",
+      "description": "Instantly recognizable with grey ashen skin and snow white hair, the Vir are an ancient race dedicated to fervent worship of the Circle",
+      "mainAttributeId": 5,
+      "speed": 30
     },
     {
       "id": 6,
-      "name": "Vir",
-      "description": "Instantly recognizable with grey ashen skin and snow white hair, the Vir are an ancient race dedicated to fervent worship of the Circle",
-      "speed": 30
+      "name": "Haima",
+      "description": "Short... pasty... portly... the life of the party? No one makes a better entertainer (or businessman) than a Haima",
+      "mainAttributeId": 6,
+      "speed": 25
     }
   ],
   "classes": [
@@ -267,6 +306,108 @@
       "characterId": 1,
       "attributeId": 6,
       "value": 13
+    },
+    {
+      "attributeId": 2,
+      "characterId": 2,
+      "value": 9,
+      "id": 7
+    },
+    {
+      "attributeId": 3,
+      "characterId": 2,
+      "value": 12,
+      "id": 8
+    },
+    {
+      "attributeId": 4,
+      "characterId": 2,
+      "value": 11,
+      "id": 9
+    },
+    {
+      "attributeId": 5,
+      "characterId": 2,
+      "value": 12,
+      "id": 10
+    },
+    {
+      "attributeId": 6,
+      "characterId": 2,
+      "value": 11,
+      "id": 11
+    },
+    {
+      "attributeId": 5,
+      "characterId": 3,
+      "value": 9,
+      "id": 12
+    },
+    {
+      "attributeId": 1,
+      "characterId": 3,
+      "value": 13,
+      "id": 13
+    },
+    {
+      "attributeId": 2,
+      "characterId": 3,
+      "value": 16,
+      "id": 14
+    },
+    {
+      "attributeId": 3,
+      "characterId": 3,
+      "value": 14,
+      "id": 15
+    },
+    {
+      "attributeId": 4,
+      "characterId": 3,
+      "value": 17,
+      "id": 16
+    },
+    {
+      "attributeId": 6,
+      "characterId": 3,
+      "value": 13,
+      "id": 17
+    },
+    {
+      "attributeId": 1,
+      "characterId": 4,
+      "value": 13,
+      "id": 18
+    },
+    {
+      "attributeId": 2,
+      "characterId": 4,
+      "value": 11,
+      "id": 19
+    },
+    {
+      "attributeId": 3,
+      "characterId": 4,
+      "value": 11,
+      "id": 20
+    },
+    {
+      "attributeId": 4,
+      "characterId": 4,
+      "value": 8,
+      "id": 21
+    },
+    {
+      "attributeId": 5,
+      "characterId": 4,
+      "value": 8,
+      "id": 22
+    },
+    {
+      "attributeId": 6,
+      "characterId": 4,
+      "value": 8,
+      "id": 23
     }
   ]
 }
