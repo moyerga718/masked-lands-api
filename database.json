@@ -30,41 +30,9 @@
       "bio": "A top tier jangler who knows naught but the art of bonk",
       "imageUrl": "https://glamours.eorzeacollection.com/31763/aka-oni-0-1631362283.png",
       "speciesId": 3,
+      "backgroundId": 3,
       "classId": 1,
       "weaponId": 5,
-      "armorId": 3
-    },
-    {
-      "id": 2,
-      "userId": 1,
-      "name": "Gogeo",
-      "bio": "Big boi",
-      "imageUrl": "alksdf",
-      "speciesId": 3,
-      "classId": 3,
-      "weaponId": 8,
-      "armorId": 3
-    },
-    {
-      "id": 3,
-      "userId": 1,
-      "name": "robbie",
-      "bio": "robert",
-      "imageUrl": "aklsdf",
-      "speciesId": 4,
-      "classId": 4,
-      "weaponId": 7,
-      "armorId": 4
-    },
-    {
-      "id": 4,
-      "userId": 1,
-      "name": "Stevieee",
-      "bio": "good guy",
-      "imageUrl": "l;ajsdf",
-      "speciesId": 1,
-      "classId": 1,
-      "weaponId": 7,
       "armorId": 3
     }
   ],
@@ -188,6 +156,159 @@
       "speed": 25
     }
   ],
+  "backgrounds": [
+    {
+      "id": 1,
+      "speciesId": 1,
+      "name": "Nomad"
+    },
+    {
+      "id": 2,
+      "speciesId": 1,
+      "name": "Mercenary"
+    },
+    {
+      "id": 3,
+      "speciesId": 1,
+      "name": "Immigrant"
+    },
+    {
+      "id": 4,
+      "speciesId": 1,
+      "name": "Rancher"
+    },
+    {
+      "id": 5,
+      "speciesId": 1,
+      "name": "Islander"
+    },
+    {
+      "id": 6,
+      "speciesId": 2,
+      "name": "Citizen"
+    },
+    {
+      "id": 7,
+      "speciesId": 2,
+      "name": "Wanderer"
+    },
+    {
+      "id": 8,
+      "speciesId": 2,
+      "name": "Tribal"
+    },
+    {
+      "id": 9,
+      "speciesId": 2,
+      "name": "Storyteller"
+    },
+    {
+      "id": 10,
+      "speciesId": 2,
+      "name": "Islander"
+    },
+    {
+      "id": 11,
+      "speciesId": 3,
+      "name": "Veteran"
+    },
+    {
+      "id": 12,
+      "speciesId": 3,
+      "name": "Citizen"
+    },
+    {
+      "id": 13,
+      "speciesId": 3,
+      "name": "Thug"
+    },
+    {
+      "id": 14,
+      "speciesId": 3,
+      "name": "Craftsman"
+    },
+    {
+      "id": 15,
+      "speciesId": 3,
+      "name": "Islander"
+    },
+    {
+      "id": 16,
+      "speciesId": 4,
+      "name": "Academic"
+    },
+    {
+      "id": 17,
+      "speciesId": 4,
+      "name": "Sailor"
+    },
+    {
+      "id": 18,
+      "speciesId": 4,
+      "name": "Criminal"
+    },
+    {
+      "id": 19,
+      "speciesId": 4,
+      "name": "Citizen"
+    },
+    {
+      "id": 20,
+      "speciesId": 4,
+      "name": "Islander"
+    },
+    {
+      "id":21 ,
+      "speciesId": 5,
+      "name": "Citizen"
+    },
+    {
+      "id": 22,
+      "speciesId": 5,
+      "name": "Evangelist"
+    },
+    {
+      "id": 23,
+      "speciesId": 5,
+      "name": "Refugee"
+    },
+    {
+      "id": 24,
+      "speciesId": 5,
+      "name": "Criminal"
+    },
+    {
+      "id": 25,
+      "speciesId": 5,
+      "name": "Islander"
+    },
+    {
+      "id": 26,
+      "speciesId": 6,
+      "name": "Merchant"
+    },
+    {
+      "id": 27,
+      "speciesId": 6,
+      "name": "Refugee"
+    },
+    {
+      "id": 28,
+      "speciesId": 6,
+      "name": "Veteran"
+    },
+    {
+      "id": 29,
+      "speciesId": 6,
+      "name": "Spy"
+    },
+    {
+      "id": 30,
+      "speciesId": 6,
+      "name": "Islander"
+    }
+  ],
+
   "classes": [
     {
       "id": 1,
@@ -306,108 +427,6 @@
       "characterId": 1,
       "attributeId": 6,
       "value": 13
-    },
-    {
-      "attributeId": 2,
-      "characterId": 2,
-      "value": 9,
-      "id": 7
-    },
-    {
-      "attributeId": 3,
-      "characterId": 2,
-      "value": 12,
-      "id": 8
-    },
-    {
-      "attributeId": 4,
-      "characterId": 2,
-      "value": 11,
-      "id": 9
-    },
-    {
-      "attributeId": 5,
-      "characterId": 2,
-      "value": 12,
-      "id": 10
-    },
-    {
-      "attributeId": 6,
-      "characterId": 2,
-      "value": 11,
-      "id": 11
-    },
-    {
-      "attributeId": 5,
-      "characterId": 3,
-      "value": 9,
-      "id": 12
-    },
-    {
-      "attributeId": 1,
-      "characterId": 3,
-      "value": 13,
-      "id": 13
-    },
-    {
-      "attributeId": 2,
-      "characterId": 3,
-      "value": 16,
-      "id": 14
-    },
-    {
-      "attributeId": 3,
-      "characterId": 3,
-      "value": 14,
-      "id": 15
-    },
-    {
-      "attributeId": 4,
-      "characterId": 3,
-      "value": 17,
-      "id": 16
-    },
-    {
-      "attributeId": 6,
-      "characterId": 3,
-      "value": 13,
-      "id": 17
-    },
-    {
-      "attributeId": 1,
-      "characterId": 4,
-      "value": 13,
-      "id": 18
-    },
-    {
-      "attributeId": 2,
-      "characterId": 4,
-      "value": 11,
-      "id": 19
-    },
-    {
-      "attributeId": 3,
-      "characterId": 4,
-      "value": 11,
-      "id": 20
-    },
-    {
-      "attributeId": 4,
-      "characterId": 4,
-      "value": 8,
-      "id": 21
-    },
-    {
-      "attributeId": 5,
-      "characterId": 4,
-      "value": 8,
-      "id": 22
-    },
-    {
-      "attributeId": 6,
-      "characterId": 4,
-      "value": 8,
-      "id": 23
     }
   ]
 }
