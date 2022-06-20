@@ -94,6 +94,66 @@
       "classId": 3,
       "weaponId": 3,
       "armorId": 4
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "name": "Jelid test",
+      "bio": "jelid test",
+      "imageUrl": "asdf",
+      "speciesId": 2,
+      "backgroundId": 9,
+      "classId": 6,
+      "weaponId": 4,
+      "armorId": 3
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "name": "test",
+      "bio": "test",
+      "imageUrl": "test",
+      "speciesId": 5,
+      "backgroundId": 23,
+      "classId": 5,
+      "weaponId": 5,
+      "armorId": 3
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "name": "att test",
+      "bio": "asfjk",
+      "imageUrl": "asdf",
+      "speciesId": 2,
+      "backgroundId": 7,
+      "classId": 2,
+      "weaponId": 4,
+      "armorId": 4
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "name": "another att test",
+      "bio": "askdfl",
+      "imageUrl": "asdf",
+      "speciesId": 1,
+      "backgroundId": 4,
+      "classId": 2,
+      "weaponId": 7,
+      "armorId": 3
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "name": "Jelid att test",
+      "bio": "alkjsf",
+      "imageUrl": "a;lkjsf",
+      "speciesId": 2,
+      "backgroundId": 7,
+      "classId": 5,
+      "weaponId": 4,
+      "armorId": 2
     }
   ],
   "attributes": [
@@ -1100,6 +1160,186 @@
       "characterId": 7,
       "value": 13,
       "id": 37
+    },
+    {
+      "attributeId": 4,
+      "characterId": 8,
+      "value": 8,
+      "id": 38
+    },
+    {
+      "attributeId": 1,
+      "characterId": 8,
+      "value": 11,
+      "id": 39
+    },
+    {
+      "attributeId": 2,
+      "characterId": 8,
+      "value": 13,
+      "id": 40
+    },
+    {
+      "attributeId": 3,
+      "characterId": 8,
+      "value": 11,
+      "id": 41
+    },
+    {
+      "attributeId": 6,
+      "characterId": 8,
+      "value": 15,
+      "id": 42
+    },
+    {
+      "attributeId": 5,
+      "characterId": 8,
+      "value": 13,
+      "id": 43
+    },
+    {
+      "attributeId": 1,
+      "characterId": 9,
+      "value": 12,
+      "id": 44
+    },
+    {
+      "attributeId": 2,
+      "characterId": 9,
+      "value": 10,
+      "id": 45
+    },
+    {
+      "attributeId": 3,
+      "characterId": 9,
+      "value": 13,
+      "id": 46
+    },
+    {
+      "attributeId": 4,
+      "characterId": 9,
+      "value": 11,
+      "id": 47
+    },
+    {
+      "attributeId": 5,
+      "characterId": 9,
+      "value": 18,
+      "id": 48
+    },
+    {
+      "attributeId": 6,
+      "characterId": 9,
+      "value": 14,
+      "id": 49
+    },
+    {
+      "attributeId": 1,
+      "characterId": 10,
+      "value": 16,
+      "id": 50
+    },
+    {
+      "attributeId": 3,
+      "characterId": 10,
+      "value": 11,
+      "id": 51
+    },
+    {
+      "attributeId": 2,
+      "characterId": 10,
+      "value": 12,
+      "id": 52
+    },
+    {
+      "attributeId": 4,
+      "characterId": 10,
+      "value": 14,
+      "id": 53
+    },
+    {
+      "attributeId": 5,
+      "characterId": 10,
+      "value": 8,
+      "id": 54
+    },
+    {
+      "attributeId": 6,
+      "characterId": 10,
+      "value": 13,
+      "id": 55
+    },
+    {
+      "attributeId": 1,
+      "characterId": 11,
+      "value": 13,
+      "id": 56
+    },
+    {
+      "attributeId": 2,
+      "characterId": 11,
+      "value": 16,
+      "id": 57
+    },
+    {
+      "attributeId": 4,
+      "characterId": 11,
+      "value": 13,
+      "id": 58
+    },
+    {
+      "attributeId": 3,
+      "characterId": 11,
+      "value": 8,
+      "id": 59
+    },
+    {
+      "attributeId": 5,
+      "characterId": 11,
+      "value": 7,
+      "id": 60
+    },
+    {
+      "attributeId": 6,
+      "characterId": 11,
+      "value": 11,
+      "id": 61
+    },
+    {
+      "attributeId": 1,
+      "characterId": 12,
+      "value": 11,
+      "id": 62
+    },
+    {
+      "attributeId": 2,
+      "characterId": 12,
+      "value": 15,
+      "id": 63
+    },
+    {
+      "attributeId": 3,
+      "characterId": 12,
+      "value": 11,
+      "id": 64
+    },
+    {
+      "attributeId": 4,
+      "characterId": 12,
+      "value": 7,
+      "id": 65
+    },
+    {
+      "attributeId": 5,
+      "characterId": 12,
+      "value": 12,
+      "id": 66
+    },
+    {
+      "attributeId": 6,
+      "characterId": 12,
+      "value": 8,
+      "id": 67
     }
   ]
 }
