@@ -32,8 +32,22 @@
       "speciesId": 3,
       "backgroundId": 14,
       "classId": 1,
+      "subclassId": 2,
       "weaponId": 5,
       "armorId": 3
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "subclass test ",
+      "bio": "test ",
+      "imageUrl": "test",
+      "speciesId": 2,
+      "backgroundId": 8,
+      "classId": 5,
+      "subclassId": 12,
+      "weaponId": 4,
+      "armorId": 4
     }
   ],
   "attributes": [
@@ -397,7 +411,7 @@
       "life": 6,
       "will": 3,
       "willPerLevel": 1,
-      "stamina":4 ,
+      "stamina": 4,
       "staminaPerLevel": 2,
       "devotionPoints": 2
     },
@@ -546,7 +560,6 @@
       "devotionPoints": 3
     }
   ],
-
   "backgroundAttributeBonuses": [
     {
       "id": 1,
@@ -1043,6 +1056,42 @@
       "characterId": 1,
       "attributeId": 6,
       "value": 13
+    },
+    {
+      "attributeId": 1,
+      "characterId": 2,
+      "value": 17,
+      "id": 7
+    },
+    {
+      "attributeId": 2,
+      "characterId": 2,
+      "value": 17,
+      "id": 8
+    },
+    {
+      "attributeId": 3,
+      "characterId": 2,
+      "value": 10,
+      "id": 9
+    },
+    {
+      "attributeId": 5,
+      "characterId": 2,
+      "value": 12,
+      "id": 10
+    },
+    {
+      "attributeId": 4,
+      "characterId": 2,
+      "value": 9,
+      "id": 11
+    },
+    {
+      "attributeId": 6,
+      "characterId": 2,
+      "value": 11,
+      "id": 12
     }
   ]
 }
