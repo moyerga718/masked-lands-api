@@ -34,6 +34,8 @@
       "classId": 1,
       "weaponId": 5,
       "armorId": 3
+<<<<<<< HEAD
+=======
     },
     {
       "id": 3,
@@ -154,6 +156,7 @@
       "classId": 5,
       "weaponId": 4,
       "armorId": 2
+>>>>>>> b5463432c884b9e7d6fc56e30b95b35f4b8f952b
     }
   ],
   "attributes": [
@@ -484,6 +487,189 @@
       "stamina": 5
     }
   ],
+  "subclasses": [
+    {
+      "id": 1,
+      "classId": 1,
+      "name": "Mercenary",
+      "hitDie": 10,
+      "life": 10,
+      "will": 2,
+      "willPerLevel": 1,
+      "stamina": 5,
+      "staminaPerLevel": 3,
+      "devotionPoints": 1
+    },
+    {
+      "id": 2,
+      "classId": 1,
+      "name": "Paladin",
+      "hitDie": 8,
+      "life": 8,
+      "will": 4,
+      "willPerLevel": 2,
+      "stamina": 3,
+      "staminaPerLevel": 1,
+      "devotionPoints": 3
+    },
+    {
+      "id": 3,
+      "classId": 2,
+      "name": "Outlaw",
+      "hitDie": 6,
+      "life": 6,
+      "will": 3,
+      "willPerLevel": 1,
+      "stamina":4 ,
+      "staminaPerLevel": 2,
+      "devotionPoints": 2
+    },
+    {
+      "id": 4,
+      "classId": 2,
+      "name": "Hunter",
+      "hitDie": 8,
+      "life": 8,
+      "will": 2,
+      "willPerLevel": 1,
+      "stamina": 4,
+      "staminaPerLevel": 2,
+      "devotionPoints": 1
+    },
+    {
+      "id": 5,
+      "classId": 2,
+      "name": "Ranger",
+      "hitDie": 4,
+      "life": 4,
+      "will": 4,
+      "willPerLevel": 2,
+      "stamina": 4,
+      "staminaPerLevel": 2,
+      "devotionPoints": 3
+    },
+    {
+      "id": 6,
+      "classId": 3,
+      "name": "Arcanist",
+      "hitDie": 8,
+      "life": 8,
+      "will": 3,
+      "willPerLevel": 1,
+      "stamina": 3,
+      "staminaPerLevel": 1,
+      "devotionPoints": 2
+    },
+    {
+      "id": 7,
+      "classId": 3,
+      "name": "Wolf Knight",
+      "hitDie": 10,
+      "life": 10,
+      "will": 2,
+      "willPerLevel": 1,
+      "stamina": 4,
+      "staminaPerLevel": 2,
+      "devotionPoints": 1
+    },
+    {
+      "id": 8,
+      "classId": 3,
+      "name": "Magi",
+      "hitDie": 6,
+      "life": 6,
+      "will": 4,
+      "willPerLevel": 2,
+      "stamina": 3,
+      "staminaPerLevel": 1,
+      "devotionPoints": 3
+    },
+    {
+      "id": 9,
+      "classId": 4,
+      "name": "Tinker",
+      "hitDie": 6,
+      "life": 6,
+      "will": 4,
+      "willPerLevel": 2,
+      "stamina": 3,
+      "staminaPerLevel": 1,
+      "devotionPoints": 2
+    },
+    {
+      "id": 10,
+      "classId": 4,
+      "name": "Mechanist",
+      "hitDie": 8,
+      "life": 8,
+      "will": 2,
+      "willPerLevel": 1,
+      "stamina": 4,
+      "staminaPerLevel": 2,
+      "devotionPoints": 1
+    },
+    {
+      "id": 11,
+      "classId": 5,
+      "name": "Channeler",
+      "hitDie": 4,
+      "life": 4,
+      "will": 5,
+      "willPerLevel": 3,
+      "stamina": 3,
+      "staminaPerLevel": 1,
+      "devotionPoints": 5
+    },
+    {
+      "id": 12,
+      "classId": 5,
+      "name": "Monk",
+      "hitDie": 6,
+      "life": 6,
+      "will": 4,
+      "willPerLevel": 2,
+      "stamina": 3,
+      "staminaPerLevel": 1,
+      "devotionPoints": 4
+    },
+    {
+      "id": 13,
+      "classId": 6,
+      "name": "Singer",
+      "hitDie": 8,
+      "life": 8,
+      "will": 3,
+      "willPerLevel": 1,
+      "stamina": 4,
+      "staminaPerLevel": 2,
+      "devotionPoints": 2
+    },
+    {
+      "id": 14,
+      "classId": 6,
+      "name": "Rogue",
+      "hitDie": 6,
+      "life": 6,
+      "will": 2,
+      "willPerLevel": 1,
+      "stamina": 5,
+      "staminaPerLevel": 3,
+      "devotionPoints": 1
+    },
+    {
+      "id": 15,
+      "classId": 6,
+      "name": "Skald",
+      "hitDie": 4,
+      "life": 4,
+      "will": 4,
+      "willPerLevel": 2,
+      "stamina": 4,
+      "staminaPerLevel": 2,
+      "devotionPoints": 3
+    }
+  ],
+
   "backgroundAttributeBonuses": [
     {
       "id": 1,
@@ -980,6 +1166,8 @@
       "characterId": 1,
       "attributeId": 6,
       "value": 13
+<<<<<<< HEAD
+=======
     },
     {
       "attributeId": 1,
@@ -1340,6 +1528,7 @@
       "characterId": 12,
       "value": 8,
       "id": 67
+>>>>>>> b5463432c884b9e7d6fc56e30b95b35f4b8f952b
     }
   ]
 }
