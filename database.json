@@ -87,6 +87,19 @@
       "subclassId": 2,
       "weaponId": 8,
       "armorId": 4
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "name": "test",
+      "bio": "test",
+      "imageUrl": "test",
+      "speciesId": 3,
+      "backgroundId": 12,
+      "classId": 5,
+      "subclassId": 12,
+      "weaponId": 41,
+      "armorId": 3
     }
   ],
   "attributes": [
@@ -137,7 +150,7 @@
       "name": "Advanced Ranged Weapons"
     },
     {
-      "id":6,
+      "id": 6,
       "name": "Arenite Weapons"
     },
     {
@@ -228,7 +241,7 @@
       "weaponTypeId": 1,
       "attributeId": 1,
       "damageDie": 2,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 11,
@@ -236,7 +249,7 @@
       "weaponTypeId": 1,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 12,
@@ -244,7 +257,7 @@
       "weaponTypeId": 3,
       "attributeId": 2,
       "damageDie": 4,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 13,
@@ -252,7 +265,7 @@
       "weaponTypeId": 3,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 14,
@@ -268,7 +281,7 @@
       "weaponTypeId": 3,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 16,
@@ -276,7 +289,7 @@
       "weaponTypeId": 3,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 17,
@@ -284,7 +297,7 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 8,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 18,
@@ -292,7 +305,7 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 6,
-      "numberOfDamageDie": 2 
+      "numberOfDamageDie": 2
     },
     {
       "id": 19,
@@ -300,7 +313,7 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 10,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 20,
@@ -308,7 +321,7 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 6,
-      "numberOfDamageDie": 2 
+      "numberOfDamageDie": 2
     },
     {
       "id": 21,
@@ -316,7 +329,7 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 8,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 22,
@@ -324,7 +337,7 @@
       "weaponTypeId": 4,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 23,
@@ -332,7 +345,7 @@
       "weaponTypeId": 4,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 24,
@@ -340,7 +353,7 @@
       "weaponTypeId": 4,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 25,
@@ -348,7 +361,7 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 8,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 26,
@@ -356,7 +369,7 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 12,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 27,
@@ -364,7 +377,7 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 8,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 28,
@@ -372,7 +385,7 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 29,
@@ -380,7 +393,7 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 30,
@@ -388,7 +401,7 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 31,
@@ -396,7 +409,7 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 32,
@@ -404,7 +417,7 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 10,
-      "numberOfDamageDie": 1 
+      "numberOfDamageDie": 1
     },
     {
       "id": 33,
@@ -412,7 +425,7 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1  
+      "numberOfDamageDie": 1
     },
     {
       "id": 34,
@@ -420,7 +433,7 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 20,
-      "numberOfDamageDie": 1  
+      "numberOfDamageDie": 1
     },
     {
       "id": 35,
@@ -428,7 +441,7 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1  
+      "numberOfDamageDie": 1
     },
     {
       "id": 36,
@@ -436,7 +449,7 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1  
+      "numberOfDamageDie": 1
     },
     {
       "id": 37,
@@ -444,7 +457,7 @@
       "weaponTypeId": 6,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1  
+      "numberOfDamageDie": 1
     },
     {
       "id": 38,
@@ -452,7 +465,7 @@
       "weaponTypeId": 6,
       "attributeId": 1,
       "damageDie": 10,
-      "numberOfDamageDie": 1  
+      "numberOfDamageDie": 1
     },
     {
       "id": 39,
@@ -460,7 +473,7 @@
       "weaponTypeId": 6,
       "attributeId": 2,
       "damageDie": 10,
-      "numberOfDamageDie": 1  
+      "numberOfDamageDie": 1
     },
     {
       "id": 40,
@@ -468,7 +481,7 @@
       "weaponTypeId": 7,
       "attributeId": 2,
       "damageDie": 10,
-      "numberOfDamageDie": 1  
+      "numberOfDamageDie": 1
     },
     {
       "id": 41,
@@ -476,7 +489,7 @@
       "weaponTypeId": 7,
       "attributeId": 2,
       "damageDie": 20,
-      "numberOfDamageDie": 1  
+      "numberOfDamageDie": 1
     }
   ],
   "species": [
@@ -1426,7 +1439,7 @@
     {
       "id": 16,
       "subclassId": 5,
-      "weaponTypeId":3 
+      "weaponTypeId": 3
     },
     {
       "id": 17,
@@ -1476,7 +1489,7 @@
     {
       "id": 26,
       "subclassId": 9,
-      "weaponTypeId": 3 
+      "weaponTypeId": 3
     },
     {
       "id": 27,
@@ -1755,6 +1768,42 @@
       "characterId": 6,
       "value": 11,
       "id": 31
+    },
+    {
+      "attributeId": 1,
+      "characterId": 7,
+      "value": 7,
+      "id": 32
+    },
+    {
+      "attributeId": 2,
+      "characterId": 7,
+      "value": 14,
+      "id": 33
+    },
+    {
+      "attributeId": 3,
+      "characterId": 7,
+      "value": 10,
+      "id": 34
+    },
+    {
+      "attributeId": 4,
+      "characterId": 7,
+      "value": 13,
+      "id": 35
+    },
+    {
+      "attributeId": 5,
+      "characterId": 7,
+      "value": 10,
+      "id": 36
+    },
+    {
+      "attributeId": 6,
+      "characterId": 7,
+      "value": 5,
+      "id": 37
     }
   ]
 }
