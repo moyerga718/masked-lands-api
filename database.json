@@ -143,6 +143,10 @@
     {
       "id": 7,
       "name": "Jelid Weapons"
+    },
+    {
+      "id": 8,
+      "name": "Artificed Weapons"
     }
   ],
   "weapons": [
@@ -1341,6 +1345,208 @@
       "backgroundId": 30,
       "attributeId": 5,
       "bonus": 1
+    }
+  ],
+  "subclassWeaponProficiencies": [
+    {
+      "id": 1,
+      "subclassId": 1,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 2,
+      "subclassId": 1,
+      "weaponTypeId": 3
+    },
+    {
+      "id": 3,
+      "subclassId": 1,
+      "weaponTypeId": 4
+    },
+    {
+      "id": 4,
+      "subclassId": 1,
+      "weaponTypeId": 5
+    },
+    {
+      "id": 5,
+      "subclassId": 2,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 6,
+      "subclassId": 2,
+      "weaponTypeId": 3
+    },
+    {
+      "id": 7,
+      "subclassId": 2,
+      "weaponTypeId": 4
+    },
+    {
+      "id": 8,
+      "subclassId": 3,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 9,
+      "subclassId": 3,
+      "weaponTypeId": 3
+    },
+    {
+      "id": 10,
+      "subclassId": 3,
+      "weaponTypeId": 5
+    },
+    {
+      "id": 11,
+      "subclassId": 4,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 12,
+      "subclassId": 4,
+      "weaponTypeId": 3
+    },
+    {
+      "id": 13,
+      "subclassId": 4,
+      "weaponTypeId": 4
+    },
+    {
+      "id": 14,
+      "subclassId": 4,
+      "weaponTypeId": 5
+    },
+    {
+      "id": 15,
+      "subclassId": 5,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 16,
+      "subclassId": 5,
+      "weaponTypeId":3 
+    },
+    {
+      "id": 17,
+      "subclassId": 5,
+      "weaponTypeId": 5
+    },
+    {
+      "id": 18,
+      "subclassId": 6,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 19,
+      "subclassId": 6,
+      "weaponTypeId": 3
+    },
+    {
+      "id": 20,
+      "subclassId": 7,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 21,
+      "subclassId": 7,
+      "weaponTypeId": 3
+    },
+    {
+      "id": 22,
+      "subclassId": 7,
+      "weaponTypeId": 5
+    },
+    {
+      "id": 23,
+      "subclassId": 8,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 24,
+      "subclassId": 8,
+      "weaponTypeId": 3
+    },
+    {
+      "id": 25,
+      "subclassId": 9,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 26,
+      "subclassId": 9,
+      "weaponTypeId": 3 
+    },
+    {
+      "id": 27,
+      "subclassId": 9,
+      "weaponTypeId": 8
+    },
+    {
+      "id": 28,
+      "subclassId": 10,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 29,
+      "subclassId": 10,
+      "weaponTypeId": 3
+    },
+    {
+      "id": 30,
+      "subclassId": 10,
+      "weaponTypeId": 5
+    },
+    {
+      "id": 31,
+      "subclassId": 10,
+      "weaponTypeId": 8
+    },
+    {
+      "id": 32,
+      "subclassId": 12,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 33,
+      "subclassId": 12,
+      "weaponTypeId": 3
+    },
+    {
+      "id": 34,
+      "subclassId": 13,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 35,
+      "subclassId": 13,
+      "weaponTypeId": 3
+    },
+    {
+      "id": 36,
+      "subclassId": 14,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 37,
+      "subclassId": 14,
+      "weaponTypeId": 3
+    },
+    {
+      "id": 38,
+      "subclassId": 14,
+      "weaponTypeId": 4
+    },
+    {
+      "id": 39,
+      "subclassId": 15,
+      "weaponTypeId": 2
+    },
+    {
+      "id": 40,
+      "subclassId": 15,
+      "weaponTypeId": 3
     }
   ],
   "armors": [
