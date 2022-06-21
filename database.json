@@ -1590,15 +1590,7 @@
     },
     {
       "id": 4,
-      "name": "Arenite Robes"
-    },
-    {
-      "id": 5,
-      "name": "Barbarian Armor"
-    },
-    {
-      "id": 6,
-      "name": "Gogic Armor"
+      "name": "No Armor Proficiency"
     }
   ],
   "armors": [
@@ -1700,6 +1692,151 @@
       "dexBonus": false,
       "bonusCap": 10,
       "strengthRequirement": 17 
+    },
+    {
+      "id": 12,
+      "name": "Traveler's Clothes",
+      "armorTypeId": 4,
+      "baseAC": 10,
+      "dexBonus": false,
+      "bonusCap": 10,
+      "strengthRequirement": 0
+    },
+    {
+      "id": 13,
+      "name": "Religious Attire",
+      "armorTypeId": 4,
+      "baseAC": 10,
+      "dexBonus": false,
+      "bonusCap": 10,
+      "strengthRequirement": 0
+    }
+  ],
+  "subclassArmorProficiencies": [
+    {
+      "id": 1,
+      "subclassId": 1,
+      "armorTypeId": 1
+    },
+    {
+      "id": 2,
+      "subclassId": 1,
+      "armorTypeId": 2
+    },
+    {
+      "id": 3,
+      "subclassId": 1,
+      "armorTypeId": 3
+    },
+    {
+      "id": 4,
+      "subclassId": 2,
+      "armorTypeId": 1
+    },
+    {
+      "id": 5,
+      "subclassId": 2,
+      "armorTypeId": 2
+    },
+    {
+      "id": 6,
+      "subclassId": 2,
+      "armorTypeId": 3
+    },
+    {
+      "id": 7,
+      "subclassId": 3,
+      "armorTypeId": 1
+    },
+    {
+      "id": 8,
+      "subclassId": 3,
+      "armorTypeId": 2
+    },
+    {
+      "id": 9,
+      "subclassId": 4,
+      "armorTypeId": 1
+    },
+    {
+      "id": 10,
+      "subclassId": 4,
+      "armorTypeId": 2
+    },
+    {
+      "id": 11,
+      "subclassId": 5,
+      "armorTypeId": 1
+    },
+    {
+      "id": 12,
+      "subclassId": 6,
+      "armorTypeId": 1
+    },
+    {
+      "id": 13,
+      "subclassId": 7,
+      "armorTypeId": 1
+    },
+    {
+      "id": 14,
+      "subclassId": 7,
+      "armorTypeId": 2
+    },
+    {
+      "id": 15,
+      "subclassId": 8,
+      "armorTypeId": 1
+    },
+    {
+      "id": 16,
+      "subclassId": 9,
+      "armorTypeId": 1
+    },
+    {
+      "id": 17,
+      "subclassId": 10,
+      "armorTypeId": 1
+    },
+    {
+      "id": 18,
+      "subclassId": 10,
+      "armorTypeId": 2
+    },
+    {
+      "id": 19,
+      "subclassId": 11,
+      "armorTypeId": 4
+    },
+    {
+      "id": 20,
+      "subclassId": 12,
+      "armorTypeId": 1
+    },
+    {
+      "id": 21,
+      "subclassId": 13,
+      "armorTypeId": 1
+    },
+    {
+      "id": 22,
+      "subclassId": 13,
+      "armorTypeId": 2
+    },
+    {
+      "id": 23,
+      "subclassId": 14,
+      "armorTypeId": 1
+    },
+    {
+      "id": 24,
+      "subclassId": 14,
+      "armorTypeId": 2
+    },
+    {
+      "id": 25,
+      "subclassId": 15,
+      "armorTypeId": 1
     }
   ],
   "characterAttributes": [
