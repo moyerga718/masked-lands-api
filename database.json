@@ -100,6 +100,19 @@
       "subclassId": 12,
       "weaponId": 41,
       "armorId": 3
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "name": "Detailed weapon test",
+      "bio": "test ",
+      "imageUrl": "test",
+      "speciesId": 1,
+      "backgroundId": 1,
+      "classId": 1,
+      "subclassId": 2,
+      "weaponId": 26,
+      "armorId": 4
     }
   ],
   "attributes": [
@@ -1562,30 +1575,131 @@
       "weaponTypeId": 3
     }
   ],
-  "armors": [
+  "armorTypes": [
     {
       "id": 1,
-      "name": "Travelers Clothes",
-      "defenseRating": 7,
-      "strengthRequirement": 1
+      "name": "Light Armor" 
     },
     {
       "id": 2,
-      "name": "Leather Armor",
-      "defenseRating": 11,
-      "strengthRequirement": 10
+      "name": "Medium Armor"
     },
     {
       "id": 3,
-      "name": "Armored Duster",
-      "defenseRating": 13,
-      "strengthRequirement": 12
+      "name": "Heavy Armor"
     },
     {
       "id": 4,
+      "name": "Arenite Robes"
+    },
+    {
+      "id": 5,
+      "name": "Barbarian Armor"
+    },
+    {
+      "id": 6,
+      "name": "Gogic Armor"
+    }
+  ],
+  "armors": [
+    {
+      "id": 1,
+      "name": "Padded Clothing",
+      "armorTypeId": 1,
+      "baseAC": 11,
+      "dexBonus": true,
+      "bonusCap": 10,
+      "strengthRequirement": 0 
+    },
+    {
+      "id": 2,
+      "name": "Fitted Leather Armor",
+      "armorTypeId": 1,
+      "baseAC": 12,
+      "dexBonus": true,
+      "bonusCap": 10,
+      "strengthRequirement": 0 
+    },
+    {
+      "id": 3,
+      "name": "Leather Duster",
+      "armorTypeId": 2,
+      "baseAC": 12,
+      "dexBonus": true,
+      "bonusCap": 2,
+      "strengthRequirement": 0 
+    },
+    {
+      "id": 4,
+      "name": "Reinforced Leather Armor",
+      "armorTypeId": 2,
+      "baseAC": 13,
+      "dexBonus": true,
+      "bonusCap": 2,
+      "strengthRequirement": 0 
+    },
+    {
+      "id": 5,
+      "name": "Steel Banded Armor",
+      "armorTypeId": 2,
+      "baseAC": 14,
+      "dexBonus": true,
+      "bonusCap": 2,
+      "strengthRequirement": 0 
+    },
+    {
+      "id": 6,
+      "name": "Armored Duster",
+      "armorTypeId": 2,
+      "baseAC": 14,
+      "dexBonus": true,
+      "bonusCap": 2,
+      "strengthRequirement": 0 
+    },
+    {
+      "id": 7,
+      "name": "Steelsilk-woven Armor",
+      "armorTypeId": 2,
+      "baseAC": 15,
+      "dexBonus": true,
+      "bonusCap": 2,
+      "strengthRequirement": 0 
+    },
+    {
+      "id": 8,
       "name": "Antique Armor",
-      "defenseRating": 16,
-      "strengthRequirement": 16
+      "armorTypeId": 3,
+      "baseAC": 15,
+      "dexBonus": false,
+      "bonusCap": 10,
+      "strengthRequirement": 0 
+    },
+    {
+      "id": 9,
+      "name": "Knight's Armor",
+      "armorTypeId": 3,
+      "baseAC": 16,
+      "dexBonus": false,
+      "bonusCap": 10,
+      "strengthRequirement": 13 
+    },
+    {
+      "id": 10,
+      "name": "Ornate Armor",
+      "armorTypeId": 3,
+      "baseAC": 17,
+      "dexBonus": false,
+      "bonusCap": 10,
+      "strengthRequirement": 15 
+    },
+    {
+      "id": 11,
+      "name": "Warfighter's Armor",
+      "armorTypeId": 3,
+      "baseAC": 18,
+      "dexBonus": false,
+      "bonusCap": 10,
+      "strengthRequirement": 17 
     }
   ],
   "characterAttributes": [
@@ -1804,6 +1918,42 @@
       "characterId": 7,
       "value": 5,
       "id": 37
+    },
+    {
+      "attributeId": 1,
+      "characterId": 8,
+      "value": 17,
+      "id": 38
+    },
+    {
+      "attributeId": 2,
+      "characterId": 8,
+      "value": 17,
+      "id": 39
+    },
+    {
+      "attributeId": 3,
+      "characterId": 8,
+      "value": 13,
+      "id": 40
+    },
+    {
+      "attributeId": 4,
+      "characterId": 8,
+      "value": 8,
+      "id": 41
+    },
+    {
+      "attributeId": 5,
+      "characterId": 8,
+      "value": 8,
+      "id": 42
+    },
+    {
+      "attributeId": 6,
+      "characterId": 8,
+      "value": 12,
+      "id": 43
     }
   ]
 }
