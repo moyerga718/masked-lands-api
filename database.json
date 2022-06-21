@@ -115,54 +115,364 @@
       "name": "Charisma"
     }
   ],
+  "weaponTypes": [
+    {
+      "id": 1,
+      "name": "Unarmed Weapons"
+    },
+    {
+      "id": 2,
+      "name": "Simple Melee Weapons"
+    },
+    {
+      "id": 3,
+      "name": "Simple Ranged Weapons"
+    },
+    {
+      "id": 4,
+      "name": "Martial Melee Weapons"
+    },
+    {
+      "id": 5,
+      "name": "Advanced Ranged Weapons"
+    },
+    {
+      "id":6,
+      "name": "Arenite Weapons"
+    },
+    {
+      "id": 7,
+      "name": "Jelid Weapons"
+    }
+  ],
   "weapons": [
     {
       "id": 1,
       "name": "Hatchet",
+      "weaponTypeId": 2,
       "attributeId": 1,
-      "damageDie": 4
+      "damageDie": 4,
+      "numberOfDamageDie": 1
     },
     {
       "id": 2,
       "name": "Club",
+      "weaponTypeId": 2,
       "attributeId": 1,
-      "damageDie": 4
+      "damageDie": 4,
+      "numberOfDamageDie": 1
     },
     {
       "id": 3,
       "name": "Mace",
+      "weaponTypeId": 2,
       "attributeId": 1,
-      "damageDie": 6
+      "damageDie": 6,
+      "numberOfDamageDie": 1
     },
     {
       "id": 4,
       "name": "Staff",
+      "weaponTypeId": 2,
       "attributeId": 1,
-      "damageDie": 4
+      "damageDie": 4,
+      "numberOfDamageDie": 1
     },
     {
       "id": 5,
       "name": "Greatclub",
+      "weaponTypeId": 2,
       "attributeId": 1,
-      "damageDie": 8
+      "damageDie": 8,
+      "numberOfDamageDie": 1
     },
     {
       "id": 6,
       "name": "Dagger",
+      "weaponTypeId": 2,
       "attributeId": 2,
-      "damageDie": 4
+      "damageDie": 4,
+      "numberOfDamageDie": 1
     },
     {
       "id": 7,
       "name": "Machete",
+      "weaponTypeId": 2,
       "attributeId": 2,
-      "damageDie": 6
+      "damageDie": 6,
+      "numberOfDamageDie": 1
     },
     {
       "id": 8,
       "name": "Spear",
+      "weaponTypeId": 2,
       "attributeId": 2,
-      "damageDie": 6
+      "damageDie": 6,
+      "numberOfDamageDie": 1
+    },
+    {
+      "id": 9,
+      "name": "Brass Knuckles",
+      "weaponTypeId": 1,
+      "attributeId": 1,
+      "damageDie": 4,
+      "numberOfDamageDie": 1
+    },
+    {
+      "id": 10,
+      "name": "Fist",
+      "weaponTypeId": 1,
+      "attributeId": 1,
+      "damageDie": 2,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 11,
+      "name": "Assassin's Claws",
+      "weaponTypeId": 1,
+      "attributeId": 2,
+      "damageDie": 6,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 12,
+      "name": "Shortbow",
+      "weaponTypeId": 3,
+      "attributeId": 2,
+      "damageDie": 4,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 13,
+      "name": "Hunting Bow",
+      "weaponTypeId": 3,
+      "attributeId": 2,
+      "damageDie": 6,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 14,
+      "name": "Flintlock Pistol",
+      "weaponTypeId": 3,
+      "attributeId": 2,
+      "damageDie": 6,
+      "numberOfDamageDie": 1
+    },
+    {
+      "id": 15,
+      "name": "Flintlock Rifle",
+      "weaponTypeId": 3,
+      "attributeId": 2,
+      "damageDie": 8,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 16,
+      "name": "Blunderbuss",
+      "weaponTypeId": 3,
+      "attributeId": 2,
+      "damageDie": 6,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 17,
+      "name": "Battle Axe",
+      "weaponTypeId": 4,
+      "attributeId": 1,
+      "damageDie": 8,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 18,
+      "name": "Greataxe",
+      "weaponTypeId": 4,
+      "attributeId": 1,
+      "damageDie": 6,
+      "numberOfDamageDie": 2 
+    },
+    {
+      "id": 19,
+      "name": "Halberd",
+      "weaponTypeId": 4,
+      "attributeId": 1,
+      "damageDie": 10,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 20,
+      "name": "Claymore",
+      "weaponTypeId": 4,
+      "attributeId": 1,
+      "damageDie": 6,
+      "numberOfDamageDie": 2 
+    },
+    {
+      "id": 21,
+      "name": "Long Sword",
+      "weaponTypeId": 4,
+      "attributeId": 1,
+      "damageDie": 8,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 22,
+      "name": "Cutlass",
+      "weaponTypeId": 4,
+      "attributeId": 2,
+      "damageDie": 6,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 23,
+      "name": "Rapier",
+      "weaponTypeId": 4,
+      "attributeId": 2,
+      "damageDie": 8,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 24,
+      "name": "Assassin's Blade",
+      "weaponTypeId": 4,
+      "attributeId": 2,
+      "damageDie": 6,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 25,
+      "name": "Pike",
+      "weaponTypeId": 4,
+      "attributeId": 1,
+      "damageDie": 8,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 26,
+      "name": "Lance",
+      "weaponTypeId": 4,
+      "attributeId": 1,
+      "damageDie": 12,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 27,
+      "name": "Warhammer",
+      "weaponTypeId": 4,
+      "attributeId": 1,
+      "damageDie": 8,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 28,
+      "name": "Longbow",
+      "weaponTypeId": 5,
+      "attributeId": 2,
+      "damageDie": 6,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 29,
+      "name": "Crossbow",
+      "weaponTypeId": 5,
+      "attributeId": 2,
+      "damageDie": 8,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 30,
+      "name": "Hand Crossbow",
+      "weaponTypeId": 5,
+      "attributeId": 2,
+      "damageDie": 8,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 31,
+      "name": "Revolver",
+      "weaponTypeId": 5,
+      "attributeId": 2,
+      "damageDie": 6,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 32,
+      "name": "Bolt-Action Rifle",
+      "weaponTypeId": 5,
+      "attributeId": 2,
+      "damageDie": 10,
+      "numberOfDamageDie": 1 
+    },
+    {
+      "id": 33,
+      "name": "Carbine",
+      "weaponTypeId": 5,
+      "attributeId": 2,
+      "damageDie": 8,
+      "numberOfDamageDie": 1  
+    },
+    {
+      "id": 34,
+      "name": "Yak Rifle",
+      "weaponTypeId": 5,
+      "attributeId": 2,
+      "damageDie": 20,
+      "numberOfDamageDie": 1  
+    },
+    {
+      "id": 35,
+      "name": "Double-barreled Shotgun",
+      "weaponTypeId": 5,
+      "attributeId": 2,
+      "damageDie": 8,
+      "numberOfDamageDie": 1  
+    },
+    {
+      "id": 36,
+      "name": "Sawed-off Shotgun",
+      "weaponTypeId": 5,
+      "attributeId": 2,
+      "damageDie": 8,
+      "numberOfDamageDie": 1  
+    },
+    {
+      "id": 37,
+      "name": "Arenite Curved Sword",
+      "weaponTypeId": 6,
+      "attributeId": 2,
+      "damageDie": 8,
+      "numberOfDamageDie": 1  
+    },
+    {
+      "id": 38,
+      "name": "Arenite Curved Greatsword",
+      "weaponTypeId": 6,
+      "attributeId": 1,
+      "damageDie": 10,
+      "numberOfDamageDie": 1  
+    },
+    {
+      "id": 39,
+      "name": "Arenite Skirmish Bow",
+      "weaponTypeId": 6,
+      "attributeId": 2,
+      "damageDie": 10,
+      "numberOfDamageDie": 1  
+    },
+    {
+      "id": 40,
+      "name": "Sequoia-Wood Spear",
+      "weaponTypeId": 7,
+      "attributeId": 2,
+      "damageDie": 10,
+      "numberOfDamageDie": 1  
+    },
+    {
+      "id": 41,
+      "name": "Sequoia-Wood Greatbow",
+      "weaponTypeId": 7,
+      "attributeId": 2,
+      "damageDie": 20,
+      "numberOfDamageDie": 1  
     }
   ],
   "species": [
