@@ -126,6 +126,19 @@
       "subclassId": 2,
       "weaponId": 20,
       "armorId": 6
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "name": "Heavy Armor Test",
+      "bio": "test ",
+      "imageUrl": "test",
+      "speciesId": 3,
+      "backgroundId": 11,
+      "classId": 1,
+      "subclassId": 1,
+      "weaponId": 20,
+      "armorId": 11
     }
   ],
   "attributes": [
@@ -1852,6 +1865,32 @@
       "armorTypeId": 1
     }
   ],
+  "gods": [
+    {
+      "id": 1,
+      "name": "Sunface"
+    },
+    {
+      "id": 2,
+      "name": "Moonface"
+    },
+    {
+      "id": 3,
+      "name": "Escritorio"
+    },
+    {
+      "id": 4,
+      "name": "Goge, the Architect"
+    },
+    {
+      "id": 5,
+      "name": "Faelina of Light"
+    },
+    {
+      "id": 6,
+      "name": "Garthank, the Trickster"
+    }
+  ],
   "characterAttributes": [
     {
       "id": 1,
@@ -2140,6 +2179,42 @@
       "characterId": 9,
       "value": 15,
       "id": 49
+    },
+    {
+      "attributeId": 1,
+      "characterId": 10,
+      "value": 12,
+      "id": 50
+    },
+    {
+      "attributeId": 2,
+      "characterId": 10,
+      "value": 16,
+      "id": 51
+    },
+    {
+      "attributeId": 3,
+      "characterId": 10,
+      "value": 14,
+      "id": 52
+    },
+    {
+      "attributeId": 5,
+      "characterId": 10,
+      "value": 14,
+      "id": 53
+    },
+    {
+      "attributeId": 4,
+      "characterId": 10,
+      "value": 12,
+      "id": 54
+    },
+    {
+      "attributeId": 6,
+      "characterId": 10,
+      "value": 14,
+      "id": 55
     }
   ]
 }
