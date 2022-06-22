@@ -113,6 +113,19 @@
       "subclassId": 2,
       "weaponId": 26,
       "armorId": 4
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "name": "Arenite Armor Selection Test",
+      "bio": "test ",
+      "imageUrl": "testttttt",
+      "speciesId": 1,
+      "backgroundId": 4,
+      "classId": 1,
+      "subclassId": 2,
+      "weaponId": 20,
+      "armorId": 6
     }
   ],
   "attributes": [
@@ -1578,7 +1591,7 @@
   "armorTypes": [
     {
       "id": 1,
-      "name": "Light Armor" 
+      "name": "Light Armor"
     },
     {
       "id": 2,
@@ -1601,7 +1614,7 @@
       "baseAC": 11,
       "dexBonus": true,
       "bonusCap": 10,
-      "strengthRequirement": 0 
+      "strengthRequirement": 0
     },
     {
       "id": 2,
@@ -1610,7 +1623,7 @@
       "baseAC": 12,
       "dexBonus": true,
       "bonusCap": 10,
-      "strengthRequirement": 0 
+      "strengthRequirement": 0
     },
     {
       "id": 3,
@@ -1619,7 +1632,7 @@
       "baseAC": 12,
       "dexBonus": true,
       "bonusCap": 2,
-      "strengthRequirement": 0 
+      "strengthRequirement": 0
     },
     {
       "id": 4,
@@ -1628,7 +1641,7 @@
       "baseAC": 13,
       "dexBonus": true,
       "bonusCap": 2,
-      "strengthRequirement": 0 
+      "strengthRequirement": 0
     },
     {
       "id": 5,
@@ -1637,7 +1650,7 @@
       "baseAC": 14,
       "dexBonus": true,
       "bonusCap": 2,
-      "strengthRequirement": 0 
+      "strengthRequirement": 0
     },
     {
       "id": 6,
@@ -1646,7 +1659,7 @@
       "baseAC": 14,
       "dexBonus": true,
       "bonusCap": 2,
-      "strengthRequirement": 0 
+      "strengthRequirement": 0
     },
     {
       "id": 7,
@@ -1655,7 +1668,7 @@
       "baseAC": 15,
       "dexBonus": true,
       "bonusCap": 2,
-      "strengthRequirement": 0 
+      "strengthRequirement": 0
     },
     {
       "id": 8,
@@ -1664,7 +1677,7 @@
       "baseAC": 15,
       "dexBonus": false,
       "bonusCap": 10,
-      "strengthRequirement": 0 
+      "strengthRequirement": 0
     },
     {
       "id": 9,
@@ -1673,7 +1686,7 @@
       "baseAC": 16,
       "dexBonus": false,
       "bonusCap": 10,
-      "strengthRequirement": 13 
+      "strengthRequirement": 13
     },
     {
       "id": 10,
@@ -1682,7 +1695,7 @@
       "baseAC": 17,
       "dexBonus": false,
       "bonusCap": 10,
-      "strengthRequirement": 15 
+      "strengthRequirement": 15
     },
     {
       "id": 11,
@@ -1691,7 +1704,7 @@
       "baseAC": 18,
       "dexBonus": false,
       "bonusCap": 10,
-      "strengthRequirement": 17 
+      "strengthRequirement": 17
     },
     {
       "id": 12,
@@ -2091,6 +2104,42 @@
       "characterId": 8,
       "value": 12,
       "id": 43
+    },
+    {
+      "attributeId": 2,
+      "characterId": 9,
+      "value": 13,
+      "id": 44
+    },
+    {
+      "attributeId": 1,
+      "characterId": 9,
+      "value": 18,
+      "id": 45
+    },
+    {
+      "attributeId": 3,
+      "characterId": 9,
+      "value": 13,
+      "id": 46
+    },
+    {
+      "attributeId": 4,
+      "characterId": 9,
+      "value": 10,
+      "id": 47
+    },
+    {
+      "attributeId": 6,
+      "characterId": 9,
+      "value": 6,
+      "id": 48
+    },
+    {
+      "attributeId": 5,
+      "characterId": 9,
+      "value": 15,
+      "id": 49
     }
   ]
 }
