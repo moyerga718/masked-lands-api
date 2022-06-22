@@ -1613,7 +1613,7 @@
       "armorTypeId": 1,
       "baseAC": 11,
       "dexBonus": true,
-      "bonusCap": 10,
+      "bonusCap": 0,
       "strengthRequirement": 0
     },
     {
@@ -1622,7 +1622,7 @@
       "armorTypeId": 1,
       "baseAC": 12,
       "dexBonus": true,
-      "bonusCap": 10,
+      "bonusCap": 0,
       "strengthRequirement": 0
     },
     {
@@ -1676,7 +1676,7 @@
       "armorTypeId": 3,
       "baseAC": 15,
       "dexBonus": false,
-      "bonusCap": 10,
+      "bonusCap": 0,
       "strengthRequirement": 0
     },
     {
@@ -1685,7 +1685,7 @@
       "armorTypeId": 3,
       "baseAC": 16,
       "dexBonus": false,
-      "bonusCap": 10,
+      "bonusCap": 0,
       "strengthRequirement": 13
     },
     {
@@ -1694,7 +1694,7 @@
       "armorTypeId": 3,
       "baseAC": 17,
       "dexBonus": false,
-      "bonusCap": 10,
+      "bonusCap": 0,
       "strengthRequirement": 15
     },
     {
@@ -1703,7 +1703,7 @@
       "armorTypeId": 3,
       "baseAC": 18,
       "dexBonus": false,
-      "bonusCap": 10,
+      "bonusCap": 0,
       "strengthRequirement": 17
     },
     {
@@ -1712,7 +1712,7 @@
       "armorTypeId": 4,
       "baseAC": 10,
       "dexBonus": false,
-      "bonusCap": 10,
+      "bonusCap": 0,
       "strengthRequirement": 0
     },
     {
@@ -1721,7 +1721,7 @@
       "armorTypeId": 4,
       "baseAC": 10,
       "dexBonus": false,
-      "bonusCap": 10,
+      "bonusCap": 0,
       "strengthRequirement": 0
     }
   ],
