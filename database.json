@@ -27,6 +27,7 @@
       "id": 1,
       "userId": 1,
       "name": "Jermaine Jangle",
+      "level": 0,
       "bio": "A top tier jangler who knows naught but the art of bonk",
       "imageUrl": "https://glamours.eorzeacollection.com/31763/aka-oni-0-1631362283.png",
       "speciesId": 3,
@@ -40,6 +41,7 @@
       "id": 2,
       "userId": 1,
       "name": "devotion submission test",
+      "level": 0,
       "bio": "test",
       "imageUrl": "test",
       "speciesId": 1,
@@ -1805,73 +1807,86 @@
       "id": 1,
       "characterId": 1,
       "godId": 1,
-      "devPoints": 0
+      "devPoints": 0,
+      "devLevel": 0
     },
     {
       "id": 2,
       "characterId": 1,
       "godId": 2,
-      "devPoints": 1
+      "devPoints": 1,
+      "devLevel": 0
     },
     {
       "id": 3,
       "characterId": 1,
       "godId": 3,
-      "devPoints": 0
+      "devPoints": 0,
+      "devLevel": 0
     },
     {
       "id": 4,
       "characterId": 1,
       "godId": 4,
-      "devPoints": 2
+      "devPoints": 2,
+      "devLevel": 1
+      
     },
     {
       "id": 5,
       "characterId": 1,
       "godId": 5,
-      "devPoints": 0
+      "devPoints": 0,
+      "devLevel": 0
     },
     {
       "id": 6,
       "characterId": 1,
       "godId": 6,
-      "devPoints": 0
+      "devPoints": 0,
+      "devLevel": 0
     },
     {
       "characterId": 2,
       "godId": 1,
       "devPoints": 2,
-      "id": 7
+      "id": 7,
+      "devLevel": 1
     },
     {
       "characterId": 2,
       "godId": 2,
       "devPoints": 0,
-      "id": 8
+      "id": 8,
+      "devLevel": 0
     },
     {
       "characterId": 2,
       "godId": 5,
       "devPoints": 1,
-      "id": 9
+      "id": 9,
+      "devLevel": 0
     },
     {
       "characterId": 2,
       "godId": 3,
       "devPoints": 0,
-      "id": 10
+      "id": 10,
+      "devLevel": 0
     },
     {
       "characterId": 2,
       "godId": 4,
       "devPoints": 0,
-      "id": 11
+      "id": 11,
+      "devLevel": 0
     },
     {
       "characterId": 2,
       "godId": 6,
       "devPoints": 0,
-      "id": 12
+      "id": 12,
+      "devLevel": 0
     }
   ],
   "characterAttributes": [
