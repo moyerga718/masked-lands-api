@@ -55,6 +55,7 @@
       "id": 3,
       "userId": 1,
       "name": "devotion submit test",
+      "level": 0,
       "bio": "test",
       "imageUrl": "test",
       "speciesId": 2,
