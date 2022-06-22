@@ -50,6 +50,19 @@
       "subclassId": 2,
       "weaponId": 19,
       "armorId": 4
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "devotion submit test",
+      "bio": "test",
+      "imageUrl": "test",
+      "speciesId": 2,
+      "backgroundId": 7,
+      "classId": 1,
+      "subclassId": 2,
+      "weaponId": 19,
+      "armorId": 2
     }
   ],
   "attributes": [
@@ -1830,7 +1843,6 @@
       "godId": 4,
       "devPoints": 2,
       "devLevel": 1
-      
     },
     {
       "id": 5,
@@ -1887,6 +1899,48 @@
       "devPoints": 0,
       "id": 12,
       "devLevel": 0
+    },
+    {
+      "characterId": 3,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 13
+    },
+    {
+      "characterId": 3,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 14
+    },
+    {
+      "characterId": 3,
+      "godId": 3,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 15
+    },
+    {
+      "characterId": 3,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 16
+    },
+    {
+      "characterId": 3,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 17
+    },
+    {
+      "characterId": 3,
+      "godId": 6,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 18
     }
   ],
   "characterAttributes": [
@@ -1961,6 +2015,42 @@
       "characterId": 2,
       "value": 12,
       "id": 12
+    },
+    {
+      "attributeId": 1,
+      "characterId": 3,
+      "value": 12,
+      "id": 13
+    },
+    {
+      "attributeId": 3,
+      "characterId": 3,
+      "value": 10,
+      "id": 14
+    },
+    {
+      "attributeId": 2,
+      "characterId": 3,
+      "value": 10,
+      "id": 15
+    },
+    {
+      "attributeId": 4,
+      "characterId": 3,
+      "value": 13,
+      "id": 16
+    },
+    {
+      "attributeId": 6,
+      "characterId": 3,
+      "value": 14,
+      "id": 17
+    },
+    {
+      "attributeId": 5,
+      "characterId": 3,
+      "value": 10,
+      "id": 18
     }
   ]
 }
