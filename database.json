@@ -35,6 +35,19 @@
       "subclassId": 2,
       "weaponId": 5,
       "armorId": 3
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "devotion submission test",
+      "bio": "test",
+      "imageUrl": "test",
+      "speciesId": 1,
+      "backgroundId": 5,
+      "classId": 1,
+      "subclassId": 2,
+      "weaponId": 19,
+      "armorId": 4
     }
   ],
   "attributes": [
@@ -1823,9 +1836,44 @@
       "characterId": 1,
       "godId": 6,
       "devPoints": 0
+    },
+    {
+      "characterId": 2,
+      "godId": 1,
+      "devPoints": 2,
+      "id": 7
+    },
+    {
+      "characterId": 2,
+      "godId": 2,
+      "devPoints": 0,
+      "id": 8
+    },
+    {
+      "characterId": 2,
+      "godId": 5,
+      "devPoints": 1,
+      "id": 9
+    },
+    {
+      "characterId": 2,
+      "godId": 3,
+      "devPoints": 0,
+      "id": 10
+    },
+    {
+      "characterId": 2,
+      "godId": 4,
+      "devPoints": 0,
+      "id": 11
+    },
+    {
+      "characterId": 2,
+      "godId": 6,
+      "devPoints": 0,
+      "id": 12
     }
   ],
-
   "characterAttributes": [
     {
       "id": 1,
@@ -1862,6 +1910,42 @@
       "characterId": 1,
       "attributeId": 6,
       "value": 13
+    },
+    {
+      "attributeId": 1,
+      "characterId": 2,
+      "value": 11,
+      "id": 7
+    },
+    {
+      "attributeId": 2,
+      "characterId": 2,
+      "value": 14,
+      "id": 8
+    },
+    {
+      "attributeId": 3,
+      "characterId": 2,
+      "value": 14,
+      "id": 9
+    },
+    {
+      "attributeId": 4,
+      "characterId": 2,
+      "value": 15,
+      "id": 10
+    },
+    {
+      "attributeId": 6,
+      "characterId": 2,
+      "value": 11,
+      "id": 11
+    },
+    {
+      "attributeId": 5,
+      "characterId": 2,
+      "value": 12,
+      "id": 12
     }
   ]
 }
