@@ -50,6 +50,34 @@
       "subclassId": 2,
       "weaponId": 22,
       "armorId": 9
+    },
+    {
+      "id": 9,
+      "userId": 3,
+      "level": 0,
+      "name": "test",
+      "bio": "test",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656097635/Character%20Images/fxapxsnsj5cw5qopfnry.jpg",
+      "speciesId": 1,
+      "backgroundId": 4,
+      "classId": 2,
+      "subclassId": 3,
+      "weaponId": 32,
+      "armorId": 1
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "level": 0,
+      "name": "Duntimore",
+      "bio": "small lil guy",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656382224/Character%20Images/fzrgpqluldh0se9g8nkd.jpg",
+      "speciesId": 4,
+      "backgroundId": 19,
+      "classId": 4,
+      "subclassId": 9,
+      "weaponId": 16,
+      "armorId": 2
     }
   ],
   "attributes": [
@@ -1779,27 +1807,33 @@
   "gods": [
     {
       "id": 1,
-      "name": "Sunface"
+      "name": "Sunface",
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456229/god%20icons/sunface_icon_tayysa.png"
     },
     {
       "id": 2,
-      "name": "Moonface"
+      "name": "Moonface",
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456229/god%20icons/moonface-icon_fekkrn.png"
     },
     {
       "id": 3,
-      "name": "Escritorio"
+      "name": "Escritorio",
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/escritorio-icon_necyk6.png"
     },
     {
       "id": 4,
-      "name": "Goge, the Architect"
+      "name": "Goge, the Architect",
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/goge-icon_vpwfpf.png"
     },
     {
       "id": 5,
-      "name": "Faelina of Light"
+      "name": "Faelina of Light",
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/faelina_icon_mfzavh.png"
     },
     {
       "id": 6,
-      "name": "Garthank, the Trickster"
+      "name": "Garthank, the Trickster",
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/garthank-icon_fwcfqj.png"
     }
   ],
   "characterDevotion": [
@@ -1886,6 +1920,90 @@
       "devPoints": 0,
       "devLevel": 0,
       "id": 48
+    },
+    {
+      "characterId": 9,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 49
+    },
+    {
+      "characterId": 9,
+      "godId": 1,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 50
+    },
+    {
+      "characterId": 9,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 51
+    },
+    {
+      "characterId": 9,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 52
+    },
+    {
+      "characterId": 9,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 53
+    },
+    {
+      "characterId": 9,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 54
+    },
+    {
+      "characterId": 10,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 55
+    },
+    {
+      "characterId": 10,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 56
+    },
+    {
+      "characterId": 10,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 57
+    },
+    {
+      "characterId": 10,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 58
+    },
+    {
+      "characterId": 10,
+      "godId": 6,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 59
+    },
+    {
+      "characterId": 10,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 60
     }
   ],
   "characterAttributes": [
@@ -1960,6 +2078,78 @@
       "characterId": 8,
       "value": 18,
       "id": 48
+    },
+    {
+      "attributeId": 1,
+      "characterId": 9,
+      "value": 13,
+      "id": 49
+    },
+    {
+      "attributeId": 2,
+      "characterId": 9,
+      "value": 11,
+      "id": 50
+    },
+    {
+      "attributeId": 3,
+      "characterId": 9,
+      "value": 12,
+      "id": 51
+    },
+    {
+      "attributeId": 4,
+      "characterId": 9,
+      "value": 11,
+      "id": 52
+    },
+    {
+      "attributeId": 5,
+      "characterId": 9,
+      "value": 16,
+      "id": 53
+    },
+    {
+      "attributeId": 6,
+      "characterId": 9,
+      "value": 11,
+      "id": 54
+    },
+    {
+      "attributeId": 2,
+      "characterId": 10,
+      "value": 15,
+      "id": 55
+    },
+    {
+      "attributeId": 1,
+      "characterId": 10,
+      "value": 13,
+      "id": 56
+    },
+    {
+      "attributeId": 4,
+      "characterId": 10,
+      "value": 16,
+      "id": 57
+    },
+    {
+      "attributeId": 3,
+      "characterId": 10,
+      "value": 14,
+      "id": 58
+    },
+    {
+      "attributeId": 6,
+      "characterId": 10,
+      "value": 16,
+      "id": 59
+    },
+    {
+      "attributeId": 5,
+      "characterId": 10,
+      "value": 7,
+      "id": 60
     }
   ]
 }
