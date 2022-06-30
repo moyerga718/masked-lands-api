@@ -476,194 +476,230 @@
       "name": "Arenite",
       "description": "An old and proud race of wanderers, originating from the dry, grassy island of Arkose",
       "mainAttributeId": 1,
-      "speed": 30
+      "speed": 30,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656547593/Species/Arenite/image2_rcjaxn.png"
     },
     {
       "id": 2,
       "name": "Jelid",
       "description": "The chosen people of Escritorio",
       "mainAttributeId": 2,
-      "speed": 30
+      "speed": 30,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530580/Species/Jelid/image1_spmt5f.png"
     },
     {
       "id": 3,
       "name": "Goge",
       "description": "Good and big, the Goge are a hardy people who have made their home in Goge's Staircase",
       "mainAttributeId": 3,
-      "speed": 30
+      "speed": 30,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530580/Species/Goge/image2_u2qekr.png"
     },
     {
       "id": 4,
       "name": "El Dun",
       "description": "What they don't have in size, El-Dun make up for in brain power. Need something fixed? Find an El-Dun",
       "mainAttributeId": 4,
-      "speed": 25
+      "speed": 25,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530579/Species/El%20Dun/image1_dmykzf.png"
     },
     {
       "id": 5,
       "name": "Vir",
       "description": "Instantly recognizable with grey ashen skin and snow white hair, the Vir are an ancient race dedicated to fervent worship of the Circle",
       "mainAttributeId": 5,
-      "speed": 30
+      "speed": 30,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544435/Species/Vir/vir_citizen_ampgyw.jpg"
     },
     {
       "id": 6,
       "name": "Haima",
       "description": "Short... pasty... portly... the life of the party? No one makes a better entertainer (or businessman) than a Haima",
       "mainAttributeId": 6,
-      "speed": 25
+      "speed": 25,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530580/Species/Haima/image1_rxweke.png"
     }
   ],
   "backgrounds": [
     {
       "id": 1,
       "speciesId": 1,
-      "name": "Nomad"
+      "name": "Nomad",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544312/Species/Arenite/nomad_utynyr.jpg"
     },
     {
       "id": 2,
       "speciesId": 1,
-      "name": "Mercenary"
+      "name": "Mercenary",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544312/Species/Arenite/arenite-merc_litlcz.jpg"
     },
     {
       "id": 3,
       "speciesId": 1,
-      "name": "Immigrant"
+      "name": "Immigrant",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544312/Species/Arenite/arenite-immigrant-2_ykvc5x.jpg"
     },
     {
       "id": 4,
       "speciesId": 1,
-      "name": "Rancher"
+      "name": "Rancher",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544312/Species/Arenite/arenite-rancher_t5j4x9.png"
     },
     {
       "id": 5,
       "speciesId": 1,
-      "name": "Islander"
+      "name": "Islander",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544312/Species/Arenite/arenite-islander_w8ci9h.jpg"
     },
     {
       "id": 6,
       "speciesId": 2,
-      "name": "Citizen"
+      "name": "Citizen",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544402/Species/Jelid/jelid-citizen_hcr7uk.jpg"
     },
     {
       "id": 7,
       "speciesId": 2,
-      "name": "Wanderer"
+      "name": "Wanderer",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544402/Species/Jelid/jelid-wanderer-1_mx6hy0.png"
     },
     {
       "id": 8,
       "speciesId": 2,
-      "name": "Tribal"
+      "name": "Tribal",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656547024/Species/Jelid/jelid-tribal_bize17.jpg"
     },
     {
       "id": 9,
       "speciesId": 2,
-      "name": "Storyteller"
+      "name": "Storyteller",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544402/Species/Jelid/jelid-storyteller-1_f3afow.jpg"
     },
     {
       "id": 10,
       "speciesId": 2,
-      "name": "Islander"
+      "name": "Islander",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656547793/Species/Jelid/jelid-islander_owdpor.png"
     },
     {
       "id": 11,
       "speciesId": 3,
-      "name": "Veteran"
+      "name": "Veteran",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544359/Species/Goge/goge-veteran_gjvtex.png"
     },
     {
       "id": 12,
       "speciesId": 3,
-      "name": "Citizen"
+      "name": "Citizen",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656547964/Species/Goge/goge-citizen_q8ahqv.png"
     },
     {
       "id": 13,
       "speciesId": 3,
-      "name": "Thug"
+      "name": "Thug",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548030/Species/Goge/goge-thug_wlpy6r.png"
     },
     {
       "id": 14,
       "speciesId": 3,
-      "name": "Craftsman"
+      "name": "Craftsman",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544359/Species/Goge/goge-craftsman_fh2ery.jpg"
     },
     {
       "id": 15,
       "speciesId": 3,
-      "name": "Islander"
+      "name": "Islander",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548104/Species/Goge/goge-islander_gfqueh.jpg"
     },
     {
       "id": 16,
       "speciesId": 4,
-      "name": "Academic"
+      "name": "Academic",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544339/Species/El%20Dun/eldun-academic_atgwbv.png"
     },
     {
       "id": 17,
       "speciesId": 4,
-      "name": "Sailor"
+      "name": "Sailor",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544338/Species/El%20Dun/el_dun_sailor_y0paj1.jpg"
     },
     {
       "id": 18,
       "speciesId": 4,
-      "name": "Criminal"
+      "name": "Criminal",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544338/Species/El%20Dun/el_dun_criminal_loklou.jpg"
     },
     {
       "id": 19,
       "speciesId": 4,
-      "name": "Citizen"
+      "name": "Citizen",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544339/Species/El%20Dun/el_dun_citizen-1_u4tubv.jpg"
     },
     {
       "id": 20,
       "speciesId": 4,
-      "name": "Islander"
+      "name": "Islander",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544338/Species/El%20Dun/el_dun_islander_chnlrp.png"
     },
     {
       "id": 21,
       "speciesId": 5,
-      "name": "Citizen"
+      "name": "Citizen",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530580/Species/Vir/image2_ijtk1w.png"
     },
     {
       "id": 22,
       "speciesId": 5,
-      "name": "Evangelist"
+      "name": "Evangelist",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544435/Species/Vir/vir-evangelist_lrc9fn.jpg"
     },
     {
       "id": 23,
       "speciesId": 5,
-      "name": "Refugee"
+      "name": "Refugee",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530580/Species/Vir/image1_fsojhc.png"
     },
     {
       "id": 24,
       "speciesId": 5,
-      "name": "Criminal"
+      "name": "Criminal",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544435/Species/Vir/vir_criminal_mhk65p.jpg"
     },
     {
       "id": 25,
       "speciesId": 5,
-      "name": "Islander"
+      "name": "Islander",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544435/Species/Vir/vir-islander_ehwgom.jpg"
     },
     {
       "id": 26,
       "speciesId": 6,
-      "name": "Merchant"
+      "name": "Merchant",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544382/Species/Haima/haima-merchant-1_zfdnt4.jpg"
     },
     {
       "id": 27,
       "speciesId": 6,
-      "name": "Refugee"
+      "name": "Refugee",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548945/Species/Haima/haima-refugee-1_poyqg0.jpg"
     },
     {
       "id": 28,
       "speciesId": 6,
-      "name": "Veteran"
+      "name": "Veteran",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544382/Species/Haima/haima-veteran_bkxmsk.jpg"
     },
     {
       "id": 29,
       "speciesId": 6,
-      "name": "Spy"
+      "name": "Spy",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656544382/Species/Haima/haima_-_spy_csyyzd.jpg"
     },
     {
       "id": 30,
       "speciesId": 6,
-      "name": "Islander"
+      "name": "Islander",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656549003/Species/Haima/haima-islander_jscuwe.jpg"
     }
   ],
   "classes": [
@@ -674,7 +710,8 @@
       "bonusAttributeId": 1,
       "maxLife": 10,
       "will": 2,
-      "stamina": 5
+      "stamina": 5,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530637/Class/Mercenary/mercenary-3_ib1mfl.jpg"
     },
     {
       "id": 2,
@@ -683,7 +720,8 @@
       "bonusAttributeId": 2,
       "maxLife": 6,
       "will": 3,
-      "stamina": 4
+      "stamina": 4,
+      "imageUrl":"https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548199/Class/Outlaw/outlaw-3_mqwpe5.jpg"
     },
     {
       "id": 3,
@@ -692,7 +730,8 @@
       "bonusAttributeId": 3,
       "maxLife": 8,
       "will": 2,
-      "stamina": 4
+      "stamina": 4,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530636/Class/Arcanist/arcanist-2_f9etay.jpg"
     },
     {
       "id": 4,
@@ -701,7 +740,8 @@
       "bonusAttributeId": 4,
       "maxLife": 6,
       "will": 4,
-      "stamina": 3
+      "stamina": 3,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Tinker/tinker-1_qwrkrt.jpg"
     },
     {
       "id": 5,
@@ -710,7 +750,8 @@
       "bonusAttributeId": 5,
       "maxLife": 4,
       "will": 5,
-      "stamina": 2
+      "stamina": 2,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530636/Class/Channeler/dnd-wizbuild-coverimg_jbgew7.jpg"
     },
     {
       "id": 6,
@@ -719,7 +760,8 @@
       "bonusAttributeId": 6,
       "maxLife": 10,
       "will": 2,
-      "stamina": 5
+      "stamina": 5,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548410/Class/Singer/singer_bqxpzp.jpg"
     }
   ],
   "subclasses": [
@@ -733,7 +775,8 @@
       "willPerLevel": 1,
       "stamina": 5,
       "staminaPerLevel": 3,
-      "devotionPoints": 1
+      "devotionPoints": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530637/Class/Mercenary/jelid-merc_akl4s4.png"
     },
     {
       "id": 2,
@@ -745,7 +788,8 @@
       "willPerLevel": 2,
       "stamina": 3,
       "staminaPerLevel": 1,
-      "devotionPoints": 3
+      "devotionPoints": 3,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548867/Class/Mercenary/arenite-sun-merc-paladin_a3feon.png"
     },
     {
       "id": 3,
@@ -757,7 +801,8 @@
       "willPerLevel": 1,
       "stamina": 4,
       "staminaPerLevel": 2,
-      "devotionPoints": 2
+      "devotionPoints": 2,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656539298/Class/Outlaw/outlaw-2_cidfly.jpg"
     },
     {
       "id": 4,
@@ -769,7 +814,8 @@
       "willPerLevel": 1,
       "stamina": 4,
       "staminaPerLevel": 2,
-      "devotionPoints": 1
+      "devotionPoints": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Outlaw/hunter-1_ykt545.jpg"
     },
     {
       "id": 5,
@@ -781,7 +827,8 @@
       "willPerLevel": 2,
       "stamina": 4,
       "staminaPerLevel": 2,
-      "devotionPoints": 3
+      "devotionPoints": 3,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548296/Class/Outlaw/jelid-ranger_hnmc0i.png"
     },
     {
       "id": 6,
@@ -793,7 +840,8 @@
       "willPerLevel": 1,
       "stamina": 3,
       "staminaPerLevel": 1,
-      "devotionPoints": 2
+      "devotionPoints": 2,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548601/Class/Arcanist/Arcanist_xa7nje.png"
     },
     {
       "id": 7,
@@ -805,7 +853,8 @@
       "willPerLevel": 1,
       "stamina": 4,
       "staminaPerLevel": 2,
-      "devotionPoints": 1
+      "devotionPoints": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530636/Class/Arcanist/wolf-knight-2_m0r7fd.jpg"
     },
     {
       "id": 8,
@@ -817,7 +866,8 @@
       "willPerLevel": 2,
       "stamina": 3,
       "staminaPerLevel": 1,
-      "devotionPoints": 3
+      "devotionPoints": 3,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548673/Class/Arcanist/magi_urxmmi.png"
     },
     {
       "id": 9,
@@ -829,7 +879,8 @@
       "willPerLevel": 2,
       "stamina": 3,
       "staminaPerLevel": 1,
-      "devotionPoints": 2
+      "devotionPoints": 2,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Tinker/tinker-2_b3i5gk.jpg"
     },
     {
       "id": 10,
@@ -841,7 +892,8 @@
       "willPerLevel": 1,
       "stamina": 4,
       "staminaPerLevel": 2,
-      "devotionPoints": 1
+      "devotionPoints": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548775/Class/Tinker/tinker_uudvwh.png"
     },
     {
       "id": 11,
@@ -853,7 +905,8 @@
       "willPerLevel": 3,
       "stamina": 3,
       "staminaPerLevel": 1,
-      "devotionPoints": 5
+      "devotionPoints": 5,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530637/Class/Channeler/el-dun-channeler_meh1gu.png"
     },
     {
       "id": 12,
@@ -865,7 +918,8 @@
       "willPerLevel": 2,
       "stamina": 3,
       "staminaPerLevel": 1,
-      "devotionPoints": 4
+      "devotionPoints": 4,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530637/Class/Channeler/human-monk_soh7ke.png"
     },
     {
       "id": 13,
@@ -877,7 +931,8 @@
       "willPerLevel": 1,
       "stamina": 4,
       "staminaPerLevel": 2,
-      "devotionPoints": 2
+      "devotionPoints": 2,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Singer/goge_singer_qymgux.png"
     },
     {
       "id": 14,
@@ -889,7 +944,8 @@
       "willPerLevel": 1,
       "stamina": 5,
       "staminaPerLevel": 3,
-      "devotionPoints": 1
+      "devotionPoints": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Singer/arenite-rogue_u9vkob.png"
     },
     {
       "id": 15,
@@ -901,7 +957,8 @@
       "willPerLevel": 2,
       "stamina": 4,
       "staminaPerLevel": 2,
-      "devotionPoints": 3
+      "devotionPoints": 3,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548487/Class/Singer/vir-skald_h9zh0y.png"
     }
   ],
   "backgroundAttributeBonuses": [
