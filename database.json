@@ -161,7 +161,8 @@
       "weaponTypeId": 2,
       "attributeId": 1,
       "damageDie": 4,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620663/weapons/1-hatchet_bodvng.jpg"
     },
     {
       "id": 2,
@@ -169,7 +170,8 @@
       "weaponTypeId": 2,
       "attributeId": 1,
       "damageDie": 4,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620655/weapons/2-club_c9mmun.png"
     },
     {
       "id": 3,
@@ -177,7 +179,8 @@
       "weaponTypeId": 2,
       "attributeId": 1,
       "damageDie": 6,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620655/weapons/3-mace_ggylbe.png"
     },
     {
       "id": 4,
@@ -185,7 +188,8 @@
       "weaponTypeId": 2,
       "attributeId": 1,
       "damageDie": 4,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620663/weapons/4-staff_ouzyed.jpg"
     },
     {
       "id": 5,
@@ -193,7 +197,8 @@
       "weaponTypeId": 2,
       "attributeId": 1,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620663/weapons/5-greatclub_b8rjmt.jpg"
     },
     {
       "id": 6,
@@ -201,7 +206,8 @@
       "weaponTypeId": 2,
       "attributeId": 2,
       "damageDie": 4,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620649/weapons/6-dagger_wulxqe.jpg"
     },
     {
       "id": 7,
@@ -209,7 +215,8 @@
       "weaponTypeId": 2,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620649/weapons/7-machete_oibbxx.jpg"
     },
     {
       "id": 8,
@@ -217,7 +224,8 @@
       "weaponTypeId": 2,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620649/weapons/8-spear_r0tmn1.jpg"
     },
     {
       "id": 9,
@@ -225,7 +233,8 @@
       "weaponTypeId": 1,
       "attributeId": 1,
       "damageDie": 4,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620656/weapons/9-brass-knuckles_hbfph7.png"
     },
     {
       "id": 10,
@@ -233,7 +242,8 @@
       "weaponTypeId": 1,
       "attributeId": 1,
       "damageDie": 2,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620649/weapons/10-fist_aeisaz.jpg"
     },
     {
       "id": 11,
@@ -241,7 +251,8 @@
       "weaponTypeId": 1,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620657/weapons/11-claws_nck2zw.png"
     },
     {
       "id": 12,
@@ -249,7 +260,8 @@
       "weaponTypeId": 3,
       "attributeId": 2,
       "damageDie": 4,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620661/weapons/12-shortbow_pxrsge.png"
     },
     {
       "id": 13,
@@ -257,7 +269,8 @@
       "weaponTypeId": 3,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620661/weapons/13-hunting-bow_m6y0de.png"
     },
     {
       "id": 14,
@@ -265,7 +278,8 @@
       "weaponTypeId": 3,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620661/weapons/14-flintlock-pistol_gihqje.png"
     },
     {
       "id": 15,
@@ -273,7 +287,8 @@
       "weaponTypeId": 3,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620661/weapons/15-flintlock-rifle_bzcxke.png"
     },
     {
       "id": 16,
@@ -281,7 +296,8 @@
       "weaponTypeId": 3,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620662/weapons/16-blunderbuss_lqq2y9.png"
     },
     {
       "id": 17,
@@ -289,7 +305,8 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620649/weapons/17-battle-axe_fyqabh.jpg"
     },
     {
       "id": 18,
@@ -297,7 +314,8 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 6,
-      "numberOfDamageDie": 2
+      "numberOfDamageDie": 2,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620649/weapons/18-greataxe_zoyfpi.jpg"
     },
     {
       "id": 19,
@@ -305,7 +323,8 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 10,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620649/weapons/19-halberd_zal4yc.jpg"
     },
     {
       "id": 20,
@@ -313,7 +332,8 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 6,
-      "numberOfDamageDie": 2
+      "numberOfDamageDie": 2,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620649/weapons/20-claymore_aa7swj.jpg"
     },
     {
       "id": 21,
@@ -321,7 +341,8 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620649/weapons/21-longsword_skw8mg.jpg"
     },
     {
       "id": 22,
@@ -329,7 +350,8 @@
       "weaponTypeId": 4,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620649/weapons/22-cutlass_ekqykb.jpg"
     },
     {
       "id": 23,
@@ -337,7 +359,8 @@
       "weaponTypeId": 4,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620649/weapons/23-rapier_obytg0.jpg"
     },
     {
       "id": 24,
@@ -345,7 +368,8 @@
       "weaponTypeId": 4,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620650/weapons/24-assassins-blade_eq2arg.jpg"
     },
     {
       "id": 25,
@@ -353,7 +377,8 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620650/weapons/25-pike_f3rse3.jpg"
     },
     {
       "id": 26,
@@ -361,7 +386,8 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 12,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620650/weapons/26-lance_yq7dxu.jpg"
     },
     {
       "id": 27,
@@ -369,7 +395,8 @@
       "weaponTypeId": 4,
       "attributeId": 1,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620663/weapons/27-warhammer_ffassv.png"
     },
     {
       "id": 28,
@@ -377,7 +404,8 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620650/weapons/28-longbow_zs3mtf.jpg"
     },
     {
       "id": 29,
@@ -385,7 +413,8 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620650/weapons/29-crossbow_cmjwbg.jpg"
     },
     {
       "id": 30,
@@ -393,7 +422,8 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620654/weapons/30-handcrossbow_fkulc9.jpg"
     },
     {
       "id": 31,
@@ -401,7 +431,8 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 6,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620654/weapons/31-revolver_cxwyb2.jpg"
     },
     {
       "id": 32,
@@ -409,7 +440,8 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 10,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620654/weapons/32-bolt-action-rifle_vcfsaj.jpg"
     },
     {
       "id": 33,
@@ -417,7 +449,8 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620654/weapons/33-carbine_ajkhyy.jpg"
     },
     {
       "id": 34,
@@ -425,7 +458,8 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 20,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620654/weapons/34-yak-rifle_txo7qx.jpg"
     },
     {
       "id": 35,
@@ -433,7 +467,8 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620654/weapons/35-double-barrel_wsyhry.jpg"
     },
     {
       "id": 36,
@@ -441,7 +476,8 @@
       "weaponTypeId": 5,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620654/weapons/36-sawed-off_lgt3md.jpg"
     },
     {
       "id": 37,
@@ -449,7 +485,8 @@
       "weaponTypeId": 6,
       "attributeId": 2,
       "damageDie": 8,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620654/weapons/37-arenite-sword_u08puc.jpg"
     },
     {
       "id": 38,
@@ -457,7 +494,8 @@
       "weaponTypeId": 6,
       "attributeId": 1,
       "damageDie": 10,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620663/weapons/38-arenite-greatsword_zwjnd2.png"
     },
     {
       "id": 39,
@@ -465,7 +503,8 @@
       "weaponTypeId": 6,
       "attributeId": 2,
       "damageDie": 10,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620654/weapons/39-skirmish-bow_kodr1j.jpg"
     },
     {
       "id": 40,
@@ -473,7 +512,8 @@
       "weaponTypeId": 7,
       "attributeId": 2,
       "damageDie": 10,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620654/weapons/40-sequoia-spear_qu2waw.jpg"
     },
     {
       "id": 41,
@@ -481,7 +521,8 @@
       "weaponTypeId": 7,
       "attributeId": 2,
       "damageDie": 20,
-      "numberOfDamageDie": 1
+      "numberOfDamageDie": 1,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620654/weapons/41-sequoia-greatbow_hybgv0.jpg"
     }
   ],
   "species": [
@@ -1667,7 +1708,8 @@
       "baseAC": 11,
       "dexBonus": true,
       "bonusCap": 0,
-      "strengthRequirement": 0
+      "strengthRequirement": 0,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/1-padded-clothes_kvlejy.jpg"
     },
     {
       "id": 2,
@@ -1676,7 +1718,8 @@
       "baseAC": 12,
       "dexBonus": true,
       "bonusCap": 0,
-      "strengthRequirement": 0
+      "strengthRequirement": 0,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/2-fitted-leather-armor_pvv4fv.png"
     },
     {
       "id": 3,
@@ -1685,7 +1728,8 @@
       "baseAC": 12,
       "dexBonus": true,
       "bonusCap": 2,
-      "strengthRequirement": 0
+      "strengthRequirement": 0,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/3-leather-duster_mujrgx.png"
     },
     {
       "id": 4,
@@ -1694,7 +1738,8 @@
       "baseAC": 13,
       "dexBonus": true,
       "bonusCap": 2,
-      "strengthRequirement": 0
+      "strengthRequirement": 0,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/4-reinforced-leather_ff8ebm.png"
     },
     {
       "id": 5,
@@ -1703,7 +1748,8 @@
       "baseAC": 14,
       "dexBonus": true,
       "bonusCap": 2,
-      "strengthRequirement": 0
+      "strengthRequirement": 0,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/5-steel-banded_rzy70c.jpg"
     },
     {
       "id": 6,
@@ -1712,7 +1758,8 @@
       "baseAC": 14,
       "dexBonus": true,
       "bonusCap": 2,
-      "strengthRequirement": 0
+      "strengthRequirement": 0,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/6-armored_duster_fhkmku.png"
     },
     {
       "id": 7,
@@ -1721,7 +1768,8 @@
       "baseAC": 15,
       "dexBonus": true,
       "bonusCap": 2,
-      "strengthRequirement": 0
+      "strengthRequirement": 0,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/7-steelsilk_r0h56o.jpg"
     },
     {
       "id": 8,
@@ -1730,7 +1778,8 @@
       "baseAC": 15,
       "dexBonus": false,
       "bonusCap": 0,
-      "strengthRequirement": 0
+      "strengthRequirement": 0,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/8-antique_x12lqd.png"
     },
     {
       "id": 9,
@@ -1739,7 +1788,8 @@
       "baseAC": 16,
       "dexBonus": false,
       "bonusCap": 0,
-      "strengthRequirement": 13
+      "strengthRequirement": 13,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/9-knights-armor_yy8hv7.jpg"
     },
     {
       "id": 10,
@@ -1748,7 +1798,8 @@
       "baseAC": 17,
       "dexBonus": false,
       "bonusCap": 0,
-      "strengthRequirement": 15
+      "strengthRequirement": 15,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/10-ornate_zfhx3e.png"
     },
     {
       "id": 11,
@@ -1757,7 +1808,8 @@
       "baseAC": 18,
       "dexBonus": false,
       "bonusCap": 0,
-      "strengthRequirement": 17
+      "strengthRequirement": 17,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/11-warfighter_l2vmeu.jpg"
     },
     {
       "id": 12,
@@ -1766,7 +1818,8 @@
       "baseAC": 10,
       "dexBonus": false,
       "bonusCap": 0,
-      "strengthRequirement": 0
+      "strengthRequirement": 0,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/12-travelers_clothes_vx2y8i.png"
     },
     {
       "id": 13,
@@ -1775,7 +1828,8 @@
       "baseAC": 10,
       "dexBonus": false,
       "bonusCap": 0,
-      "strengthRequirement": 0
+      "strengthRequirement": 0,
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656620607/armor/13-religious-attire_kwqjw4.png"
     }
   ],
   "subclassArmorProficiencies": [
