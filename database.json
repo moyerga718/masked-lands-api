@@ -38,48 +38,6 @@
       "armorId": 3
     },
     {
-      "id": 8,
-      "userId": 1,
-      "level": 0,
-      "name": "please",
-      "bio": "work",
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656010507/Character%20Images/sseg9mluzwrujbknheny.jpg",
-      "speciesId": 1,
-      "backgroundId": 1,
-      "classId": 1,
-      "subclassId": 2,
-      "weaponId": 22,
-      "armorId": 9
-    },
-    {
-      "id": 9,
-      "userId": 3,
-      "level": 0,
-      "name": "test",
-      "bio": "test",
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656097635/Character%20Images/fxapxsnsj5cw5qopfnry.jpg",
-      "speciesId": 1,
-      "backgroundId": 4,
-      "classId": 2,
-      "subclassId": 3,
-      "weaponId": 32,
-      "armorId": 1
-    },
-    {
-      "id": 10,
-      "userId": 1,
-      "level": 0,
-      "name": "Duntimore",
-      "bio": "small lil guy",
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656382224/Character%20Images/fzrgpqluldh0se9g8nkd.jpg",
-      "speciesId": 4,
-      "backgroundId": 19,
-      "classId": 4,
-      "subclassId": 9,
-      "weaponId": 16,
-      "armorId": 2
-    },
-    {
       "id": 11,
       "userId": 1,
       "level": 0,
@@ -92,6 +50,76 @@
       "subclassId": 1,
       "weaponId": 32,
       "armorId": 9
+    },
+    {
+      "id": 13,
+      "userId": 1,
+      "level": 0,
+      "name": "Jurgi Bunko",
+      "bio": "This is bunk!",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656703454/Character%20Images/eayjogpsjaaetkeihzxm.webp",
+      "speciesId": 4,
+      "backgroundId": 19,
+      "classId": 6,
+      "subclassId": 13,
+      "weaponId": 14,
+      "armorId": 2
+    },
+    {
+      "id": 14,
+      "userId": 1,
+      "level": 0,
+      "name": "Buckets Crunderdunder",
+      "bio": "It's always half full ;)",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656708693/Character%20Images/caokstkytbhrz9mstmoz.png",
+      "speciesId": 6,
+      "backgroundId": 30,
+      "classId": 3,
+      "subclassId": 6,
+      "weaponId": 15,
+      "armorId": 2
+    },
+    {
+      "id": 15,
+      "userId": 1,
+      "level": 0,
+      "name": "Jimmy Biscuits",
+      "bio": "Sweet and covered n honey baybeeee",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656708941/Character%20Images/fw7grzzy9s0wpcsbv88b.jpg",
+      "speciesId": 5,
+      "backgroundId": 25,
+      "classId": 6,
+      "subclassId": 15,
+      "weaponId": 5,
+      "armorId": 1
+    },
+    {
+      "id": 16,
+      "userId": 1,
+      "level": 0,
+      "name": "Dad",
+      "bio": "Enter daddi mode",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656709813/Character%20Images/yzfldjwndqybi5yyoemf.webp",
+      "speciesId": 2,
+      "backgroundId": 10,
+      "classId": 3,
+      "subclassId": 7,
+      "weaponId": 6,
+      "armorId": 1
+    },
+    {
+      "id": 17,
+      "userId": 3,
+      "level": 0,
+      "name": "Undyr",
+      "bio": "Have you heard of the good book?",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656714492/Character%20Images/utzfyqpcmji7wodzugmn.png",
+      "speciesId": 5,
+      "backgroundId": 23,
+      "classId": 5,
+      "subclassId": 11,
+      "weaponId": 10,
+      "armorId": 13
     }
   ],
   "attributes": [
@@ -152,6 +180,10 @@
     {
       "id": 8,
       "name": "Artificed Weapons"
+    },
+    {
+      "id": 9,
+      "name": "Unarmed"
     }
   ],
   "weapons": [
@@ -239,7 +271,7 @@
     {
       "id": 10,
       "name": "Fist",
-      "weaponTypeId": 1,
+      "weaponTypeId": 9,
       "attributeId": 1,
       "damageDie": 2,
       "numberOfDamageDie": 1,
@@ -1680,6 +1712,81 @@
       "id": 40,
       "subclassId": 15,
       "weaponTypeId": 3
+    },
+    {
+      "id": 41,
+      "subclassId": 1,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 42,
+      "subclassId": 2,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 43,
+      "subclassId": 3,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 44,
+      "subclassId": 4,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 45,
+      "subclassId": 5,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 46,
+      "subclassId": 6,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 47,
+      "subclassId": 7,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 48,
+      "subclassId": 8,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 49,
+      "subclassId": 9,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 50,
+      "subclassId": 10,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 51,
+      "subclassId": 11,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 52,
+      "subclassId": 12,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 53,
+      "subclassId": 13,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 54,
+      "subclassId": 14,
+      "weaponTypeId": 9
+    },
+    {
+      "id": 55,
+      "subclassId": 15,
+      "weaponTypeId": 9
     }
   ],
   "armorTypes": [
@@ -1697,7 +1804,7 @@
     },
     {
       "id": 4,
-      "name": "No Armor Proficiency"
+      "name": "Plainclothes"
     }
   ],
   "armors": [
@@ -1957,38 +2064,132 @@
       "id": 25,
       "subclassId": 15,
       "armorTypeId": 1
+    },
+    {
+      "id": 26,
+      "subclassId": 1,
+      "armorTypeId": 4
+    },
+    {
+      "id": 27,
+      "subclassId": 2,
+      "armorTypeId": 4
+    },
+    {
+      "id": 28,
+      "subclassId": 3,
+      "armorTypeId": 4
+    },
+    {
+      "id": 29,
+      "subclassId": 4,
+      "armorTypeId": 4
+    },
+    {
+      "id": 30,
+      "subclassId": 5,
+      "armorTypeId": 4
+    },
+    {
+      "id": 31,
+      "subclassId": 6,
+      "armorTypeId": 4
+    },
+    {
+      "id": 32,
+      "subclassId": 7,
+      "armorTypeId": 4
+    },
+    {
+      "id": 33,
+      "subclassId": 8,
+      "armorTypeId": 4
+    },
+    {
+      "id": 34,
+      "subclassId": 9,
+      "armorTypeId": 4
+    },
+    {
+      "id": 35,
+      "subclassId": 10,
+      "armorTypeId": 4
+    },
+    {
+      "id": 36,
+      "subclassId": 12,
+      "armorTypeId": 4
+    },
+    {
+      "id": 37,
+      "subclassId": 13,
+      "armorTypeId": 4
+    },
+    {
+      "id": 38,
+      "subclassId": 14,
+      "armorTypeId": 4
+    },
+    {
+      "id": 39,
+      "subclassId": 15,
+      "armorTypeId": 4
     }
   ],
   "gods": [
     {
       "id": 1,
       "name": "Sunface",
-      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456229/god%20icons/sunface_icon_tayysa.png"
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456229/god%20icons/sunface_icon_tayysa.png",
+      "description": "Matron deity of the Arenite people. She represents the heat and light of each dawn, the flourishing of life, and the beginning of a new day. Her devotees channel her to create flames from nothingness and manipulate the heat of the world around them.",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656690713/god%20icons/sunface-cropped_cli4l8.jpg",
+      "alignment": "True Sustainable",
+      "rgb": "212, 14, 8"
     },
     {
       "id": 2,
       "name": "Moonface",
-      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456229/god%20icons/moonface-icon_fekkrn.png"
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456229/god%20icons/moonface-icon_fekkrn.png",
+      "description": "Patron deity of the El-Dun people. He represents the darkness of night, the glow of the unknown, and the end of each known day. His devotees channel him to create powerful beams of cosmic energy and bring about the black of the beyond to swallow their foes.",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656690713/god%20icons/moonface-cropped_ydiqym.jpg",
+      "alignment": "True Balance",
+      "rgb": "37, 92, 153"
     },
     {
       "id": 3,
       "name": "Escritorio",
-      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/escritorio-icon_necyk6.png"
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/escritorio-icon_necyk6.png",
+      "description": "Patron deity of the Jelid people and the twin brother of Goge. He determines the cycle of life, the never-ending change of the seasons, the currents, the weather, and the revolution of the new over the old. His Devotees channel him to twist the elements of life and to alter their own form.",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656690714/god%20icons/escritorio_pic_qduwuw.png",
+      "alignment": "Sustainable Chaos",
+      "rgb": "89, 205, 144"
     },
     {
       "id": 4,
       "name": "Goge, the Architect",
-      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/goge-icon_vpwfpf.png"
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/goge-icon_vpwfpf.png",
+      "description": "Patron deity of the Goge people and the twin brother of Escritorio. He represents the unchanging mountain cliff, the strength of unity and constancy, and the slow, undaunted churning of the earth. His devotees channel him to shape the stones and to bring tectonic destruction from beneath the feet of their foes.",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656690714/god%20icons/goge-cropped_a3iqfc.jpg",
+      "alignment": "True Order",
+      "rgb": "141, 141, 146"
     },
     {
       "id": 5,
       "name": "Faelina of Light",
-      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/faelina_icon_mfzavh.png"
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/faelina_icon_mfzavh.png",
+      "description": "One of the two ascended Human deities. She represents the light of knowledge, kindness to a stranger, and the power of goodness to overcome cruelty. Her devotees channel her to cast powerful healing magics and to devastate their foes with her scintillating light. ",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656690714/god%20icons/faelina-crop-2_uln3xu.png",
+      "alignment": "Ordered Sustainable",
+      "rgb": "248, 213, 122"
     },
     {
       "id": 6,
       "name": "Garthank, the Trickster",
-      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/garthank-icon_fwcfqj.png"
+      "iconUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656456230/god%20icons/garthank-icon_fwcfqj.png",
+      "description": "One of the two ascended Human deities. He represents the vicissitudes of fate, the whims of chance, and a short but pleasurable life. His devotees channel him to load the dice in their favor and to play tricks on their friends and foes alike. ",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656690714/god%20icons/garthank-crop_h6y6ot.jpg",
+      "alignment": "True Chaos",
+      "rgb": "74, 37, 69"
     }
   ],
   "characterDevotion": [
@@ -2035,132 +2236,6 @@
       "devLevel": 0
     },
     {
-      "characterId": 8,
-      "godId": 1,
-      "devPoints": 3,
-      "devLevel": 1,
-      "id": 43
-    },
-    {
-      "characterId": 8,
-      "godId": 4,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 44
-    },
-    {
-      "characterId": 8,
-      "godId": 2,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 45
-    },
-    {
-      "characterId": 8,
-      "godId": 3,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 46
-    },
-    {
-      "characterId": 8,
-      "godId": 5,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 47
-    },
-    {
-      "characterId": 8,
-      "godId": 6,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 48
-    },
-    {
-      "characterId": 9,
-      "godId": 2,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 49
-    },
-    {
-      "characterId": 9,
-      "godId": 1,
-      "devPoints": 2,
-      "devLevel": 1,
-      "id": 50
-    },
-    {
-      "characterId": 9,
-      "godId": 5,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 51
-    },
-    {
-      "characterId": 9,
-      "godId": 3,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 52
-    },
-    {
-      "characterId": 9,
-      "godId": 6,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 53
-    },
-    {
-      "characterId": 9,
-      "godId": 4,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 54
-    },
-    {
-      "characterId": 10,
-      "godId": 1,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 55
-    },
-    {
-      "characterId": 10,
-      "godId": 3,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 56
-    },
-    {
-      "characterId": 10,
-      "godId": 2,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 57
-    },
-    {
-      "characterId": 10,
-      "godId": 4,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 58
-    },
-    {
-      "characterId": 10,
-      "godId": 6,
-      "devPoints": 2,
-      "devLevel": 1,
-      "id": 59
-    },
-    {
-      "characterId": 10,
-      "godId": 5,
-      "devPoints": 0,
-      "devLevel": 0,
-      "id": 60
-    },
-    {
       "characterId": 11,
       "godId": 3,
       "devPoints": 0,
@@ -2201,6 +2276,216 @@
       "devPoints": 0,
       "devLevel": 0,
       "id": 66
+    },
+    {
+      "characterId": 13,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 73
+    },
+    {
+      "characterId": 13,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 74
+    },
+    {
+      "characterId": 13,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 75
+    },
+    {
+      "characterId": 13,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 76
+    },
+    {
+      "characterId": 13,
+      "godId": 5,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 77
+    },
+    {
+      "characterId": 13,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 78
+    },
+    {
+      "characterId": 14,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 79
+    },
+    {
+      "characterId": 14,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 80
+    },
+    {
+      "characterId": 14,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 81
+    },
+    {
+      "characterId": 14,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 82
+    },
+    {
+      "characterId": 14,
+      "godId": 2,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 83
+    },
+    {
+      "characterId": 14,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 84
+    },
+    {
+      "characterId": 15,
+      "godId": 1,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 85
+    },
+    {
+      "characterId": 15,
+      "godId": 2,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 86
+    },
+    {
+      "characterId": 15,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 87
+    },
+    {
+      "characterId": 15,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 88
+    },
+    {
+      "characterId": 15,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 89
+    },
+    {
+      "characterId": 15,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 90
+    },
+    {
+      "characterId": 16,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 91
+    },
+    {
+      "characterId": 16,
+      "godId": 2,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 92
+    },
+    {
+      "characterId": 16,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 93
+    },
+    {
+      "characterId": 16,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 94
+    },
+    {
+      "characterId": 16,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 95
+    },
+    {
+      "characterId": 16,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 96
+    },
+    {
+      "characterId": 17,
+      "godId": 2,
+      "devPoints": 5,
+      "devLevel": 2,
+      "id": 97
+    },
+    {
+      "characterId": 17,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 98
+    },
+    {
+      "characterId": 17,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 99
+    },
+    {
+      "characterId": 17,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 100
+    },
+    {
+      "characterId": 17,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 101
+    },
+    {
+      "characterId": 17,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 102
     }
   ],
   "characterAttributes": [
@@ -2242,114 +2527,6 @@
     },
     {
       "attributeId": 1,
-      "characterId": 8,
-      "value": 16,
-      "id": 43
-    },
-    {
-      "attributeId": 3,
-      "characterId": 8,
-      "value": 10,
-      "id": 44
-    },
-    {
-      "attributeId": 6,
-      "characterId": 8,
-      "value": 10,
-      "id": 45
-    },
-    {
-      "attributeId": 4,
-      "characterId": 8,
-      "value": 11,
-      "id": 46
-    },
-    {
-      "attributeId": 2,
-      "characterId": 8,
-      "value": 15,
-      "id": 47
-    },
-    {
-      "attributeId": 5,
-      "characterId": 8,
-      "value": 18,
-      "id": 48
-    },
-    {
-      "attributeId": 1,
-      "characterId": 9,
-      "value": 13,
-      "id": 49
-    },
-    {
-      "attributeId": 2,
-      "characterId": 9,
-      "value": 11,
-      "id": 50
-    },
-    {
-      "attributeId": 3,
-      "characterId": 9,
-      "value": 12,
-      "id": 51
-    },
-    {
-      "attributeId": 4,
-      "characterId": 9,
-      "value": 11,
-      "id": 52
-    },
-    {
-      "attributeId": 5,
-      "characterId": 9,
-      "value": 16,
-      "id": 53
-    },
-    {
-      "attributeId": 6,
-      "characterId": 9,
-      "value": 11,
-      "id": 54
-    },
-    {
-      "attributeId": 2,
-      "characterId": 10,
-      "value": 15,
-      "id": 55
-    },
-    {
-      "attributeId": 1,
-      "characterId": 10,
-      "value": 13,
-      "id": 56
-    },
-    {
-      "attributeId": 4,
-      "characterId": 10,
-      "value": 16,
-      "id": 57
-    },
-    {
-      "attributeId": 3,
-      "characterId": 10,
-      "value": 14,
-      "id": 58
-    },
-    {
-      "attributeId": 6,
-      "characterId": 10,
-      "value": 16,
-      "id": 59
-    },
-    {
-      "attributeId": 5,
-      "characterId": 10,
-      "value": 7,
-      "id": 60
-    },
-    {
-      "attributeId": 1,
       "characterId": 11,
       "value": 8,
       "id": 61
@@ -2383,6 +2560,186 @@
       "characterId": 11,
       "value": 10,
       "id": 66
+    },
+    {
+      "attributeId": 1,
+      "characterId": 13,
+      "value": 9,
+      "id": 73
+    },
+    {
+      "attributeId": 2,
+      "characterId": 13,
+      "value": 12,
+      "id": 74
+    },
+    {
+      "attributeId": 3,
+      "characterId": 13,
+      "value": 10,
+      "id": 75
+    },
+    {
+      "attributeId": 4,
+      "characterId": 13,
+      "value": 16,
+      "id": 76
+    },
+    {
+      "attributeId": 5,
+      "characterId": 13,
+      "value": 12,
+      "id": 77
+    },
+    {
+      "attributeId": 6,
+      "characterId": 13,
+      "value": 15,
+      "id": 78
+    },
+    {
+      "attributeId": 1,
+      "characterId": 14,
+      "value": 14,
+      "id": 79
+    },
+    {
+      "attributeId": 2,
+      "characterId": 14,
+      "value": 14,
+      "id": 80
+    },
+    {
+      "attributeId": 6,
+      "characterId": 14,
+      "value": 14,
+      "id": 81
+    },
+    {
+      "attributeId": 3,
+      "characterId": 14,
+      "value": 17,
+      "id": 82
+    },
+    {
+      "attributeId": 4,
+      "characterId": 14,
+      "value": 7,
+      "id": 83
+    },
+    {
+      "attributeId": 5,
+      "characterId": 14,
+      "value": 5,
+      "id": 84
+    },
+    {
+      "attributeId": 1,
+      "characterId": 15,
+      "value": 14,
+      "id": 85
+    },
+    {
+      "attributeId": 2,
+      "characterId": 15,
+      "value": 8,
+      "id": 86
+    },
+    {
+      "attributeId": 3,
+      "characterId": 15,
+      "value": 10,
+      "id": 87
+    },
+    {
+      "attributeId": 4,
+      "characterId": 15,
+      "value": 13,
+      "id": 88
+    },
+    {
+      "attributeId": 5,
+      "characterId": 15,
+      "value": 16,
+      "id": 89
+    },
+    {
+      "attributeId": 6,
+      "characterId": 15,
+      "value": 14,
+      "id": 90
+    },
+    {
+      "attributeId": 1,
+      "characterId": 16,
+      "value": 11,
+      "id": 91
+    },
+    {
+      "attributeId": 4,
+      "characterId": 16,
+      "value": 11,
+      "id": 92
+    },
+    {
+      "attributeId": 2,
+      "characterId": 16,
+      "value": 10,
+      "id": 93
+    },
+    {
+      "attributeId": 3,
+      "characterId": 16,
+      "value": 7,
+      "id": 94
+    },
+    {
+      "attributeId": 5,
+      "characterId": 16,
+      "value": 10,
+      "id": 95
+    },
+    {
+      "attributeId": 6,
+      "characterId": 16,
+      "value": 5,
+      "id": 96
+    },
+    {
+      "attributeId": 1,
+      "characterId": 17,
+      "value": 10,
+      "id": 97
+    },
+    {
+      "attributeId": 2,
+      "characterId": 17,
+      "value": 15,
+      "id": 98
+    },
+    {
+      "attributeId": 3,
+      "characterId": 17,
+      "value": 14,
+      "id": 99
+    },
+    {
+      "attributeId": 4,
+      "characterId": 17,
+      "value": 14,
+      "id": 100
+    },
+    {
+      "attributeId": 5,
+      "characterId": 17,
+      "value": 15,
+      "id": 101
+    },
+    {
+      "attributeId": 6,
+      "characterId": 17,
+      "value": 14,
+      "id": 102
     }
   ]
 }
