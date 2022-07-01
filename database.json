@@ -120,6 +120,20 @@
       "subclassId": 11,
       "weaponId": 10,
       "armorId": 13
+    },
+    {
+      "id": 18,
+      "userId": 3,
+      "level": 0,
+      "name": "Tenki, the Con",
+      "bio": "Aw, nuts",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656715277/Character%20Images/npbr7hthzpngchihnbgo.jpg",
+      "speciesId": 6,
+      "backgroundId": 29,
+      "classId": 6,
+      "subclassId": 14,
+      "weaponId": 24,
+      "armorId": 3
     }
   ],
   "attributes": [
@@ -2486,6 +2500,48 @@
       "devPoints": 0,
       "devLevel": 0,
       "id": 102
+    },
+    {
+      "characterId": 18,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 103
+    },
+    {
+      "characterId": 18,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 104
+    },
+    {
+      "characterId": 18,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 105
+    },
+    {
+      "characterId": 18,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 106
+    },
+    {
+      "characterId": 18,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 107
+    },
+    {
+      "characterId": 18,
+      "godId": 6,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 108
     }
   ],
   "characterAttributes": [
@@ -2740,6 +2796,42 @@
       "characterId": 17,
       "value": 14,
       "id": 102
+    },
+    {
+      "attributeId": 1,
+      "characterId": 18,
+      "value": 6,
+      "id": 103
+    },
+    {
+      "attributeId": 2,
+      "characterId": 18,
+      "value": 14,
+      "id": 104
+    },
+    {
+      "attributeId": 3,
+      "characterId": 18,
+      "value": 11,
+      "id": 105
+    },
+    {
+      "attributeId": 4,
+      "characterId": 18,
+      "value": 9,
+      "id": 106
+    },
+    {
+      "attributeId": 5,
+      "characterId": 18,
+      "value": 6,
+      "id": 107
+    },
+    {
+      "attributeId": 6,
+      "characterId": 18,
+      "value": 15,
+      "id": 108
     }
   ]
 }
