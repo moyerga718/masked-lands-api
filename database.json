@@ -134,6 +134,20 @@
       "subclassId": 14,
       "weaponId": 24,
       "armorId": 3
+    },
+    {
+      "id": 19,
+      "userId": 3,
+      "level": 0,
+      "name": "Hungle Tonnomore",
+      "bio": "The guy likes bread. Ok? That's it. Bread and power. Ok... that's it.",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656732832/Character%20Images/uhyjz4g1hdoweev0dbov.jpg",
+      "speciesId": 4,
+      "backgroundId": 16,
+      "classId": 5,
+      "subclassId": 11,
+      "weaponId": 10,
+      "armorId": 12
     }
   ],
   "attributes": [
@@ -2217,7 +2231,7 @@
       "fullDescription": "Cause flames within 15ft to dim, brighten, change color, move up to 5ft in directions you choose, and form shapes of your choice. You can strike combatants within range with these flames. Make an attunement Spell Attack vs Dex. On hit, the target takes 1d6(+Att) Fire damage.",
       "actionType": "Standard Action",
       "willCost": 0,
-      "range": 15 
+      "range": 15
     },
     {
       "id": 3,
@@ -2228,7 +2242,7 @@
       "fullDescription": "As an action, you can heat up or cool off an object you are touching up to 100 degrees Celsius, or down to 0 degrees Celsius. If used on a unit, they make a Constitution vs Attunement saving throw or take 1d6(+Att) Fire/Frost damage. If Fire damage, the target takes an additional 1d6 Fire damage. If Frost damage, the target is slowed for a turn.",
       "actionType": "Standard Action",
       "willCost": 0,
-      "range": 0 
+      "range": 0
     },
     {
       "id": 4,
@@ -2239,7 +2253,7 @@
       "fullDescription": "Target takes 1d12(+Att) Fire Damage and takes ongoing 1d6 fire damage.",
       "actionType": "Standard Action",
       "willCost": 2,
-      "range": 40 
+      "range": 40
     },
     {
       "id": 5,
@@ -2261,7 +2275,7 @@
       "fullDescription": "After 20 mins spent in direct sunlight, you recover up to half of your maximum life. While in combat, at the beginning of a turn spent in direct sunlight, recover 1(+Con) life.",
       "actionType": "Passive Ability",
       "willCost": 0,
-      "range": 0 
+      "range": 0
     },
     {
       "id": 7,
@@ -2305,7 +2319,7 @@
       "fullDescription": "Move a tiny-sized object within 30ft using your mind up to 20ft. If you would strike a combatant with an object you are moving, make an Attunement vs AC spell attack. On hit, the target takes an amount of Force damage depending on the size and type of object used. If used to wield a weapon, apply spell attack proficiency instead of weapon proficiency, and use Attunement as the attack and damage stat.",
       "actionType": "Standard Action",
       "willCost": 0,
-      "range": 30 
+      "range": 30
     },
     {
       "id": 11,
@@ -2327,7 +2341,7 @@
       "fullDescription": "A 10ft radius within 100ft becomes covered with shadows. Stealth checks are advantaged while in this space, passive detection automatically fails against anyone within, and any perception checks to see or hear anything within are disadvantaged. For those caught within the space, this is considered true darkness, and all visual perception checks are disadvantaged and passive detection of anything fails. Lasts for two minutes (three rounds).",
       "actionType": "Standard Action",
       "willCost": 1,
-      "range": 100 
+      "range": 100
     },
     {
       "id": 13,
@@ -2338,7 +2352,7 @@
       "fullDescription": "You gain 60ft of dark vision.",
       "actionType": "Passive Ability",
       "willCost": 0,
-      "range": 60 
+      "range": 60
     },
     {
       "id": 14,
@@ -2349,7 +2363,7 @@
       "fullDescription": "Target takes 2d6(+Att) Force Damage and you can choose to either pull them closer to you or shove them away 10ft.",
       "actionType": "Standard Action",
       "willCost": 3,
-      "range":  50
+      "range": 50
     },
     {
       "id": 15,
@@ -2360,7 +2374,7 @@
       "fullDescription": "Make a Religion vs. 15(-DevotionLevel) skill check. On success, you succeed a failed saving throw. You then gain advantage on saving throws of this type for the next 5 minutes (3 rounds). You gain one point of devotion. Can only be used once between long rests.",
       "actionType": "Standard Action",
       "willCost": 3,
-      "range": 0  
+      "range": 0
     },
     {
       "id": 16,
@@ -2371,7 +2385,7 @@
       "fullDescription": "Cause a living non sentient object you are touching to grow or decay. Among other things, you can cause a plant to bear fruit out of season, grow a tree to extraordinary heights, or wither away.  You must remain in contact with the object for up to 6 hours for the effect to take place completely. Time required depends on the scale of the Shaping.",
       "actionType": "Standard Action",
       "willCost": 1,
-      "range": 0 
+      "range": 0
     },
     {
       "id": 17,
@@ -2382,7 +2396,7 @@
       "fullDescription": "Shape the wind. Cause the wind to gather in a point within 5ft, or pull gusts in any direction of your choice within 50ft. Any number of targets along a contiguous line of the wind’s movement units make Dex vs Attunement saves or take 1d4(+Att) force damage and are knocked prone (save Con vs Att). If you already have the wind gathered at a point near you, you can send a larger gust at a target within 25ft. Make an Att vs. Dex spell attack on the target. On hit, the gust deals 1d8(+Att) force damage and knocks the target back 5ft (save Con vs Att).",
       "actionType": "Standard Action",
       "willCost": 0,
-      "range": 50 
+      "range": 50
     },
     {
       "id": 18,
@@ -2404,7 +2418,7 @@
       "fullDescription": "Targets takes 1d12(+Att) Force Damage and is knocked prone (Dex save vs Att).",
       "actionType": "Standard Action",
       "willCost": 3,
-      "range": 60 
+      "range": 60
     },
     {
       "id": 20,
@@ -2481,7 +2495,7 @@
       "fullDescription": "Conjure a hammer from stone or earth you can reach. Consider this a magic mace for its properties and proficiency purposes. As a weapon attack action, you can swing the hammer at a target, making an Attunement vs. AC melee weapon attack on the target, dealing 1d10(+Att) force damage, and knocking the target prone (save Dex vs Att).",
       "actionType": "Standard Action",
       "willCost": 2,
-      "range":  0
+      "range": 0
     },
     {
       "id": 27,
@@ -2547,7 +2561,7 @@
       "fullDescription": "A hostile humanoid in range, or a humanoid that is Frenzied must make an Intelligence vs Attunement saving throw. On fail, the unit becomes pacified temporarily, and its frenzy is cured.",
       "actionType": "Standard Action",
       "willCost": 3,
-      "range": 50 
+      "range": 50
     },
     {
       "id": 33,
@@ -2558,7 +2572,7 @@
       "fullDescription": "Spark a 10ft burst within 60ft. All living units within AoE are healed 2d6(+Att) life and 1d4(+Att) stamina. Non-living and Demonic units make a Con vs Att saving throw. On fail, these units take 2d12(+Att) Radiant damage.",
       "actionType": "Standard Action",
       "willCost": 5,
-      "range": 60 
+      "range": 60
     },
     {
       "id": 34,
@@ -2569,7 +2583,7 @@
       "fullDescription": "Make a Luck check vs. 10. On success, recover 1d20 life, will, and stamina. You gain one point of devotion. Can only be used once between long rests.",
       "actionType": "Standard Action",
       "willCost": 2,
-      "range": 0 
+      "range": 0
     },
     {
       "id": 35,
@@ -2580,7 +2594,7 @@
       "fullDescription": "Roll Garthank’s dice (D6,D8, D10). Your equipped weapon is transmogrified into a random alternative based on the quality of the roll",
       "actionType": "Standard Action",
       "willCost": 5,
-      "range": 0 
+      "range": 0
     },
     {
       "id": 36,
@@ -2591,7 +2605,7 @@
       "fullDescription": "If you would take damage from a harmful effect, you can expend one of your Cat’s Lives to reduce this damage to 0. You have Cat’s Lives equal to your Devotion Level. You recover half (rounded up) of your total Cat’s Lives whenever you take a long rest. ",
       "actionType": "Passive Ability",
       "willCost": 0,
-      "range": 0 
+      "range": 0
     },
     {
       "id": 37,
@@ -2602,11 +2616,11 @@
       "fullDescription": "An attack roll that is targeting you, or you make an attack against a target that does not hit. Either reduce or increase the value of that roll by 1d10.",
       "actionType": "Reaction",
       "willCost": 1,
-      "range": 0 
+      "range": 0
     },
     {
       "id": 38,
-      "godId":6 ,
+      "godId": 6,
       "devLevel": 2,
       "name": "Tip the Scales",
       "shortDescription": "Nudge a damage die in your favor by increasing damage you or an ally deals, or decreasing the damage of an opponent.",
@@ -2974,6 +2988,48 @@
       "devPoints": 1,
       "devLevel": 0,
       "id": 108
+    },
+    {
+      "characterId": 19,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 109
+    },
+    {
+      "characterId": 19,
+      "godId": 1,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 110
+    },
+    {
+      "characterId": 19,
+      "godId": 2,
+      "devPoints": 3,
+      "devLevel": 1,
+      "id": 111
+    },
+    {
+      "characterId": 19,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 112
+    },
+    {
+      "characterId": 19,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 113
+    },
+    {
+      "characterId": 19,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 114
     }
   ],
   "characterAttributes": [
@@ -3264,6 +3320,42 @@
       "characterId": 18,
       "value": 15,
       "id": 108
+    },
+    {
+      "attributeId": 1,
+      "characterId": 19,
+      "value": 6,
+      "id": 109
+    },
+    {
+      "attributeId": 2,
+      "characterId": 19,
+      "value": 12,
+      "id": 110
+    },
+    {
+      "attributeId": 4,
+      "characterId": 19,
+      "value": 14,
+      "id": 111
+    },
+    {
+      "attributeId": 3,
+      "characterId": 19,
+      "value": 10,
+      "id": 112
+    },
+    {
+      "attributeId": 5,
+      "characterId": 19,
+      "value": 14,
+      "id": 113
+    },
+    {
+      "attributeId": 6,
+      "characterId": 19,
+      "value": 7,
+      "id": 114
     }
   ]
 }
