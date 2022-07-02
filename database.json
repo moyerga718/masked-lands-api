@@ -120,6 +120,20 @@
       "subclassId": 11,
       "weaponId": 10,
       "armorId": 13
+    },
+    {
+      "id": 18,
+      "userId": 3,
+      "level": 0,
+      "name": "Tenki, the Con",
+      "bio": "Aw, nuts",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656715277/Character%20Images/npbr7hthzpngchihnbgo.jpg",
+      "speciesId": 6,
+      "backgroundId": 29,
+      "classId": 6,
+      "subclassId": 14,
+      "weaponId": 24,
+      "armorId": 3
     }
   ],
   "attributes": [
@@ -1644,11 +1658,6 @@
       "weaponTypeId": 3
     },
     {
-      "id": 27,
-      "subclassId": 9,
-      "weaponTypeId": 8
-    },
-    {
       "id": 28,
       "subclassId": 10,
       "weaponTypeId": 2
@@ -1662,11 +1671,6 @@
       "id": 30,
       "subclassId": 10,
       "weaponTypeId": 5
-    },
-    {
-      "id": 31,
-      "subclassId": 10,
-      "weaponTypeId": 8
     },
     {
       "id": 32,
@@ -2192,6 +2196,448 @@
       "rgb": "74, 37, 69"
     }
   ],
+  "spells": [
+    {
+      "id": 1,
+      "godId": 1,
+      "devLevel": 1,
+      "name": "Blessing of Dawn",
+      "shortDescription": "Feel the warmth of Sunface shine upon you, revitalizing you in your moment of greatest darkness. ",
+      "fullDescription": "Make a Religion vs. 15 (-Devotion level) check. On success, recover 2d6(+Att) Life or Stamina. You give off 30ft of daylight for the next hour. You gain one point of devotion.",
+      "actionType": "Standard Action",
+      "willCost": 3,
+      "range": 0
+    },
+    {
+      "id": 2,
+      "godId": 1,
+      "devLevel": 1,
+      "name": "Pyromancy",
+      "shortDescription": "Create flame at will and control its movements.",
+      "fullDescription": "Cause flames within 15ft to dim, brighten, change color, move up to 5ft in directions you choose, and form shapes of your choice. You can strike combatants within range with these flames. Make an attunement Spell Attack vs Dex. On hit, the target takes 1d6(+Att) Fire damage.",
+      "actionType": "Standard Action",
+      "willCost": 0,
+      "range": 15 
+    },
+    {
+      "id": 3,
+      "godId": 1,
+      "devLevel": 1,
+      "name": "Thermomancy",
+      "shortDescription": "Control the heat of an object you can touch, up to waters boiling temperature or down to its freezing point.",
+      "fullDescription": "As an action, you can heat up or cool off an object you are touching up to 100 degrees Celsius, or down to 0 degrees Celsius. If used on a unit, they make a Constitution vs Attunement saving throw or take 1d6(+Att) Fire/Frost damage. If Fire damage, the target takes an additional 1d6 Fire damage. If Frost damage, the target is slowed for a turn.",
+      "actionType": "Standard Action",
+      "willCost": 0,
+      "range": 0 
+    },
+    {
+      "id": 4,
+      "godId": 1,
+      "devLevel": 2,
+      "name": "Firebolt",
+      "shortDescription": "Fire a bolt of flame at a single foe.",
+      "fullDescription": "Target takes 1d12(+Att) Fire Damage and takes ongoing 1d6 fire damage.",
+      "actionType": "Standard Action",
+      "willCost": 2,
+      "range": 40 
+    },
+    {
+      "id": 5,
+      "godId": 1,
+      "devLevel": 2,
+      "name": "Personal Sun",
+      "shortDescription": "Summon a small orb of light that hovers above your head.",
+      "fullDescription": " A floating ball of light appears above your head, giving off 60ft of daylight. It can follow you around, or you can place it at the location you are standing as a bonus action. While out of combat, you and any allies within 10ft of the orb recover 1d6(+Con) Life and Stamina every 20 minutes.",
+      "actionType": "Standard Action",
+      "willCost": 2,
+      "range": 0
+    },
+    {
+      "id": 6,
+      "godId": 1,
+      "devLevel": 2,
+      "name": "Photosynthesis",
+      "shortDescription": "While in direct sunlight, you slowly recover your life essence.",
+      "fullDescription": "After 20 mins spent in direct sunlight, you recover up to half of your maximum life. While in combat, at the beginning of a turn spent in direct sunlight, recover 1(+Con) life.",
+      "actionType": "Passive Ability",
+      "willCost": 0,
+      "range": 0 
+    },
+    {
+      "id": 7,
+      "godId": 1,
+      "devLevel": 2,
+      "name": "Flame Whirl",
+      "shortDescription": "Launch a whirling string of flame at a group of foes.",
+      "fullDescription": "Targets takes 2d6(+Att) Fire Damage and takes ongoing 1d6 fire damage.",
+      "actionType": "Standard Action",
+      "willCost": 4,
+      "range": 25
+    },
+    {
+      "id": 8,
+      "godId": 2,
+      "devLevel": 1,
+      "name": "Blessing of the Lake",
+      "shortDescription": "The soft sinking of the Moon Lake calms the mind and girds against mental intrusion.",
+      "fullDescription": "Make a Religion check vs. 15(-DevotionLevel). On success, recover 2d6(+Att) Will. You are advantaged on saves against mental effects for the next hour (frenzy, fear, charm, etc.). You gain one point of devotion.",
+      "actionType": "Standard Action",
+      "willCost": 3,
+      "range": 0
+    },
+    {
+      "id": 9,
+      "godId": 2,
+      "devLevel": 1,
+      "name": "Phase Shift",
+      "shortDescription": "Step through a slip between the weave of reality and reappear instantly in a nearby location.",
+      "fullDescription": "Teleport 5ft in any direction instantaneously. Can only be used once per turn (once every 10 seconds outside of combat). You must be able to perceive your destination with three or more senses in order to Phase Shift into it. Senses include sight, sound, taste, touch, scent, dreamsense, etc. This shift is considered a true teleport, and so is unaffected by movement/speed restrictions.",
+      "actionType": "Bonus Action",
+      "willCost": 0,
+      "range": 0
+    },
+    {
+      "id": 10,
+      "godId": 2,
+      "devLevel": 1,
+      "name": "Telekinesis",
+      "shortDescription": "Move a distant object by shifting it through space with celestial magic.",
+      "fullDescription": "Move a tiny-sized object within 30ft using your mind up to 20ft. If you would strike a combatant with an object you are moving, make an Attunement vs AC spell attack. On hit, the target takes an amount of Force damage depending on the size and type of object used. If used to wield a weapon, apply spell attack proficiency instead of weapon proficiency, and use Attunement as the attack and damage stat.",
+      "actionType": "Standard Action",
+      "willCost": 0,
+      "range": 30 
+    },
+    {
+      "id": 11,
+      "godId": 2,
+      "devLevel": 2,
+      "name": "Moonbeam",
+      "shortDescription": "Fire a ray of celestial energy at a single foe.",
+      "fullDescription": "Target takes 2d8(+Att) Cosmic Damage.",
+      "actionType": "Standard Action",
+      "willCost": 2,
+      "range": 45
+    },
+    {
+      "id": 12,
+      "godId": 2,
+      "devLevel": 2,
+      "name": "Enshaden",
+      "shortDescription": "Wrap a nearby location in dampening shadows. Muffling sounds within and creating a gyre of impenetrable darkness.",
+      "fullDescription": "A 10ft radius within 100ft becomes covered with shadows. Stealth checks are advantaged while in this space, passive detection automatically fails against anyone within, and any perception checks to see or hear anything within are disadvantaged. For those caught within the space, this is considered true darkness, and all visual perception checks are disadvantaged and passive detection of anything fails. Lasts for two minutes (three rounds).",
+      "actionType": "Standard Action",
+      "willCost": 1,
+      "range": 100 
+    },
+    {
+      "id": 13,
+      "godId": 2,
+      "devLevel": 2,
+      "name": "Darkvision",
+      "shortDescription": "Moonface has granted you the ability to see in darkness as if it were day.",
+      "fullDescription": "You gain 60ft of dark vision.",
+      "actionType": "Passive Ability",
+      "willCost": 0,
+      "range": 60 
+    },
+    {
+      "id": 14,
+      "godId": 2,
+      "devLevel": 2,
+      "name": "Gravity Sink",
+      "shortDescription": "Open up a gravitational disturbance beside a group of adversaries, tugging them off-center and dealing heavy force damage to them.",
+      "fullDescription": "Target takes 2d6(+Att) Force Damage and you can choose to either pull them closer to you or shove them away 10ft.",
+      "actionType": "Standard Action",
+      "willCost": 3,
+      "range":  50
+    },
+    {
+      "id": 15,
+      "godId": 3,
+      "devLevel": 1,
+      "name": "Escritorio's Blessing",
+      "shortDescription": "Escritorio intervenes in a dire situation, using the power granted by his place on the Shifting Throne to rewrite reality",
+      "fullDescription": "Make a Religion vs. 15(-DevotionLevel) skill check. On success, you succeed a failed saving throw. You then gain advantage on saving throws of this type for the next 5 minutes (3 rounds). You gain one point of devotion. Can only be used once between long rests.",
+      "actionType": "Standard Action",
+      "willCost": 3,
+      "range": 0  
+    },
+    {
+      "id": 16,
+      "godId": 3,
+      "devLevel": 1,
+      "name": "Cell Shaping",
+      "shortDescription": "Shape with the individual cells of a non-sentient living object. You can cause it to flourish or wither. Allows the spontaneous growth and decay of plantlife, fungi, bacterium, etc.",
+      "fullDescription": "Cause a living non sentient object you are touching to grow or decay. Among other things, you can cause a plant to bear fruit out of season, grow a tree to extraordinary heights, or wither away.  You must remain in contact with the object for up to 6 hours for the effect to take place completely. Time required depends on the scale of the Shaping.",
+      "actionType": "Standard Action",
+      "willCost": 1,
+      "range": 0 
+    },
+    {
+      "id": 17,
+      "godId": 3,
+      "devLevel": 1,
+      "name": "Windshaping",
+      "shortDescription": "You can shape the wind to your tastes.",
+      "fullDescription": "Shape the wind. Cause the wind to gather in a point within 5ft, or pull gusts in any direction of your choice within 50ft. Any number of targets along a contiguous line of the wind’s movement units make Dex vs Attunement saves or take 1d4(+Att) force damage and are knocked prone (save Con vs Att). If you already have the wind gathered at a point near you, you can send a larger gust at a target within 25ft. Make an Att vs. Dex spell attack on the target. On hit, the gust deals 1d8(+Att) force damage and knocks the target back 5ft (save Con vs Att).",
+      "actionType": "Standard Action",
+      "willCost": 0,
+      "range": 50 
+    },
+    {
+      "id": 18,
+      "godId": 3,
+      "devLevel": 2,
+      "name": "Upgraded Cell Shaping",
+      "shortDescription": "Shape with the individual cells of a non-sentient living object, you can cause it to flourish or wither. Allows the spontaneous growth and decay of plantlife, fungi, bacterium, etc.",
+      "fullDescription": "Cause a living non sentient object within 30ft to grow or decay. Among other things, you can cause a plant to bear fruit out of season, grow to extraordinary heights, or wither away. You must remain near the object for up to 8 hours for the effect to take place completely. Time required depends on the scale of the Shaping",
+      "actionType": "Standard Action",
+      "willCost": 1,
+      "range": 30
+    },
+    {
+      "id": 19,
+      "godId": 3,
+      "devLevel": 2,
+      "name": "Gust of Wind",
+      "shortDescription": "Gather a squall in your hands and send it hurtling at a nearby foe.",
+      "fullDescription": "Targets takes 1d12(+Att) Force Damage and is knocked prone (Dex save vs Att).",
+      "actionType": "Standard Action",
+      "willCost": 3,
+      "range": 60 
+    },
+    {
+      "id": 20,
+      "godId": 3,
+      "devLevel": 2,
+      "name": "Lightshaped Orb",
+      "shortDescription": "Gather a small orb of light that hovers above your head.",
+      "fullDescription": "A floating ball of light appears above your head, giving off 60ft of daylight. Outside of combat, you and all allies within 10ft of the orb gain 1d4(+Att) Stamina every 20 mins. ",
+      "actionType": "Standard Action",
+      "willCost": 2,
+      "range": 0
+    },
+    {
+      "id": 21,
+      "godId": 3,
+      "devLevel": 2,
+      "name": "Thunderbolt",
+      "shortDescription": "Blast a distant target with a jolt of electricity",
+      "fullDescription": "Target takes 2d6 (+Att) Bolt Damage and is paralyzed (Save Con vs 15). ",
+      "actionType": "Standard",
+      "willCost": 2,
+      "range": 40
+    },
+    {
+      "id": 22,
+      "godId": 4,
+      "devLevel": 1,
+      "name": "Blessing of the Architect",
+      "shortDescription": "You feel the earth around you settle into place as you gird yourself with Goge’s strength.",
+      "fullDescription": "Make a Religion check vs. 15(-DevotionLevel). On success, you gain +2 Strength and +2 AC for the next hour. You gain one point of devotion.",
+      "actionType": "Standard Action",
+      "willCost": 3,
+      "range": 0
+    },
+    {
+      "id": 23,
+      "godId": 4,
+      "devLevel": 1,
+      "name": "Sculptor",
+      "shortDescription": "Channel Goge to shape the earth in any shape you please.",
+      "fullDescription": "Shape up to 15ft (3 squares) of contiguous stone within 40ft. Shape the stone into a wall, cause it to cave into a pit, etc. Combatants within the affected area make a Dex vs. 12 spell save or take 1d4(+Att) force damage and are knocked prone. On success, target shifts out of the affected area.",
+      "actionType": "Standard Action",
+      "willCost": 2,
+      "range": 40
+    },
+    {
+      "id": 24,
+      "godId": 4,
+      "devLevel": 2,
+      "name": "Quake",
+      "shortDescription": "Cause a small tremor beneath the feet of your foes to knock them to the ground.",
+      "fullDescription": "Make a 10ft burst with a corner in range. This area is now difficult terrain. All combatants in range make a Dex vs Att saving throw. On fail, targets take 1d6(+Att) force damage and are knocked prone. On success, targets take half force damage.",
+      "actionType": "Standard Action",
+      "willCost": 3,
+      "range": 45
+    },
+    {
+      "id": 25,
+      "godId": 4,
+      "devLevel": 2,
+      "name": "Pillar of Earth",
+      "shortDescription": "Pull a thick pillar of earth out of the ground to send a combatant skyward.",
+      "fullDescription": "A 10ft radius within 50ft is risen 30ft into the air. Ranged attacks made from the pillar are advantaged at those below, and ranged attacks made at targets on top of the pillar are disadvantaged. Melee attacks cannot be made from nor at the top of the pillar.",
+      "actionType": "Standard Action",
+      "willCost": 2,
+      "range": 50
+    },
+    {
+      "id": 26,
+      "godId": 4,
+      "devLevel": 2,
+      "name": "Hammer of Stone",
+      "shortDescription": "Reach into the earth and tear out a hammer formed from the stones of Aldmerra.",
+      "fullDescription": "Conjure a hammer from stone or earth you can reach. Consider this a magic mace for its properties and proficiency purposes. As a weapon attack action, you can swing the hammer at a target, making an Attunement vs. AC melee weapon attack on the target, dealing 1d10(+Att) force damage, and knocking the target prone (save Dex vs Att).",
+      "actionType": "Standard Action",
+      "willCost": 2,
+      "range":  0
+    },
+    {
+      "id": 27,
+      "godId": 4,
+      "devLevel": 2,
+      "name": "Boulder Throw",
+      "shortDescription": "Break a chunk of earth away and hurl it at a nearby target.",
+      "fullDescription": " Target takes 1d12(+Att) Force damage and is knocked prone.",
+      "actionType": "Standard Action",
+      "willCost": 1,
+      "range": 25
+    },
+    {
+      "id": 28,
+      "godId": 5,
+      "devLevel": 1,
+      "name": "Blessing of the Light",
+      "shortDescription": "The pure radiant light of Faelina’s presence appears to you in your time of need.",
+      "fullDescription": "Make a Religion check vs. 15(-DevotionLevel). On success, you or an ally within 30ft recover 2d10(+Att) life. You gain one point of devotion.",
+      "actionType": "Standard Action",
+      "willCost": 3,
+      "range": 0
+    },
+    {
+      "id": 29,
+      "godId": 5,
+      "devLevel": 1,
+      "name": "Healing Touch",
+      "shortDescription": "Channel the radiance of Faelina through your hands to heal.",
+      "fullDescription": "Lay hands on a willing living entity. Heal the unit for 1d6(+Att) Life, Will, or Stamina.",
+      "actionType": "Standard",
+      "willCost": 1,
+      "range": 0
+    },
+    {
+      "id": 30,
+      "godId": 5,
+      "devLevel": 2,
+      "name": "Lightshard",
+      "shortDescription": "Fire a shard of crystalized light at a single foe.",
+      "fullDescription": "Target takes 3d4(+Att) Radiant Damage.",
+      "actionType": "Standard Action",
+      "willCost": 2,
+      "range": 45
+    },
+    {
+      "id": 31,
+      "godId": 5,
+      "devLevel": 2,
+      "name": "Embrighten",
+      "shortDescription": "Reveal a location in vindicating light. All units in stealth are forced into the bright.",
+      "fullDescription": "A 30ft radius within 100ft becomes Embrightened. Stealth checks in the area are disadvantaged. This area gives off 100ft of daylight. Furthermore, any units currently undetected in the radius must make a disadvantaged Dexterity save vs Attunement or be revealed.",
+      "actionType": "Standard Action",
+      "willCost": 2,
+      "range": 100
+    },
+    {
+      "id": 32,
+      "godId": 5,
+      "devLevel": 2,
+      "name": "True Word: Calm",
+      "shortDescription": "Faelina reveals to you the words to calm an Earthborn heart. Speak them to restore order to a tempestuous heart.",
+      "fullDescription": "A hostile humanoid in range, or a humanoid that is Frenzied must make an Intelligence vs Attunement saving throw. On fail, the unit becomes pacified temporarily, and its frenzy is cured.",
+      "actionType": "Standard Action",
+      "willCost": 3,
+      "range": 50 
+    },
+    {
+      "id": 33,
+      "godId": 5,
+      "devLevel": 2,
+      "name": "True Word: Light",
+      "shortDescription": "Speak into existence a cascade of radiance. Living units in the radius are healed, while undead and demonic units are damaged.",
+      "fullDescription": "Spark a 10ft burst within 60ft. All living units within AoE are healed 2d6(+Att) life and 1d4(+Att) stamina. Non-living and Demonic units make a Con vs Att saving throw. On fail, these units take 2d12(+Att) Radiant damage.",
+      "actionType": "Standard Action",
+      "willCost": 5,
+      "range": 60 
+    },
+    {
+      "id": 34,
+      "godId": 6,
+      "devLevel": 1,
+      "name": "Blessing of the Dice",
+      "shortDescription": "Roll the Dice and see if the house pays out.",
+      "fullDescription": "Make a Luck check vs. 10. On success, recover 1d20 life, will, and stamina. You gain one point of devotion. Can only be used once between long rests.",
+      "actionType": "Standard Action",
+      "willCost": 2,
+      "range": 0 
+    },
+    {
+      "id": 35,
+      "godId": 6,
+      "devLevel": 1,
+      "name": "Get Creative!",
+      "shortDescription": "Turn a weapon you have equipped into a random alternative. With Garthank’s blessing, this can turn the tides of combat.",
+      "fullDescription": "Roll Garthank’s dice (D6,D8, D10). Your equipped weapon is transmogrified into a random alternative based on the quality of the roll",
+      "actionType": "Standard Action",
+      "willCost": 5,
+      "range": 0 
+    },
+    {
+      "id": 36,
+      "godId": 6,
+      "devLevel": 1,
+      "name": "Cat's Lives",
+      "shortDescription": "A cat has nine lives, why should you only have one?",
+      "fullDescription": "If you would take damage from a harmful effect, you can expend one of your Cat’s Lives to reduce this damage to 0. You have Cat’s Lives equal to your Devotion Level. You recover half (rounded up) of your total Cat’s Lives whenever you take a long rest. ",
+      "actionType": "Passive Ability",
+      "willCost": 0,
+      "range": 0 
+    },
+    {
+      "id": 37,
+      "godId": 6,
+      "devLevel": 2,
+      "name": "Lucky Break",
+      "shortDescription": "Catch a break on an attack roll by making a miss hit, or by making an opponent’s hit miss.",
+      "fullDescription": "An attack roll that is targeting you, or you make an attack against a target that does not hit. Either reduce or increase the value of that roll by 1d10.",
+      "actionType": "Reaction",
+      "willCost": 1,
+      "range": 0 
+    },
+    {
+      "id": 38,
+      "godId":6 ,
+      "devLevel": 2,
+      "name": "Tip the Scales",
+      "shortDescription": "Nudge a damage die in your favor by increasing damage you or an ally deals, or decreasing the damage of an opponent.",
+      "fullDescription": "After an effect you or an ally within 100ft controls deals damage to an opponent, or you or an ally within 100ft would take damage from an opponent’s effect. Roll the damage dice twice and take either the higher or lower value.",
+      "actionType": "Bonus Action",
+      "willCost": 1,
+      "range": 100
+    },
+    {
+      "id": 39,
+      "godId": 6,
+      "devLevel": 2,
+      "name": "Aural Apparition",
+      "shortDescription": "Conjure a phantasmal sound to trick your foes. Auditory illusion only.",
+      "fullDescription": "Roll a Performance check vs. 16(-Devotion Level). On success,  create a convincing sound of your choice at the target. Foes must save Attunement vs. Charisma or be fooled by your sound.",
+      "actionType": "Standard Action",
+      "willCost": 2,
+      "range": 50
+    },
+    {
+      "id": 40,
+      "godId": 6,
+      "devLevel": 2,
+      "name": "Play a Trick!",
+      "shortDescription": "Spice up life by playing a trick or two! Permanently transform an object into a random alternative.",
+      "fullDescription": " Roll Garthank’s dice (D6,D8, D10). The target is transmogrified into a random alternative based on the quality of the roll.",
+      "actionType": "Standard Action",
+      "willCost": 5,
+      "range": 50
+    }
+  ],
   "characterDevotion": [
     {
       "id": 1,
@@ -2486,6 +2932,48 @@
       "devPoints": 0,
       "devLevel": 0,
       "id": 102
+    },
+    {
+      "characterId": 18,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 103
+    },
+    {
+      "characterId": 18,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 104
+    },
+    {
+      "characterId": 18,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 105
+    },
+    {
+      "characterId": 18,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 106
+    },
+    {
+      "characterId": 18,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 107
+    },
+    {
+      "characterId": 18,
+      "godId": 6,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 108
     }
   ],
   "characterAttributes": [
@@ -2740,6 +3228,42 @@
       "characterId": 17,
       "value": 14,
       "id": 102
+    },
+    {
+      "attributeId": 1,
+      "characterId": 18,
+      "value": 6,
+      "id": 103
+    },
+    {
+      "attributeId": 2,
+      "characterId": 18,
+      "value": 14,
+      "id": 104
+    },
+    {
+      "attributeId": 3,
+      "characterId": 18,
+      "value": 11,
+      "id": 105
+    },
+    {
+      "attributeId": 4,
+      "characterId": 18,
+      "value": 9,
+      "id": 106
+    },
+    {
+      "attributeId": 5,
+      "characterId": 18,
+      "value": 6,
+      "id": 107
+    },
+    {
+      "attributeId": 6,
+      "characterId": 18,
+      "value": 15,
+      "id": 108
     }
   ]
 }
