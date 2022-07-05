@@ -148,6 +148,104 @@
       "subclassId": 11,
       "weaponId": 10,
       "armorId": 12
+    },
+    {
+      "id": 20,
+      "userId": 1,
+      "level": 0,
+      "name": "Trent Trenterson",
+      "bio": "More Trent than you'd expect. ",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656868577/Character%20Images/lnouudojbwe9m0trdmls.webp",
+      "speciesId": 4,
+      "backgroundId": 16,
+      "classId": 5,
+      "subclassId": 12,
+      "weaponId": 16,
+      "armorId": 2
+    },
+    {
+      "id": 21,
+      "userId": 1,
+      "level": 0,
+      "name": "Donna Trenchcoat",
+      "bio": "Yes I'd like to open an adults saving account",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656883796/Character%20Images/lkqh1hnh6pkyiuywygom.jpg",
+      "speciesId": 2,
+      "backgroundId": 7,
+      "classId": 2,
+      "subclassId": 5,
+      "weaponId": 28,
+      "armorId": 2
+    },
+    {
+      "id": 22,
+      "userId": 1,
+      "level": 0,
+      "name": "Sir Tubb",
+      "bio": "Another round on me! Yes, tubbs all around!!",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656888649/Character%20Images/ijerce3zc6sqfi4wbjhx.jpg",
+      "speciesId": 6,
+      "backgroundId": 27,
+      "classId": 6,
+      "subclassId": 13,
+      "weaponId": 4,
+      "armorId": 1
+    },
+    {
+      "id": 23,
+      "userId": 1,
+      "level": 0,
+      "name": "Lorretaaaa",
+      "bio": "Uh oh, she's coming for ya",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656992409/Character%20Images/nds04jg5vevdoihs2nmc.png",
+      "speciesId": 2,
+      "backgroundId": 10,
+      "classId": 4,
+      "subclassId": 9,
+      "weaponId": 14,
+      "armorId": 1
+    },
+    {
+      "id": 24,
+      "userId": 1,
+      "level": 0,
+      "name": "Jeb Bush",
+      "bio": "Please clap :(",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656999108/Character%20Images/vtsh0jxccf5lk7zvfznl.png",
+      "speciesId": 1,
+      "backgroundId": 1,
+      "classId": 1,
+      "subclassId": 2,
+      "weaponId": 18,
+      "armorId": 4
+    },
+    {
+      "id": 25,
+      "userId": 1,
+      "level": 0,
+      "name": "Frond",
+      "bio": ":)... ;)",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656999801/Character%20Images/yrdsywacdahpdlklkji0.jpg",
+      "speciesId": 1,
+      "backgroundId": 5,
+      "classId": 3,
+      "subclassId": 7,
+      "weaponId": 35,
+      "armorId": 12
+    },
+    {
+      "id": 26,
+      "userId": 1,
+      "level": 0,
+      "name": "Mr. Man",
+      "bio": "Small guy, my little chipster",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657003163/Character%20Images/i5m7dau6cxjsptmrdppp.webp",
+      "speciesId": 2,
+      "backgroundId": 6,
+      "classId": 4,
+      "subclassId": 9,
+      "weaponId": 15,
+      "armorId": 1
     }
   ],
   "attributes": [
@@ -2189,7 +2287,7 @@
       "description": "Patron deity of the Goge people and the twin brother of Escritorio. He represents the unchanging mountain cliff, the strength of unity and constancy, and the slow, undaunted churning of the earth. His devotees channel him to shape the stones and to bring tectonic destruction from beneath the feet of their foes.",
       "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656690714/god%20icons/goge-cropped_a3iqfc.jpg",
       "alignment": "True Order",
-      "rgb": "141, 141, 146"
+      "rgb": "97, 33, 15"
     },
     {
       "id": 5,
@@ -3030,6 +3128,300 @@
       "devPoints": 0,
       "devLevel": 0,
       "id": 114
+    },
+    {
+      "characterId": 20,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 115
+    },
+    {
+      "characterId": 20,
+      "godId": 2,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 116
+    },
+    {
+      "characterId": 20,
+      "godId": 3,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 117
+    },
+    {
+      "characterId": 20,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 118
+    },
+    {
+      "characterId": 20,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 119
+    },
+    {
+      "characterId": 20,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 120
+    },
+    {
+      "characterId": 21,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 121
+    },
+    {
+      "characterId": 21,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 122
+    },
+    {
+      "characterId": 21,
+      "godId": 3,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 123
+    },
+    {
+      "characterId": 21,
+      "godId": 4,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 124
+    },
+    {
+      "characterId": 21,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 125
+    },
+    {
+      "characterId": 21,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 126
+    },
+    {
+      "characterId": 22,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 127
+    },
+    {
+      "characterId": 22,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 128
+    },
+    {
+      "characterId": 22,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 129
+    },
+    {
+      "characterId": 22,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 130
+    },
+    {
+      "characterId": 22,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 131
+    },
+    {
+      "characterId": 22,
+      "godId": 6,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 132
+    },
+    {
+      "characterId": 23,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 133
+    },
+    {
+      "characterId": 23,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 134
+    },
+    {
+      "characterId": 23,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 135
+    },
+    {
+      "characterId": 23,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 136
+    },
+    {
+      "characterId": 23,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 137
+    },
+    {
+      "characterId": 23,
+      "godId": 6,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 138
+    },
+    {
+      "characterId": 24,
+      "godId": 1,
+      "devPoints": 3,
+      "devLevel": 1,
+      "id": 139
+    },
+    {
+      "characterId": 24,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 140
+    },
+    {
+      "characterId": 24,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 141
+    },
+    {
+      "characterId": 24,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 142
+    },
+    {
+      "characterId": 24,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 143
+    },
+    {
+      "characterId": 24,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 144
+    },
+    {
+      "characterId": 25,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 145
+    },
+    {
+      "characterId": 25,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 146
+    },
+    {
+      "characterId": 25,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 147
+    },
+    {
+      "characterId": 25,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 148
+    },
+    {
+      "characterId": 25,
+      "godId": 5,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 149
+    },
+    {
+      "characterId": 25,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 150
+    },
+    {
+      "characterId": 26,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 151
+    },
+    {
+      "characterId": 26,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 152
+    },
+    {
+      "characterId": 26,
+      "godId": 3,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 153
+    },
+    {
+      "characterId": 26,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 154
+    },
+    {
+      "characterId": 26,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 155
+    },
+    {
+      "characterId": 26,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 156
     }
   ],
   "characterAttributes": [
@@ -3356,6 +3748,258 @@
       "characterId": 19,
       "value": 7,
       "id": 114
+    },
+    {
+      "attributeId": 1,
+      "characterId": 20,
+      "value": 14,
+      "id": 115
+    },
+    {
+      "attributeId": 2,
+      "characterId": 20,
+      "value": 14,
+      "id": 116
+    },
+    {
+      "attributeId": 3,
+      "characterId": 20,
+      "value": 12,
+      "id": 117
+    },
+    {
+      "attributeId": 4,
+      "characterId": 20,
+      "value": 14,
+      "id": 118
+    },
+    {
+      "attributeId": 5,
+      "characterId": 20,
+      "value": 17,
+      "id": 119
+    },
+    {
+      "attributeId": 6,
+      "characterId": 20,
+      "value": 12,
+      "id": 120
+    },
+    {
+      "attributeId": 5,
+      "characterId": 21,
+      "value": 16,
+      "id": 121
+    },
+    {
+      "attributeId": 1,
+      "characterId": 21,
+      "value": 13,
+      "id": 122
+    },
+    {
+      "attributeId": 2,
+      "characterId": 21,
+      "value": 17,
+      "id": 123
+    },
+    {
+      "attributeId": 3,
+      "characterId": 21,
+      "value": 13,
+      "id": 124
+    },
+    {
+      "attributeId": 4,
+      "characterId": 21,
+      "value": 12,
+      "id": 125
+    },
+    {
+      "attributeId": 6,
+      "characterId": 21,
+      "value": 7,
+      "id": 126
+    },
+    {
+      "attributeId": 1,
+      "characterId": 22,
+      "value": 11,
+      "id": 127
+    },
+    {
+      "attributeId": 3,
+      "characterId": 22,
+      "value": 10,
+      "id": 128
+    },
+    {
+      "attributeId": 4,
+      "characterId": 22,
+      "value": 10,
+      "id": 129
+    },
+    {
+      "attributeId": 2,
+      "characterId": 22,
+      "value": 10,
+      "id": 130
+    },
+    {
+      "attributeId": 5,
+      "characterId": 22,
+      "value": 12,
+      "id": 131
+    },
+    {
+      "attributeId": 6,
+      "characterId": 22,
+      "value": 12,
+      "id": 132
+    },
+    {
+      "attributeId": 1,
+      "characterId": 23,
+      "value": 11,
+      "id": 133
+    },
+    {
+      "attributeId": 2,
+      "characterId": 23,
+      "value": 13,
+      "id": 134
+    },
+    {
+      "attributeId": 4,
+      "characterId": 23,
+      "value": 11,
+      "id": 135
+    },
+    {
+      "attributeId": 3,
+      "characterId": 23,
+      "value": 16,
+      "id": 136
+    },
+    {
+      "attributeId": 6,
+      "characterId": 23,
+      "value": 14,
+      "id": 137
+    },
+    {
+      "attributeId": 5,
+      "characterId": 23,
+      "value": 14,
+      "id": 138
+    },
+    {
+      "attributeId": 5,
+      "characterId": 24,
+      "value": 15,
+      "id": 139
+    },
+    {
+      "attributeId": 1,
+      "characterId": 24,
+      "value": 14,
+      "id": 140
+    },
+    {
+      "attributeId": 2,
+      "characterId": 24,
+      "value": 10,
+      "id": 141
+    },
+    {
+      "attributeId": 3,
+      "characterId": 24,
+      "value": 10,
+      "id": 142
+    },
+    {
+      "attributeId": 4,
+      "characterId": 24,
+      "value": 12,
+      "id": 143
+    },
+    {
+      "attributeId": 6,
+      "characterId": 24,
+      "value": 14,
+      "id": 144
+    },
+    {
+      "attributeId": 1,
+      "characterId": 25,
+      "value": 17,
+      "id": 145
+    },
+    {
+      "attributeId": 2,
+      "characterId": 25,
+      "value": 11,
+      "id": 146
+    },
+    {
+      "attributeId": 5,
+      "characterId": 25,
+      "value": 12,
+      "id": 147
+    },
+    {
+      "attributeId": 6,
+      "characterId": 25,
+      "value": 10,
+      "id": 148
+    },
+    {
+      "attributeId": 4,
+      "characterId": 25,
+      "value": 7,
+      "id": 149
+    },
+    {
+      "attributeId": 3,
+      "characterId": 25,
+      "value": 14,
+      "id": 150
+    },
+    {
+      "attributeId": 1,
+      "characterId": 26,
+      "value": 8,
+      "id": 151
+    },
+    {
+      "attributeId": 2,
+      "characterId": 26,
+      "value": 13,
+      "id": 152
+    },
+    {
+      "attributeId": 3,
+      "characterId": 26,
+      "value": 13,
+      "id": 153
+    },
+    {
+      "attributeId": 4,
+      "characterId": 26,
+      "value": 14,
+      "id": 154
+    },
+    {
+      "attributeId": 5,
+      "characterId": 26,
+      "value": 10,
+      "id": 155
+    },
+    {
+      "attributeId": 6,
+      "characterId": 26,
+      "value": 12,
+      "id": 156
     }
   ]
 }
