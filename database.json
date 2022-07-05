@@ -963,7 +963,7 @@
     {
       "id": 1,
       "name": "Mercenary",
-      "description": "A master of combat.",
+      "description": "A master of the battlefield.",
       "bonusAttributeId": 1,
       "maxLife": 10,
       "will": 2,
@@ -1003,7 +1003,7 @@
     {
       "id": 5,
       "name": "Channeler",
-      "description": "The pinnacle of magic",
+      "description": "A vessel of the Gods. Channel the power of the Circle through your fingertips.",
       "bonusAttributeId": 5,
       "maxLife": 4,
       "will": 5,
@@ -1033,7 +1033,8 @@
       "stamina": 5,
       "staminaPerLevel": 3,
       "devotionPoints": 1,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530637/Class/Mercenary/jelid-merc_akl4s4.png"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530637/Class/Mercenary/jelid-merc_akl4s4.png",
+      "description": "All brawn baybee."
     },
     {
       "id": 2,
@@ -1046,7 +1047,8 @@
       "stamina": 3,
       "staminaPerLevel": 1,
       "devotionPoints": 3,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548867/Class/Mercenary/arenite-sun-merc-paladin_a3feon.png"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548867/Class/Mercenary/arenite-sun-merc-paladin_a3feon.png",
+      "description": "Supplement your muscle with some magic"
     },
     {
       "id": 3,
@@ -1059,7 +1061,8 @@
       "stamina": 4,
       "staminaPerLevel": 2,
       "devotionPoints": 2,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656539298/Class/Outlaw/outlaw-2_cidfly.jpg"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656539298/Class/Outlaw/outlaw-2_cidfly.jpg",
+      "description": "Hawk eyes and a trigger finger. This town ain't big enough etc..."
     },
     {
       "id": 4,
@@ -1072,7 +1075,8 @@
       "stamina": 4,
       "staminaPerLevel": 2,
       "devotionPoints": 1,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Outlaw/hunter-1_ykt545.jpg"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Outlaw/hunter-1_ykt545.jpg",
+      "description": "A hunter must hunt. Get up close to satiate that peculiar bloodlust."
     },
     {
       "id": 5,
@@ -1085,7 +1089,8 @@
       "stamina": 4,
       "staminaPerLevel": 2,
       "devotionPoints": 3,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548296/Class/Outlaw/jelid-ranger_hnmc0i.png"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548296/Class/Outlaw/jelid-ranger_hnmc0i.png",
+      "description": "An outlaw with a pious side. Shoots lead and spells."
     },
     {
       "id": 6,
@@ -1098,7 +1103,8 @@
       "stamina": 3,
       "staminaPerLevel": 1,
       "devotionPoints": 2,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548601/Class/Arcanist/Arcanist_xa7nje.png"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548601/Class/Arcanist/Arcanist_xa7nje.png",
+      "description": "Use that Good Blood for good. Or evil. Whatever, really."
     },
     {
       "id": 7,
@@ -1111,7 +1117,8 @@
       "stamina": 4,
       "staminaPerLevel": 2,
       "devotionPoints": 1,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530636/Class/Arcanist/wolf-knight-2_m0r7fd.jpg"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530636/Class/Arcanist/wolf-knight-2_m0r7fd.jpg",
+      "description": "Arcanists specialized in combat as well as arcana."
     },
     {
       "id": 8,
@@ -1124,7 +1131,8 @@
       "stamina": 3,
       "staminaPerLevel": 1,
       "devotionPoints": 3,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548673/Class/Arcanist/magi_urxmmi.png"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548673/Class/Arcanist/magi_urxmmi.png",
+      "description": "Arcanists specialized in channeling a god."
     },
     {
       "id": 9,
@@ -1137,7 +1145,8 @@
       "stamina": 3,
       "staminaPerLevel": 1,
       "devotionPoints": 2,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Tinker/tinker-2_b3i5gk.jpg"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Tinker/tinker-2_b3i5gk.jpg",
+      "description": "Gunk guns, buzz bots, ichors, gee-whiz!"
     },
     {
       "id": 10,
@@ -1150,7 +1159,8 @@
       "stamina": 4,
       "staminaPerLevel": 2,
       "devotionPoints": 1,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548775/Class/Tinker/tinker_uudvwh.png"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548775/Class/Tinker/tinker_uudvwh.png",
+      "description": "Nerd with a knack for riflery."
     },
     {
       "id": 11,
@@ -1163,7 +1173,8 @@
       "stamina": 3,
       "staminaPerLevel": 1,
       "devotionPoints": 5,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530637/Class/Channeler/el-dun-channeler_meh1gu.png"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530637/Class/Channeler/el-dun-channeler_meh1gu.png",
+      "description": "Who needs push-ups when you have prayer?"
     },
     {
       "id": 12,
@@ -1176,7 +1187,8 @@
       "stamina": 3,
       "staminaPerLevel": 1,
       "devotionPoints": 4,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530637/Class/Channeler/human-monk_soh7ke.png"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530637/Class/Channeler/human-monk_soh7ke.png",
+      "description": "A Channeler who doesn't mind getting their fists bloody."
     },
     {
       "id": 13,
@@ -1189,7 +1201,8 @@
       "stamina": 4,
       "staminaPerLevel": 2,
       "devotionPoints": 2,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Singer/goge_singer_qymgux.png"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Singer/goge_singer_qymgux.png",
+      "description": "I had no choice... I was born with the gift of a golden voice."
     },
     {
       "id": 14,
@@ -1202,7 +1215,8 @@
       "stamina": 5,
       "staminaPerLevel": 3,
       "devotionPoints": 1,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Singer/arenite-rogue_u9vkob.png"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656530638/Class/Singer/arenite-rogue_u9vkob.png",
+      "description": "Sneaky sneaky!"
     },
     {
       "id": 15,
@@ -1215,7 +1229,8 @@
       "stamina": 4,
       "staminaPerLevel": 2,
       "devotionPoints": 3,
-      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548487/Class/Singer/vir-skald_h9zh0y.png"
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1656548487/Class/Singer/vir-skald_h9zh0y.png",
+      "description": "Channel the gods with your instrument. The devil went down to Arkose...?"
     }
   ],
   "backgroundAttributeBonuses": [
