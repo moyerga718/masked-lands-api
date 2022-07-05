@@ -246,6 +246,20 @@
       "subclassId": 9,
       "weaponId": 15,
       "armorId": 1
+    },
+    {
+      "id": 27,
+      "userId": 1,
+      "level": 0,
+      "name": "Steve Branston",
+      "bio": "Hmmmph... mmmmmng..... yup. Alright.",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657034616/Character%20Images/bcsmyjowmgvgogmvwpxq.webp",
+      "speciesId": 6,
+      "backgroundId": 27,
+      "classId": 2,
+      "subclassId": 5,
+      "weaponId": 2,
+      "armorId": 1
     }
   ],
   "attributes": [
@@ -3422,6 +3436,48 @@
       "devPoints": 0,
       "devLevel": 0,
       "id": 156
+    },
+    {
+      "characterId": 27,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 157
+    },
+    {
+      "characterId": 27,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 158
+    },
+    {
+      "characterId": 27,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 159
+    },
+    {
+      "characterId": 27,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 160
+    },
+    {
+      "characterId": 27,
+      "godId": 5,
+      "devPoints": 3,
+      "devLevel": 1,
+      "id": 161
+    },
+    {
+      "characterId": 27,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 162
     }
   ],
   "characterAttributes": [
@@ -4000,6 +4056,42 @@
       "characterId": 26,
       "value": 12,
       "id": 156
+    },
+    {
+      "attributeId": 3,
+      "characterId": 27,
+      "value": 9,
+      "id": 157
+    },
+    {
+      "attributeId": 1,
+      "characterId": 27,
+      "value": 7,
+      "id": 158
+    },
+    {
+      "attributeId": 4,
+      "characterId": 27,
+      "value": 9,
+      "id": 159
+    },
+    {
+      "attributeId": 5,
+      "characterId": 27,
+      "value": 14,
+      "id": 160
+    },
+    {
+      "attributeId": 2,
+      "characterId": 27,
+      "value": 17,
+      "id": 161
+    },
+    {
+      "attributeId": 6,
+      "characterId": 27,
+      "value": 16,
+      "id": 162
     }
   ]
 }
