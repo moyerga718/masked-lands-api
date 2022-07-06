@@ -246,6 +246,202 @@
       "subclassId": 5,
       "weaponId": 2,
       "armorId": 1
+    },
+    {
+      "id": 28,
+      "userId": 2,
+      "level": 0,
+      "name": "Sheryl Dough",
+      "bio": "Gonna light u up",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657081285/Character%20Images/fwnkbqfwmc8uhzilfxqo.jpg",
+      "speciesId": 3,
+      "backgroundId": 14,
+      "classId": 4,
+      "subclassId": 10,
+      "weaponId": 29,
+      "armorId": 5
+    },
+    {
+      "id": 29,
+      "userId": 2,
+      "level": 0,
+      "name": "Bonny Bread",
+      "bio": "Surprisingly sneaky despite all that bread",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657081442/Character%20Images/davhuondsksxrd4yap9u.jpg",
+      "speciesId": 4,
+      "backgroundId": 19,
+      "classId": 6,
+      "subclassId": 14,
+      "weaponId": 24,
+      "armorId": 12
+    },
+    {
+      "id": 30,
+      "userId": 2,
+      "level": 0,
+      "name": "Brandon",
+      "bio": "Really tough for a Brandon",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657081580/Character%20Images/dsahg5jgds5v08sxz6ez.jpg",
+      "speciesId": 1,
+      "backgroundId": 1,
+      "classId": 1,
+      "subclassId": 1,
+      "weaponId": 19,
+      "armorId": 9
+    },
+    {
+      "id": 31,
+      "userId": 3,
+      "level": 0,
+      "name": "Cotton Whadley",
+      "bio": "Brother... have you heard the word?",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657081751/Character%20Images/p8i3lcwtk4jcpcjkndq7.jpg",
+      "speciesId": 5,
+      "backgroundId": 22,
+      "classId": 5,
+      "subclassId": 12,
+      "weaponId": 4,
+      "armorId": 13
+    },
+    {
+      "id": 32,
+      "userId": 3,
+      "level": 0,
+      "name": "Log Lady",
+      "bio": "My log has something to say",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657081880/Character%20Images/vhjolxj2rurrpuxyrt8a.jpg",
+      "speciesId": 2,
+      "backgroundId": 9,
+      "classId": 5,
+      "subclassId": 11,
+      "weaponId": 10,
+      "armorId": 12
+    },
+    {
+      "id": 33,
+      "userId": 3,
+      "level": 0,
+      "name": "Hank",
+      "bio": "Well howdy",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657082031/Character%20Images/lch3atd1xtqpkkj9wxj2.jpg",
+      "speciesId": 2,
+      "backgroundId": 7,
+      "classId": 2,
+      "subclassId": 3,
+      "weaponId": 31,
+      "armorId": 2
+    },
+    {
+      "id": 34,
+      "userId": 3,
+      "level": 0,
+      "name": "Tree Trunks",
+      "bio": "Why that's just my alien husband",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657082229/Character%20Images/n2ovzkhflm2qpy62shq0.jpg",
+      "speciesId": 6,
+      "backgroundId": 26,
+      "classId": 4,
+      "subclassId": 9,
+      "weaponId": 10,
+      "armorId": 12
+    },
+    {
+      "id": 35,
+      "userId": 1,
+      "level": 0,
+      "name": "Tatsuro",
+      "bio": "SPARKLE IN MY HEART",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657082377/Character%20Images/wvosrzkpk2vzzuv0dsw1.png",
+      "speciesId": 6,
+      "backgroundId": 29,
+      "classId": 6,
+      "subclassId": 13,
+      "weaponId": 10,
+      "armorId": 1
+    },
+    {
+      "id": 36,
+      "userId": 1,
+      "level": 0,
+      "name": "Gorlon",
+      "bio": "Is that its head? Idk thing is spooky",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657082576/Character%20Images/kirdhimctwxnfwfmy43l.jpg",
+      "speciesId": 3,
+      "backgroundId": 15,
+      "classId": 3,
+      "subclassId": 8,
+      "weaponId": 7,
+      "armorId": 2
+    },
+    {
+      "id": 37,
+      "userId": 1,
+      "level": 0,
+      "name": "Eileen the Crow",
+      "bio": "Ah... a hoonter are ya?",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657082829/Character%20Images/rqfawat0zurbydslaa8b.jpg",
+      "speciesId": 2,
+      "backgroundId": 8,
+      "classId": 2,
+      "subclassId": 4,
+      "weaponId": 24,
+      "armorId": 3
+    },
+    {
+      "id": 38,
+      "userId": 1,
+      "level": 0,
+      "name": "Lester Lipps",
+      "bio": "Please don't say anything about my lips",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657082955/Character%20Images/lumpsowtjfmes5iwq2j3.webp",
+      "speciesId": 2,
+      "backgroundId": 6,
+      "classId": 2,
+      "subclassId": 4,
+      "weaponId": 36,
+      "armorId": 3
+    },
+    {
+      "id": 39,
+      "userId": 2,
+      "level": 0,
+      "name": "Granny Rage",
+      "bio": "Don't refuse the weird watermelon candy, she won't be happy",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657083175/Character%20Images/naxjmokg3brpthoovjzd.jpg",
+      "speciesId": 1,
+      "backgroundId": 5,
+      "classId": 1,
+      "subclassId": 2,
+      "weaponId": 17,
+      "armorId": 7
+    },
+    {
+      "id": 40,
+      "userId": 2,
+      "level": 0,
+      "name": "Norman Von Doyle",
+      "bio": "Call me The Swumbler",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657083270/Character%20Images/qeskmaxkqbllixo5gqyp.jpg",
+      "speciesId": 6,
+      "backgroundId": 26,
+      "classId": 4,
+      "subclassId": 10,
+      "weaponId": 33,
+      "armorId": 1
+    },
+    {
+      "id": 41,
+      "userId": 2,
+      "level": 0,
+      "name": "Rusty Rickets",
+      "bio": "Don't let me run for mayor",
+      "imageUrl": "https://res.cloudinary.com/dfhvmg01x/image/upload/v1657083480/Character%20Images/tiw8h2msrggz0d9uwgkv.jpg",
+      "speciesId": 5,
+      "backgroundId": 24,
+      "classId": 6,
+      "subclassId": 14,
+      "weaponId": 23,
+      "armorId": 2
     }
   ],
   "attributes": [
@@ -3443,6 +3639,594 @@
       "devPoints": 0,
       "devLevel": 0,
       "id": 162
+    },
+    {
+      "characterId": 28,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 163
+    },
+    {
+      "characterId": 28,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 164
+    },
+    {
+      "characterId": 28,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 165
+    },
+    {
+      "characterId": 28,
+      "godId": 4,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 166
+    },
+    {
+      "characterId": 28,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 167
+    },
+    {
+      "characterId": 28,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 168
+    },
+    {
+      "characterId": 29,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 169
+    },
+    {
+      "characterId": 29,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 170
+    },
+    {
+      "characterId": 29,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 171
+    },
+    {
+      "characterId": 29,
+      "godId": 3,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 172
+    },
+    {
+      "characterId": 29,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 173
+    },
+    {
+      "characterId": 29,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 174
+    },
+    {
+      "characterId": 30,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 175
+    },
+    {
+      "characterId": 30,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 176
+    },
+    {
+      "characterId": 30,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 177
+    },
+    {
+      "characterId": 30,
+      "godId": 5,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 178
+    },
+    {
+      "characterId": 30,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 179
+    },
+    {
+      "characterId": 30,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 180
+    },
+    {
+      "characterId": 31,
+      "godId": 2,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 181
+    },
+    {
+      "characterId": 31,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 182
+    },
+    {
+      "characterId": 31,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 183
+    },
+    {
+      "characterId": 31,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 184
+    },
+    {
+      "characterId": 31,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 185
+    },
+    {
+      "characterId": 31,
+      "godId": 6,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 186
+    },
+    {
+      "characterId": 32,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 187
+    },
+    {
+      "characterId": 32,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 188
+    },
+    {
+      "characterId": 32,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 189
+    },
+    {
+      "characterId": 32,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 190
+    },
+    {
+      "characterId": 32,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 191
+    },
+    {
+      "characterId": 32,
+      "godId": 3,
+      "devPoints": 5,
+      "devLevel": 2,
+      "id": 192
+    },
+    {
+      "characterId": 33,
+      "godId": 1,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 193
+    },
+    {
+      "characterId": 33,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 194
+    },
+    {
+      "characterId": 33,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 195
+    },
+    {
+      "characterId": 33,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 196
+    },
+    {
+      "characterId": 33,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 197
+    },
+    {
+      "characterId": 33,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 198
+    },
+    {
+      "characterId": 34,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 199
+    },
+    {
+      "characterId": 34,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 200
+    },
+    {
+      "characterId": 34,
+      "godId": 2,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 201
+    },
+    {
+      "characterId": 34,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 202
+    },
+    {
+      "characterId": 34,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 203
+    },
+    {
+      "characterId": 34,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 204
+    },
+    {
+      "characterId": 35,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 205
+    },
+    {
+      "characterId": 35,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 206
+    },
+    {
+      "characterId": 35,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 207
+    },
+    {
+      "characterId": 35,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 208
+    },
+    {
+      "characterId": 35,
+      "godId": 5,
+      "devPoints": 2,
+      "devLevel": 1,
+      "id": 209
+    },
+    {
+      "characterId": 35,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 210
+    },
+    {
+      "characterId": 36,
+      "godId": 1,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 211
+    },
+    {
+      "characterId": 36,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 212
+    },
+    {
+      "characterId": 36,
+      "godId": 2,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 213
+    },
+    {
+      "characterId": 36,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 214
+    },
+    {
+      "characterId": 36,
+      "godId": 4,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 215
+    },
+    {
+      "characterId": 36,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 216
+    },
+    {
+      "characterId": 37,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 217
+    },
+    {
+      "characterId": 37,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 218
+    },
+    {
+      "characterId": 37,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 219
+    },
+    {
+      "characterId": 37,
+      "godId": 5,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 220
+    },
+    {
+      "characterId": 37,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 221
+    },
+    {
+      "characterId": 37,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 222
+    },
+    {
+      "characterId": 38,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 223
+    },
+    {
+      "characterId": 38,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 224
+    },
+    {
+      "characterId": 38,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 225
+    },
+    {
+      "characterId": 38,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 226
+    },
+    {
+      "characterId": 38,
+      "godId": 6,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 227
+    },
+    {
+      "characterId": 38,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 228
+    },
+    {
+      "characterId": 39,
+      "godId": 1,
+      "devPoints": 3,
+      "devLevel": 1,
+      "id": 229
+    },
+    {
+      "characterId": 39,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 230
+    },
+    {
+      "characterId": 39,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 231
+    },
+    {
+      "characterId": 39,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 232
+    },
+    {
+      "characterId": 39,
+      "godId": 6,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 233
+    },
+    {
+      "characterId": 39,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 234
+    },
+    {
+      "characterId": 40,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 235
+    },
+    {
+      "characterId": 40,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 236
+    },
+    {
+      "characterId": 40,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 237
+    },
+    {
+      "characterId": 40,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 238
+    },
+    {
+      "characterId": 40,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 239
+    },
+    {
+      "characterId": 40,
+      "godId": 6,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 240
+    },
+    {
+      "characterId": 41,
+      "godId": 4,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 241
+    },
+    {
+      "characterId": 41,
+      "godId": 1,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 242
+    },
+    {
+      "characterId": 41,
+      "godId": 2,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 243
+    },
+    {
+      "characterId": 41,
+      "godId": 3,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 244
+    },
+    {
+      "characterId": 41,
+      "godId": 5,
+      "devPoints": 0,
+      "devLevel": 0,
+      "id": 245
+    },
+    {
+      "characterId": 41,
+      "godId": 6,
+      "devPoints": 1,
+      "devLevel": 0,
+      "id": 246
     }
   ],
   "characterAttributes": [
@@ -4021,6 +4805,510 @@
       "characterId": 27,
       "value": 16,
       "id": 162
+    },
+    {
+      "attributeId": 1,
+      "characterId": 28,
+      "value": 11,
+      "id": 163
+    },
+    {
+      "attributeId": 2,
+      "characterId": 28,
+      "value": 11,
+      "id": 164
+    },
+    {
+      "attributeId": 6,
+      "characterId": 28,
+      "value": 11,
+      "id": 165
+    },
+    {
+      "attributeId": 3,
+      "characterId": 28,
+      "value": 15,
+      "id": 166
+    },
+    {
+      "attributeId": 4,
+      "characterId": 28,
+      "value": 17,
+      "id": 167
+    },
+    {
+      "attributeId": 5,
+      "characterId": 28,
+      "value": 10,
+      "id": 168
+    },
+    {
+      "attributeId": 1,
+      "characterId": 29,
+      "value": 13,
+      "id": 169
+    },
+    {
+      "attributeId": 2,
+      "characterId": 29,
+      "value": 15,
+      "id": 170
+    },
+    {
+      "attributeId": 3,
+      "characterId": 29,
+      "value": 13,
+      "id": 171
+    },
+    {
+      "attributeId": 4,
+      "characterId": 29,
+      "value": 18,
+      "id": 172
+    },
+    {
+      "attributeId": 5,
+      "characterId": 29,
+      "value": 13,
+      "id": 173
+    },
+    {
+      "attributeId": 6,
+      "characterId": 29,
+      "value": 17,
+      "id": 174
+    },
+    {
+      "attributeId": 1,
+      "characterId": 30,
+      "value": 13,
+      "id": 175
+    },
+    {
+      "attributeId": 2,
+      "characterId": 30,
+      "value": 13,
+      "id": 176
+    },
+    {
+      "attributeId": 3,
+      "characterId": 30,
+      "value": 11,
+      "id": 177
+    },
+    {
+      "attributeId": 4,
+      "characterId": 30,
+      "value": 9,
+      "id": 178
+    },
+    {
+      "attributeId": 5,
+      "characterId": 30,
+      "value": 10,
+      "id": 179
+    },
+    {
+      "attributeId": 6,
+      "characterId": 30,
+      "value": 8,
+      "id": 180
+    },
+    {
+      "attributeId": 1,
+      "characterId": 31,
+      "value": 7,
+      "id": 181
+    },
+    {
+      "attributeId": 2,
+      "characterId": 31,
+      "value": 9,
+      "id": 182
+    },
+    {
+      "attributeId": 3,
+      "characterId": 31,
+      "value": 7,
+      "id": 183
+    },
+    {
+      "attributeId": 4,
+      "characterId": 31,
+      "value": 10,
+      "id": 184
+    },
+    {
+      "attributeId": 5,
+      "characterId": 31,
+      "value": 14,
+      "id": 185
+    },
+    {
+      "attributeId": 6,
+      "characterId": 31,
+      "value": 12,
+      "id": 186
+    },
+    {
+      "attributeId": 2,
+      "characterId": 32,
+      "value": 14,
+      "id": 187
+    },
+    {
+      "attributeId": 1,
+      "characterId": 32,
+      "value": 11,
+      "id": 188
+    },
+    {
+      "attributeId": 3,
+      "characterId": 32,
+      "value": 11,
+      "id": 189
+    },
+    {
+      "attributeId": 4,
+      "characterId": 32,
+      "value": 12,
+      "id": 190
+    },
+    {
+      "attributeId": 5,
+      "characterId": 32,
+      "value": 17,
+      "id": 191
+    },
+    {
+      "attributeId": 6,
+      "characterId": 32,
+      "value": 15,
+      "id": 192
+    },
+    {
+      "attributeId": 1,
+      "characterId": 33,
+      "value": 11,
+      "id": 193
+    },
+    {
+      "attributeId": 2,
+      "characterId": 33,
+      "value": 16,
+      "id": 194
+    },
+    {
+      "attributeId": 3,
+      "characterId": 33,
+      "value": 16,
+      "id": 195
+    },
+    {
+      "attributeId": 4,
+      "characterId": 33,
+      "value": 9,
+      "id": 196
+    },
+    {
+      "attributeId": 5,
+      "characterId": 33,
+      "value": 16,
+      "id": 197
+    },
+    {
+      "attributeId": 6,
+      "characterId": 33,
+      "value": 11,
+      "id": 198
+    },
+    {
+      "attributeId": 1,
+      "characterId": 34,
+      "value": 5,
+      "id": 199
+    },
+    {
+      "attributeId": 2,
+      "characterId": 34,
+      "value": 6,
+      "id": 200
+    },
+    {
+      "attributeId": 3,
+      "characterId": 34,
+      "value": 11,
+      "id": 201
+    },
+    {
+      "attributeId": 5,
+      "characterId": 34,
+      "value": 7,
+      "id": 202
+    },
+    {
+      "attributeId": 4,
+      "characterId": 34,
+      "value": 10,
+      "id": 203
+    },
+    {
+      "attributeId": 6,
+      "characterId": 34,
+      "value": 10,
+      "id": 204
+    },
+    {
+      "attributeId": 1,
+      "characterId": 35,
+      "value": 6,
+      "id": 205
+    },
+    {
+      "attributeId": 5,
+      "characterId": 35,
+      "value": 10,
+      "id": 206
+    },
+    {
+      "attributeId": 2,
+      "characterId": 35,
+      "value": 11,
+      "id": 207
+    },
+    {
+      "attributeId": 3,
+      "characterId": 35,
+      "value": 10,
+      "id": 208
+    },
+    {
+      "attributeId": 4,
+      "characterId": 35,
+      "value": 9,
+      "id": 209
+    },
+    {
+      "attributeId": 6,
+      "characterId": 35,
+      "value": 14,
+      "id": 210
+    },
+    {
+      "attributeId": 3,
+      "characterId": 36,
+      "value": 16,
+      "id": 211
+    },
+    {
+      "attributeId": 1,
+      "characterId": 36,
+      "value": 15,
+      "id": 212
+    },
+    {
+      "attributeId": 2,
+      "characterId": 36,
+      "value": 13,
+      "id": 213
+    },
+    {
+      "attributeId": 4,
+      "characterId": 36,
+      "value": 12,
+      "id": 214
+    },
+    {
+      "attributeId": 5,
+      "characterId": 36,
+      "value": 15,
+      "id": 215
+    },
+    {
+      "attributeId": 6,
+      "characterId": 36,
+      "value": 10,
+      "id": 216
+    },
+    {
+      "attributeId": 1,
+      "characterId": 37,
+      "value": 13,
+      "id": 217
+    },
+    {
+      "attributeId": 2,
+      "characterId": 37,
+      "value": 16,
+      "id": 218
+    },
+    {
+      "attributeId": 3,
+      "characterId": 37,
+      "value": 14,
+      "id": 219
+    },
+    {
+      "attributeId": 4,
+      "characterId": 37,
+      "value": 8,
+      "id": 220
+    },
+    {
+      "attributeId": 5,
+      "characterId": 37,
+      "value": 11,
+      "id": 221
+    },
+    {
+      "attributeId": 6,
+      "characterId": 37,
+      "value": 13,
+      "id": 222
+    },
+    {
+      "attributeId": 1,
+      "characterId": 38,
+      "value": 10,
+      "id": 223
+    },
+    {
+      "attributeId": 2,
+      "characterId": 38,
+      "value": 15,
+      "id": 224
+    },
+    {
+      "attributeId": 3,
+      "characterId": 38,
+      "value": 12,
+      "id": 225
+    },
+    {
+      "attributeId": 4,
+      "characterId": 38,
+      "value": 14,
+      "id": 226
+    },
+    {
+      "attributeId": 5,
+      "characterId": 38,
+      "value": 7,
+      "id": 227
+    },
+    {
+      "attributeId": 6,
+      "characterId": 38,
+      "value": 8,
+      "id": 228
+    },
+    {
+      "attributeId": 1,
+      "characterId": 39,
+      "value": 17,
+      "id": 229
+    },
+    {
+      "attributeId": 2,
+      "characterId": 39,
+      "value": 13,
+      "id": 230
+    },
+    {
+      "attributeId": 3,
+      "characterId": 39,
+      "value": 13,
+      "id": 231
+    },
+    {
+      "attributeId": 4,
+      "characterId": 39,
+      "value": 10,
+      "id": 232
+    },
+    {
+      "attributeId": 5,
+      "characterId": 39,
+      "value": 16,
+      "id": 233
+    },
+    {
+      "attributeId": 6,
+      "characterId": 39,
+      "value": 9,
+      "id": 234
+    },
+    {
+      "attributeId": 1,
+      "characterId": 40,
+      "value": 10,
+      "id": 235
+    },
+    {
+      "attributeId": 2,
+      "characterId": 40,
+      "value": 11,
+      "id": 236
+    },
+    {
+      "attributeId": 3,
+      "characterId": 40,
+      "value": 13,
+      "id": 237
+    },
+    {
+      "attributeId": 4,
+      "characterId": 40,
+      "value": 14,
+      "id": 238
+    },
+    {
+      "attributeId": 5,
+      "characterId": 40,
+      "value": 10,
+      "id": 239
+    },
+    {
+      "attributeId": 6,
+      "characterId": 40,
+      "value": 14,
+      "id": 240
+    },
+    {
+      "attributeId": 1,
+      "characterId": 41,
+      "value": 8,
+      "id": 241
+    },
+    {
+      "attributeId": 5,
+      "characterId": 41,
+      "value": 14,
+      "id": 242
+    },
+    {
+      "attributeId": 2,
+      "characterId": 41,
+      "value": 16,
+      "id": 243
+    },
+    {
+      "attributeId": 3,
+      "characterId": 41,
+      "value": 11,
+      "id": 244
+    },
+    {
+      "attributeId": 4,
+      "characterId": 41,
+      "value": 9,
+      "id": 245
+    },
+    {
+      "attributeId": 6,
+      "characterId": 41,
+      "value": 12,
+      "id": 246
     }
   ]
 }
